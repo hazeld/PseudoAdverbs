@@ -1,0 +1,590 @@
+,Unnamed: 0.1.1.1.1,clip_id,youtube_id,start_time,end_time,split,action,adverb,caption,clustered_action,clustered_adverb
+0,11328,iHto-rgy07o_000009_000019,iHto-rgy07o,9.0,19.0,train,roll,back,A toddler in a living room throws a ball at a man sitting on a couch and the man rolls the ball back towards the toddler.,roll,backwards
+1,10428,5Z-zeWi621Y_000016_000026,5Z-zeWi621Y,16.0,26.0,train,stand,outside,An artist works on a project of his while standing outside,stand,outdoor
+2,41467,M6DKMa8PJPE_000116_000126,M6DKMa8PJPE,116.0,126.0,train,build,outside,A woman picks up snow and continues to build a snowman outside.,make,outdoor
+3,27266,7i_6w1zAfKg_000000_000010,7i_6w1zAfKg,0.0,10.0,train,fold,properly,A boy uses a folding table to properly fold a shirt.,fold,properly
+4,43157,XGRWk-vdGow_000018_000028,XGRWk-vdGow,18.0,28.0,train,speak,loudly,A little boy sweeps a hardwood floor using a mop while speaking loudly.,talk,loudly
+5,4974,87oq9SfLLug_000026_000036,87oq9SfLLug,26.0,36.0,train,use,carefully,A person carefully uses a large flame to blow a small ball of glass.,use,carefully
+6,38167,Bk0i4M38dLk_000257_000267,Bk0i4M38dLk,257.0,267.0,train,lay,neatly,Pavement spacers are demonstrated by someone laying the paving stones neatly.,put,neatly
+7,73239,8HS5Ac_hqPg_000093_000103,8HS5Ac_hqPg,93.0,103.0,train,dance,outdoors,Some adults and a couple of little girls are dancing at night outdoors.,dance,outdoor
+8,12728,Xo4v2mNEl1I_000006_000016,Xo4v2mNEl1I,6.0,16.0,train,cut,carefully,A worker is carefully cutting up some meat and then shows it to the camera.,cut,carefully
+9,42486,K1eeYctPEWg_000000_000010,K1eeYctPEWg,0.0,10.0,train,lay,sideways,A woman is laying sideways on a bed getting her leg oiled and massaged by another woman.,put,horizontally
+10,10681,R1qA-jgFQ5c_000233_000243,R1qA-jgFQ5c,233.0,243.0,train,use,properly,"On a pond, a man holds out his fishing pole and narrates how to properly use it.",use,properly
+11,14826,OAHWyWJmvJI_000030_000040,OAHWyWJmvJI,30.0,40.0,train,climb,inside,A young person practices climbing inside high up on some equipment.,climb,indoor
+12,67162,G-FZvraClGM_000043_000053,G-FZvraClGM,43.0,53.0,train,ski,slowly,A woman is skiing slowly and carefully in a forested area covered in snow,ski,slowly
+13,37988,SJT3X4weECE_000056_000066,SJT3X4weECE,56.0,66.0,train,stack,carefully,"A tractor slowly dumps a pile of bricks, and workers stack them carefully.",stack,carefully
+14,31710,3pUYZna5TF0_000021_000031,3pUYZna5TF0,21.0,31.0,train,skate,backwards,In a ice skating rink a man teaches how to skate backwards,skate,backwards
+15,74061,b164ovilA1Y_000000_000010,b164ovilA1Y,0.0,10.0,train,hold,slightly,During football practice. one male is slightly holding a huge blue cushion while another tackles it to the ground.,hold,partially
+16,53974,c0BhekJzl58_000012_000022,c0BhekJzl58,12.0,22.0,train,play,outside,A line of people playing instruments outside are doing so in their backyard at night.,play,outdoor
+17,2947,5Kh9aIt-nDw_000002_000012,5Kh9aIt-nDw,2.0,12.0,train,move,outdoors,CLose up of tongs moving hot coal bricketts over a firepit or grill outdoors.,move,outdoor
+18,56680,49xqcWMtLRw_000005_000015,49xqcWMtLRw,5.0,15.0,train,play,outside,Outside a couple of kids are playing with a wheelbarrow and one of the boys attempts to make the wheel barrow go off of a ramp.,play,outdoor
+19,85356,LCVg1a7VuIk_001246_001256,LCVg1a7VuIk,1246.0,1256.0,train,weave,carefully,A person is carefully weaving part of a traditional beige basket on top of a table.,weave,carefully
+20,39238,oD32kA4GrGI_000200_000210,oD32kA4GrGI,200.0,210.0,train,open,successfully,A person successfully opens a lock using a lock pick.,open,properly
+21,52536,HQto_szg3nI_000000_000010,HQto_szg3nI,0.0,10.0,train,play,outdoors,A woman playing a wooden pipe outdoors in the cold.,play,outdoor
+22,53870,6aB7leh0ho4_000285_000295,6aB7leh0ho4,285.0,295.0,train,run,up,A group of kids are participating in tennis practice but running up and hitting the ball.,run,upwards
+23,23642,TKJun5w--z0_000021_000031,TKJun5w--z0,21.0,31.0,train,eat,fast,Several men are eating as many hotdogs as fast as they can.,eat,quickly
+24,63370,DdX-W7RCVBY_000018_000028,DdX-W7RCVBY,18.0,28.0,train,eat,sloppily,Someone is filming a small baby sloppily eating some food.,eat,carelessly
+25,85775,sPsB1sndl5I_000021_000031,sPsB1sndl5I,21.0,31.0,train,lean,forward,"A young boy leans forward and blows at the camera, then moves away and returns",tilt,forwards
+26,59363,lc18XzQAitc_000000_000010,lc18XzQAitc,0.0,10.0,train,ride,outside,A man rides a mechanical bull outside and stays on.,ride,outdoor
+27,46763,7YCuLvjgVoQ_000010_000020,7YCuLvjgVoQ,10.0,20.0,train,walk,forward,A white and brown dog slowly walks forward and gets petted.,walk,forwards
+28,4326,1B7v7KBj8CA_000048_000058,1B7v7KBj8CA,48.0,58.0,train,run,quickly,A man has ran up quickly to hold up a piece of metal.,run,quickly
+29,65498,fifsI5TBtfM_000025_000035,fifsI5TBtfM,25.0,35.0,train,shovel,outside,a little boy with a shovel tries to shovel some snow outside,scoop,outdoor
+30,11353,e21mw4oedzw_000140_000150,e21mw4oedzw,140.0,150.0,train,play,properly,"At a baseball field, a catcher is demonstrates how to properly play the position of catcher.",play,properly
+31,14887,AccCaFXZa8c_000006_000016,AccCaFXZa8c,6.0,16.0,train,climb,carefully,A boy carefully climbs and walks upon a large tree.,climb,carefully
+32,29875,iSdqu1NXGMA_000007_000017,iSdqu1NXGMA,7.0,17.0,train,land,perfectly,A boy in a red and white gym suit does continuous flips down a track and lands perfectly on the mat.,land,properly
+33,41482,YwdSv8jFLkM_000061_000071,YwdSv8jFLkM,61.0,71.0,train,play,outside,A man is swinging a wooden bat whilse playing outside in the snow with a child who is kicking at snow on the ground.,play,outdoor
+34,3193,OrtnlwoG39c_000014_000024,OrtnlwoG39c,14.0,24.0,train,glide,back,A parachuter is slowly gliding back to the earth while spinning in one direction.,move,backwards
+35,81958,GD-RAEI7s1o_000124_000134,GD-RAEI7s1o,124.0,134.0,train,play,indoors,A person is seen playing with a sock puppet indoors.,play,indoor
+36,42424,Ux61o1YRImk_000004_000014,Ux61o1YRImk,4.0,14.0,train,push,gently,A person is lying flat on her stomach as another woman gently pushes down on the back of her legs with her hands.,press,gently
+37,16542,ARjlPoijH_s_000000_000010,ARjlPoijH_s,0.0,10.0,train,press,down,A man tells a woman to breathe in and out as he presses down on her spine.,press,downwards
+38,39347,Y7X4-VEWue0_000028_000038,Y7X4-VEWue0,28.0,38.0,train,smile,outdoors,a boy with a red jersey runs and smiles outdoors,smile,outdoor
+39,4099,TCRDSwJWKFQ_000003_000013,TCRDSwJWKFQ,3.0,13.0,train,bend,backward,A bunch of people are standing around and then someone tries to bend backward but does not quite make it.,bend,backwards
+40,52238,bVZ7gySWq7o_000010_000020,bVZ7gySWq7o,10.0,20.0,train,play,outside,An older man is playing music on a piano outside with two women,play,outdoor
+41,33939,fcfLYgMDwn4_000024_000034,fcfLYgMDwn4,24.0,34.0,train,tilt,back,A man is blowing up a balloon with his head tilted back.,tilt,backwards
+42,37750,LKhtbW5q-_c_000182_000192,LKhtbW5q-_c,182.0,192.0,train,play,slowly,A guy is laughing and the video is played slowly so its sounds awkward.,play,slowly
+43,78950,Mf2ow6CnBXc_000016_000026,Mf2ow6CnBXc,16.0,26.0,train,bring,up,A still camera and then someone brings their hand up and makes movement with it.,carry,upwards
+44,53813,BiPEqlFe9uA_000024_000034,BiPEqlFe9uA,24.0,34.0,train,play,vigorously,A female is vigorously playing tennis on a court at night.,play,quickly
+45,63978,-Z_zv-4V1-A_000094_000104,-Z_zv-4V1-A,94.0,104.0,train,sharpen,slowly,A chef slowly and carefully sharpens a kitchen knife on a strop.,sharpen,slowly
+46,55196,KgMaIc5r1Lw_000006_000016,KgMaIc5r1Lw,6.0,16.0,train,pour,quickly,"A special glass stands on the counter, and then someone opens a can of beer and quickly pours it in.",pour,quickly
+47,35957,CgbXcHEt_iE_000000_000010,CgbXcHEt_iE,0.0,10.0,train,swing,suddenly,A person is swinging on a swing and he suddenly swings into a pool,swing,instantly
+48,47725,Bd5YLX83plE_000011_000021,Bd5YLX83plE,11.0,21.0,train,hold,slowly,A male and female ballerina slowly hold out their arms before they spin then stop.,hold,slowly
+49,8977,5me25_luH2Q_000051_000061,5me25_luH2Q,51.0,61.0,train,singe,outside,A woman is holding and playing the guitar while singing outside.,sing,outdoor
+50,17289,2oSnIHMAZWE_000000_000010,2oSnIHMAZWE,0.0,10.0,train,move,slowly,"A young boy sits and looks at the camera, then crosses his eyes, then slowly moves one eye back.",move,slowly
+51,35478,6OKzj8g3XBs_000068_000078,6OKzj8g3XBs,68.0,78.0,train,stand,outside,A man stands outside and juggles balls in the air.,stand,outdoor
+52,77527,eFiZpunL5a8_000000_000010,eFiZpunL5a8,0.0,10.0,train,walk,slowly,A girl in a gymnasium walks slowly across a balance beam.,walk,slowly
+53,70297,y40cKnWqXcU_000001_000011,y40cKnWqXcU,1.0,11.0,train,roll,forward,A young baby rolls forward on the carpet inside of a home.,roll,forwards
+54,40041,Ukh9YYFS-wU_000005_000015,Ukh9YYFS-wU,5.0,15.0,train,lunge,forward,A man lunges forward at an angle as he carries weights in both hands.,lunge,forwards
+55,67883,do9kbd3RMVk_000027_000037,do9kbd3RMVk,27.0,37.0,train,walk,outside,A person is jumping into the air and then another walks a tightrope outside.,walk,outdoor
+56,46146,WJhoWrpQyc4_000012_000022,WJhoWrpQyc4,12.0,22.0,train,weave,in,Several boys are playing football together with an intricate series of passes and movements where they weave in and out.,weave,in
+57,8636,dYNA9i0NAF4_000028_000038,dYNA9i0NAF4,28.0,38.0,train,hang,down,A woman hanging upside down by her feet from a rope.,mount,downwards
+58,65316,VrvMJM-hj24_000002_000012,VrvMJM-hj24,2.0,12.0,train,put,outside,A person winds up and throws a shot put outside.,put,outdoor
+59,8330,JY5HD27FYPA_000048_000058,JY5HD27FYPA,48.0,58.0,train,pile,outside,Two construction vehicles are piling through piles of dirt outside.,stack,outdoor
+60,37930,iWQmKX6fRvM_000000_000010,iWQmKX6fRvM,0.0,10.0,train,lay,properly,a group of men are outside showing how to properly lay bricks.,put,properly
+61,62270,sPYjTvcJp6M_000218_000228,sPYjTvcJp6M,218.0,228.0,train,cook,evenly,An individual with a female voice scraping the sides of a pan to evenly cook food.,cook,evenly
+62,11088,xbwxysJ8Cjs_000015_000025,xbwxysJ8Cjs,15.0,25.0,train,throw,back,A young girl in a red shirt throws a yellow frisbee and then it is thrown back to her.,throw,backwards
+63,70484,9iY-qqEFowo_000027_000037,9iY-qqEFowo,27.0,37.0,train,spin,quickly,"In the dark, a woman fire dancer is quickly spinning fire balls with her arms.",turn,quickly
+64,52073,11A1VKi96NY_000001_000011,11A1VKi96NY,1.0,11.0,train,throw,quickly,A group of girls are quickly throwing a ball to one another while moving around.,throw,quickly
+65,80359,4785mshVbJ0_000028_000038,4785mshVbJ0,28.0,38.0,train,run,up,Two guys trying to unload a large box off a truck and it starts to fall and a third man runs up to try to help.,run,upwards
+66,70448,DFFVbf77Xwk_000111_000121,DFFVbf77Xwk,111.0,121.0,train,swim,out,"A snorkeler swims out from a cave, pauses, lifts their face mask and waves their fingers.",swim,out
+67,71979,zdtA3Hnlkb8_000019_000029,zdtA3Hnlkb8,19.0,29.0,train,hold,out,A person holds their arms straight out in front of them and uses one hand to pull the other wrist.,hold,out
+68,45114,p9NPn6oSUJc_000005_000015,p9NPn6oSUJc,5.0,15.0,train,turn,quickly,a man puts a cork into a bottle and turns it very quickly,turn,quickly
+69,82166,rJkC2kg8JZM_000035_000045,rJkC2kg8JZM,35.0,45.0,train,roll,outside,a girl rolls around outside with a helmet on her head,roll,outdoor
+70,60641,YD6QVsxpIUk_000042_000052,YD6QVsxpIUk,42.0,52.0,train,move,slowly,Outside a mime is moving slowly and doing dance moves.,move,slowly
+71,11730,jXsvmEx-h4U_000193_000203,jXsvmEx-h4U,193.0,203.0,train,put,on,A man is taking some wires coming from a gear shifter and putting them back on.,put,on
+72,73852,4AsWlBRzJV4_000383_000393,4AsWlBRzJV4,383.0,393.0,train,use,skillfully,A man skillfully using knife demonstration to thrill his audience,use,properly
+73,47901,XUBFQpNAluc_000110_000120,XUBFQpNAluc,110.0,120.0,train,pass,slowly,A man is slowly passing a piece of wood through one half of a vice grip for no apparent reason but as if to level it off.,pass,slowly
+74,1217,it-IIR-qUIg_000150_000160,it-IIR-qUIg,150.0,160.0,train,play,inside,A group of people play an archery game inside against each other.,play,indoor
+75,83737,8TwvqsNgQwY_000060_000070,8TwvqsNgQwY,60.0,70.0,train,walk,forward,"Religious leader walks forward in gold-threaded robe, bends at ceremonial container and dips ornate scepter.",walk,forwards
+76,74786,YJblzqtMynQ_000000_000010,YJblzqtMynQ,0.0,10.0,train,play,poorly,A man sits and plays poorly on a guitar while a high pitched humming noise is heard in the background,play,improperly
+77,23669,gDKCNIBy9Vg_000124_000134,gDKCNIBy9Vg,124.0,134.0,train,eat,fast,A man is shown at a radio station eating hotdogs as fast as he can.,eat,quickly
+78,71862,NLz8TGSIilQ_000015_000025,NLz8TGSIilQ,15.0,25.0,train,raise,up,A person is raising their hands up and over their head stretching.,raise,upwards
+79,67537,SPjp4Kf0Ue0_000042_000052,SPjp4Kf0Ue0,42.0,52.0,train,skip,outside,A young man skips a rock outside on the lake that is nearby.,jump,outdoor
+80,75871,Pze32jdRsVc_000013_000023,Pze32jdRsVc,13.0,23.0,train,throw,outdoors,Two men take turns throwing an ax at a tree outdoors.,throw,outdoor
+81,27125,xFfuQPo-K6U_000000_000010,xFfuQPo-K6U,0.0,10.0,train,laugh,loud,A child walks onto a field and then turns around laughing out loud.,laugh,loudly
+82,49900,vsytAqlmRUA_000002_000012,vsytAqlmRUA,2.0,12.0,train,blow,continuously,A man blows continuously into a large and long wooden instrument.,breathe,continuously
+83,27815,HA0DKvdWLws_000296_000306,HA0DKvdWLws,296.0,306.0,train,fold,neatly,A man is folding a piece of crumpled up paper neatly.,fold,neatly
+84,84853,jQ6nvYwzVaU_000039_000049,jQ6nvYwzVaU,39.0,49.0,train,peel,back,People watching as one individual peels of a strip from another person back while laughing.,peel,backwards
+85,82955,NWKMZK9Pjpo_000133_000143,NWKMZK9Pjpo,133.0,143.0,train,move,slowly,"A group of people are lined up and moving slowly forward, while music is playing in the background.",move,slowly
+86,80093,rAWdcGVhYcs_000012_000022,rAWdcGVhYcs,12.0,22.0,train,lace,fully,Someone is demonstrating a certain style of putting laces on a shoe while the other shoe rests on one side fully laced.,weave,completely
+87,76657,h91tq3vUNj0_000010_000020,h91tq3vUNj0,10.0,20.0,train,play,outside,many different kids play outside with the snow on the ground,play,outdoor
+88,58018,IZGDJppe8F0_000197_000207,IZGDJppe8F0,197.0,207.0,train,put,outside,A lady with black top is showing how to put the wrap skirt on outside on the grass,put,outdoor
+89,82176,ddd4tcy6Plo_000032_000042,ddd4tcy6Plo,32.0,42.0,train,ride,slowly,A group of people slowly ride segways in a parking lot on a sunny day,ride,slowly
+90,795,5lhWPWS_Jls_000000_000010,5lhWPWS_Jls,0.0,10.0,train,look,down,"Woman claps with hands crossed then with hands upright, as she smiles and then looks down.",look,downwards
+91,15887,bjizjWUxyto_000004_000014,bjizjWUxyto,4.0,14.0,train,cook,properly,A person showing how to properly cook sausages on an outdoor grill.,cook,properly
+92,28477,fqeHoIQZ1k0_000002_000012,fqeHoIQZ1k0,2.0,12.0,train,look,down,a person getting a back tattoo done while looking down as it is happening,look,downwards
+93,29437,b5l7QT7dtmA_000015_000025,b5l7QT7dtmA,15.0,25.0,train,clap,inside,A woman is sanding and others are clapping inside of a church.,clap,indoor
+94,60378,mrbVY6jQp1k_000000_000010,mrbVY6jQp1k,0.0,10.0,train,hold,outside,A young man holding a large log over an open fire at night outside.,hold,outdoor
+95,22477,_i7h9py1DEg_000033_000043,_i7h9py1DEg,33.0,43.0,train,clap,constantly,A man is sitting at a desk and constantly clapping his hands,clap,continuously
+96,5434,-ocHYDhuiW0_000002_000012,-ocHYDhuiW0,2.0,12.0,train,push,outside,"Outside, a man pushes a child in a sled down a pre-made track in the snow.",press,outdoor
+97,75776,nlOMflaxUCw_000005_000015,nlOMflaxUCw,5.0,15.0,train,load,properly,A women tells and shows us how to properly load up a sewing machine.,fill,properly
+98,15,yCKjqYxQn0E_000261_000271,yCKjqYxQn0E,261.0,271.0,train,smile,up,"A man abseils down a cliff, smiling back up at the camera.",smile,upwards
+99,24078,JzaF1iIWxHo_000003_000013,JzaF1iIWxHo,3.0,13.0,train,hide,outside,People are hiding Easter eggs outside while their kids wait to find them.,cover,outdoor
+100,72124,3sc7PXuzuI4_000001_000011,3sc7PXuzuI4,1.0,11.0,train,stand,outside,A person is standing outside holding a railing while stretching their leg by swinging it back and forth from side to side.,stand,outdoor
+101,55944,HXi3WMqEaMU_000006_000016,HXi3WMqEaMU,6.0,16.0,train,move,slowly,A man pumping gas shows how slowly gas is moving by observing the slow movement of the meter.,move,slowly
+102,29581,FaM9bZRznFM_000016_000026,FaM9bZRznFM,16.0,26.0,train,whine,loudly,A dog whines loudly as a lady grooms him and another woman talks to it.,talk,loudly
+103,32791,AZGeepWoMVc_000000_000010,AZGeepWoMVc,0.0,10.0,train,run,up,A woman is alone on stage with instruments in the background when another woman runs up to hug her and they laugh.,run,upwards
+104,31755,9dUkIbsOEAM_000007_000017,9dUkIbsOEAM,7.0,17.0,train,skate,outdoors,A man is ice skating outdoors and turns before coming to a stop suddenly by scraping his skates across the ice.,skate,outdoor
+105,42612,wFEkOYlLOaE_000085_000095,wFEkOYlLOaE,85.0,95.0,train,touch,back,A man is touching a man's bear back and describing parts of the back.,touch,backwards
+106,36029,X4RbXGv2Uo4_000038_000048,X4RbXGv2Uo4,38.0,48.0,train,jump,in,Two boys are bent over the side of a pool as another boy throws a ball and then they fall into the pool as the other boy jumps in.,jump,in
+107,7010,vCv58PpEGj8_000000_000010,vCv58PpEGj8,0.0,10.0,train,break,successfully,A man successfully breaks the wooden board in a karate demonstration.,separate,properly
+108,25691,5JZdBsJ7P-s_000011_000021,5JZdBsJ7P-s,11.0,21.0,train,reach,out,A man is underwater with a snorkel while attempting to reach out and touch the fish.,extend,out
+109,39,Zv09PB3YQAs_000010_000020,Zv09PB3YQAs,10.0,20.0,train,descend,slowly,A person is rock climbing and slowly descending on a safety harness back down the mountain.,lower,slowly
+110,64118,xORxTHbNLuQ_000007_000017,xORxTHbNLuQ,7.0,17.0,train,sharpen,quickly,A man making a skit about how quickly a pencil is sharpened,sharpen,quickly
+111,25435,1EAgH1MURnM_000000_000010,1EAgH1MURnM,0.0,10.0,train,lean,back,"A person is leaning back in a reclining chair, and another person comes over and tips him backwards.",tilt,backwards
+112,83863,2vxXAmap6GU_000018_000028,2vxXAmap6GU,18.0,28.0,train,wash,thoroughly,A boy is washing his hands thoroughly with soap and water.,wash,completely
+113,55433,xSsCC97n6-Y_000140_000150,xSsCC97n6-Y,140.0,150.0,train,look,forward,A young woman standing in front of a map is talking while looking forward and back to the map,look,forwards
+114,9336,4FePRbPdgUE_000031_000041,4FePRbPdgUE,31.0,41.0,train,glide,gently,Several canoes are gently gliding over peaceful water while music plays.,move,gently
+115,68916,Ereqjz_VRQw_000000_000010,Ereqjz_VRQw,0.0,10.0,train,sit,outside,A man sits outside in front of a building while smoking a pipe.,sit,outdoor
+116,31824,gjUkPLqJ7JE_000007_000017,gjUkPLqJ7JE,7.0,17.0,train,stop,suddenly,"At an indoor roller skating rink, a male comes flying along in his roller skates then stops suddenly.",stop,instantly
+117,68517,BE_ouMBX6Qk_000013_000023,BE_ouMBX6Qk,13.0,23.0,train,stand,outside,Two guys standing outside then one hits the other with a guitar,stand,outdoor
+118,12710,EXzy004MYIE_000000_000010,EXzy004MYIE,0.0,10.0,train,clean,outside,Outside someone cleans a grill then cooks meat on it.,wash,outdoor
+119,66574,5BoWE236vH4_000000_000010,5BoWE236vH4,0.0,10.0,train,pull,halfway,In a gym a man is doing out ups with his legs halfway pulled in,pull,partially
+120,30290,Xes_5uf_9Ro_000104_000114,Xes_5uf_9Ro,104.0,114.0,train,wash,properly,A woman explains the process to properly wash clothes manually.,wash,properly
+121,42319,BCgFPj0lLFg_000095_000105,BCgFPj0lLFg,95.0,105.0,train,push,hard,A man uses his thumb to push hard on the bottom of a person's foot he is massaging.,press,firmly
+122,29028,1n7tJgJLvcU_000128_000138,1n7tJgJLvcU,128.0,138.0,train,drive,properly,Man in a gold uniform showing how to properly drive a golf ball down the range.,drive,properly
+123,11492,db8Kwourxn0_000036_000046,db8Kwourxn0,36.0,46.0,train,look,forward,A crowd is going wild and got out their cell phones while looking forward to something,look,forwards
+124,76475,dcouG63-zgs_000013_000023,dcouG63-zgs,13.0,23.0,train,stand,sideways,A young man standing sideways throwing knives at a wooden target on a tree.,stand,horizontally
+125,55930,acvKJ4jkwo0_000002_000012,acvKJ4jkwo0,2.0,12.0,train,pump,slowly,Gas is slowly being pumped into a red car at a gas station.,pump,slowly
+126,2944,IawxBPXula0_000175_000185,IawxBPXula0,175.0,185.0,train,apply,outside,A person is grilling some ribs on the grill and applying sauce outside.,spread,outdoor
+127,72700,bA2rzUIQKTk_000020_000030,bA2rzUIQKTk,20.0,30.0,train,sweep,properly,A toddler is attempting to learn how to properly sweep a floor with a broom.,brush,properly
+128,7978,G0CV0-Rrdcs_000072_000082,G0CV0-Rrdcs,72.0,82.0,train,kayak,up,"Someone kayaks up to a beach and then a  small child and man play in sand, while music plays.",paddle,upwards
+129,3875,_usikou9Muc_000031_000041,_usikou9Muc,31.0,41.0,train,dance,outdoors,three people are dancing a live music event outdoors.,dance,outdoor
+130,82701,sagEae1DrCs_000000_000010,sagEae1DrCs,0.0,10.0,train,move,cautiously,Two men cautiously move an ATV through thick brown mud,move,carefully
+131,70486,nLzHQQVclQk_000008_000018,nLzHQQVclQk,8.0,18.0,train,juggle,outside,A man practices juggling live fire outside in his yard next to a tree.,juggle,outdoor
+132,17463,YlByH0-qRLM_000017_000027,YlByH0-qRLM,17.0,27.0,train,sit,on,He is sitting on a rock pile in a river with waiters on,sit,on
+133,83487,zVUyGUWc1xw_000033_000043,zVUyGUWc1xw,33.0,43.0,train,walk,outside,A man in a thick coat is shown walking outside down the road in the falling snow.,walk,outdoor
+134,3486,_55umjahEOc_000000_000010,_55umjahEOc,0.0,10.0,train,move,fast,A man is holding two ropes and he is moving them up then down really fast and side to side.,move,quickly
+135,38253,PBNsOfgBmNc_000065_000075,PBNsOfgBmNc,65.0,75.0,train,lift,gently,"A man gently lifts block molds out of set concrete, leaving the stones embedded in the ground.",raise,gently
+136,14084,u26Og_qW-Uc_000082_000092,u26Og_qW-Uc,82.0,92.0,train,extend,forward,A person makes a repeated circular motion on the surface of a cream container and extends his shoe forward.,extend,forwards
+137,27117,l7udNetFnAM_000003_000013,l7udNetFnAM,3.0,13.0,train,drift,upwards,A blue kite with a red tail slowly and gently drifts upwards in the breeze.,move,upwards
+138,16580,2-vmqiRzJlg_000025_000035,2-vmqiRzJlg,25.0,35.0,train,breathe,in,A girl lies on her stomach on the floor and breathes in and out while another girls applies pressure to her back and spine.,breathe,in
+139,78678,GQ-hPUp__3I_000001_000011,GQ-hPUp__3I,1.0,11.0,train,run,fast,An individual runs fast and jumps as far as possible during an event.,run,quickly
+140,43364,ttnIqyWNsb0_000015_000025,ttnIqyWNsb0,15.0,25.0,train,swinge,violently,A man is in a room and swinging his arms violently looking like he's fighting.,swing,gently
+141,68929,BUeAtLmFYBU_000072_000082,BUeAtLmFYBU,72.0,82.0,train,smoke,gently,A young man is gently smoking from a pipe outside.,smoke,gently
+142,15246,NeKX8npjQMY_000043_000053,NeKX8npjQMY,43.0,53.0,train,hold,outdoors,A man is demostrating a magic performance by holding a crystal ball outdoors.,hold,outdoor
+143,25340,EI6o1zKP7Dg_000000_000010,EI6o1zKP7Dg,0.0,10.0,train,fall,backwards,Some children are laughing as a child sits in a chair that falls backwards.,fall,backwards
+144,13140,lIhsD7sy9B8_000000_000010,lIhsD7sy9B8,0.0,10.0,train,chop,outdoors,A man attempts to chop a log outdoors with his axe when the axe head breaks off and lodges into the log.,cut,outdoor
+145,81681,53P0-ZQbD-s_000020_000030,53P0-ZQbD-s,20.0,30.0,train,cut,partially,A man cuts partially through a post with several saws then cuts all the way through with a different saw,cut,partially
+146,74521,mQwasbmfWBE_000012_000022,mQwasbmfWBE,12.0,22.0,train,dance,inside,Two women are dancing together inside while laughing.,dance,indoor
+147,37436,CQfl-rHZrm4_000045_000055,CQfl-rHZrm4,45.0,55.0,train,wiggle,up,A man bends down and back up wiggles his arms and legs in dance moves.,shake,upwards
+148,7752,ZA7ZJIPDbjo_000262_000272,ZA7ZJIPDbjo,262.0,272.0,train,cut,outdoors,a person checking out a piece of wood and cutting with a table saw outdoors,cut,outdoor
+149,74340,e9pYkM68wmA_000042_000052,e9pYkM68wmA,42.0,52.0,train,sit,indoors,A young girl sits indoors and talks on a cell phone.,sit,indoor
+150,46492,5JM8eANC6y4_000000_000010,5JM8eANC6y4,0.0,10.0,train,peel,fast,Man grabbing a potato and then peeling it as fast as he can over a trashcan.,peel,quickly
+151,76319,OafjzzoKir0_000003_000013,OafjzzoKir0,3.0,13.0,train,twirl,quickly,"A man twirls around quickly with a shot put, letting it go when he stops twirling.",turn,quickly
+152,35635,uG60fDKI01M_000050_000060,uG60fDKI01M,50.0,60.0,train,kick,inside,A young boy is juggling a soccer ball by kicking it inside of a house.,kick,indoor
+153,85666,vsVNo9sY4Ko_000007_000017,vsVNo9sY4Ko,7.0,17.0,train,whistle,indoors,A young child with wild hair whistling different notes indoors,sing,indoor
+154,23830,uBb4-NZZQCs_000000_000010,uBb4-NZZQCs,0.0,10.0,train,eat,messily,A young girl messily eats a large bowl of spaghetti.,eat,messily
+155,77197,garE9s-yKkY_000000_000010,garE9s-yKkY,0.0,10.0,train,sit,outside,A boy and girl begin to tie-die shirts while sitting outside.,sit,outdoor
+156,37865,2-G_LRJvfOA_000008_000018,2-G_LRJvfOA,8.0,18.0,train,ride,outdoors,Contestants ride tractor-like machines outdoors through a dusty tire-lined path.,ride,outdoor
+157,14393,tRUMFWuAZt8_000069_000079,tRUMFWuAZt8,69.0,79.0,train,paint,outdoors,A man paints the window sill outdoors of a nook.,spread,outdoor
+158,66783,jMwdQQDH6-w_000004_000014,jMwdQQDH6-w,4.0,14.0,train,tumble,almost,A skier takes a jump and almost tumbles while being recorded by someone.,fall,partially
+159,4548,QTuSXrQbLzA_000059_000069,QTuSXrQbLzA,59.0,69.0,train,bike,slowly,Music is playing as a guy slowly bikes through a snow covered forest.,pedal,slowly
+160,18459,Kai_0gzSopg_000048_000058,Kai_0gzSopg,48.0,58.0,train,peel,carefully,The boy is carefully peeling an orange by just using one hand.,peel,carefully
+161,9154,ADDoiUfvIxk_000104_000114,ADDoiUfvIxk,104.0,114.0,train,write,neatly,A person neatly writes words with a ball point pen,draw,neatly
+162,83227,eIFpT0UDNG0_000026_000036,eIFpT0UDNG0,26.0,36.0,train,play,quietly,"A child, together with mom and dad is playing quietly in the living room.",play,quietly
+163,74213,TVssL7IWeIA_000030_000040,TVssL7IWeIA,30.0,40.0,train,push,forward,A man kneels down and pushes his arms forward in a karate move.,press,forwards
+164,81706,wwjPC2EHWoY_000004_000014,wwjPC2EHWoY,4.0,14.0,train,count,upwards,The man is holding a device over the baby's mouth and nose while counting upwards to ten.,count,upwards
+165,64567,7SWyeYLHSEU_000190_000200,7SWyeYLHSEU,190.0,200.0,train,hold,up,A person holds a see through flashlight up to a device,hold,upwards
+166,27075,B6GpCEfEwJU_000077_000087,B6GpCEfEwJU,77.0,87.0,train,stand,outside,A guy standing outside next to his little kid and she walks away,stand,outdoor
+167,82454,NpuYu_g84CI_000000_000010,NpuYu_g84CI,0.0,10.0,train,vacuum,slowly,Someone vacuums their carpet slowly at home; their carpet a dizzying array of lines.,wash,slowly
+168,16022,-Qcle1SI8_c_000109_000119,-Qcle1SI8_c,109.0,119.0,train,cook,correctly,A chef shows how to correctly cook a scallop in a pan.,cook,properly
+169,37731,yemHkmhVFqM_000001_000011,yemHkmhVFqM,1.0,11.0,train,throw,back,A teenager laughs at something on her phone as her mouth splits grotesquely wider and her jaws separate as her head is thrown back.,throw,backwards
+170,74180,mgiM72pnseY_000139_000149,mgiM72pnseY,139.0,149.0,train,dance,slowly,A large group of people are on a stage dressed in white suits dancing slowly to music.,dance,slowly
+171,59482,gi-RZ_7fdw4_000015_000025,gi-RZ_7fdw4,15.0,25.0,train,walk,slowly,"Many people are sitting still or slowly walking on burros and the voice over says ""pick up your poop"".",walk,slowly
+172,74432,_26z4xOGd_4_000019_000029,_26z4xOGd_4,19.0,29.0,train,stand,outside,A man standing outside with a helmet on talking on his cell phone.,stand,outdoor
+173,50535,sYDsai4By_c_000031_000041,sYDsai4By_c,31.0,41.0,train,hit,gently,A man gently hits a gong and then hits the chimes under the gong.,hit,gently
+174,65395,M3hUyXnVsus_000000_000010,M3hUyXnVsus,0.0,10.0,train,jump,backwards,"Athlete bends at waist and knees, jumps backwards, turns around, yells, and throws shot-put ball.",jump,backwards
+175,48106,qDMKH1fGGDw_000087_000097,qDMKH1fGGDw,87.0,97.0,train,move,outside,A woman is moving around outside planting small pine trees.,move,outdoor
+176,84048,633prnX1YHA_000000_000010,633prnX1YHA,0.0,10.0,train,use,thoroughly,A person is washing her hands using a lotion in a sink thoroughly,use,completely
+177,30935,NFXYEiGZoTg_000004_000014,NFXYEiGZoTg,4.0,14.0,train,stand,off,A man is standing outside a bar at night and bangs his head against a fence then another man walks up and then two women are standing off to the side talking to them.,stand,off
+178,77481,K6TguIdWv6g_000005_000015,K6TguIdWv6g,5.0,15.0,train,talk,loudly,A man is walking through a tulip field while talking loudly.,talk,loudly
+179,31153,bNeM5wPAogQ_000000_000010,bNeM5wPAogQ,0.0,10.0,train,jump,sideways,A kid runs and jumps sideways to clear a highjump.,jump,horizontally
+180,46006,YpfaQyFZo30_000058_000068,YpfaQyFZo30,58.0,68.0,train,kick,outside,Outside a guy and a little boy are kicking a soccer ball back and forth.,kick,outdoor
+181,47092,VitnBAQBNzk_000000_000010,VitnBAQBNzk,0.0,10.0,train,run,in,A young man getting his picture taken with 5 other ladies why another young man runs in to photo bomb them.,run,in
+182,5047,6orHWAYZ8T4_000020_000030,6orHWAYZ8T4,20.0,30.0,train,use,outside,A guy using a leaf blower outside to blow leaves to one side while wearing protective gear.,use,outdoor
+183,58592,bUuPaeYsv2o_000012_000022,bUuPaeYsv2o,12.0,22.0,train,play,outside,A baby is playing with a newspaper outside while her parents try to get her to high five.,play,outdoor
+184,68748,w_d-6VB7rgo_000065_000075,w_d-6VB7rgo,65.0,75.0,train,smoke,properly,a young girl is showing how to inhale and properly smoke hookah,smoke,properly
+185,15392,jOdJL2aB7oM_000000_000010,jOdJL2aB7oM,0.0,10.0,train,fit,inside,A man is attempting to contort his body to fit inside of small glass cube.,fill,indoor
+186,58324,0JGje3nhjxM_000000_000010,0JGje3nhjxM,0.0,10.0,train,pull,back,A young woman pulls her hair bangs back and then let them fall in place three separate times.,pull,backwards
+187,23369,-AhebSCahUM_000462_000472,-AhebSCahUM,462.0,472.0,train,cover,partially,"A girl sitting on the floor partially covered by a blanket has a cockatiel sitting on her forearm, she cleans up some crumbs, picks up a chip and the cockatiel approaches the chip.",cover,partially
+188,57398,5oklpQLhZqY_000045_000055,5oklpQLhZqY,45.0,55.0,train,apply,softly,A makeup artist is softly applying make up on another woman.,spread,gently
+189,31197,iZJjEkA_C_k_000000_000010,iZJjEkA_C_k,0.0,10.0,train,run,fast,A man runs fast and does a high jump onto a padded landing.,run,quickly
+190,77498,nxA7Evl0Ww8_000005_000015,nxA7Evl0Ww8,5.0,15.0,train,walk,slowly,A person in shorts is slowly walking backward while going barefoot.,walk,slowly
+191,12038,-CUcALZfNIA_000017_000027,-CUcALZfNIA,17.0,27.0,train,stumble,backwards,"A woman struggles to change her tire alongside a busy roadway before stumbling backwards, falling over the safety barrier and landing in a truck's bed after a long freefall.",walk,backwards
+192,59691,xeXudnKiduI_000420_000430,xeXudnKiduI,420.0,430.0,train,walk,slowly,A forest with a girl riding on the horse is speaking and the horse is walking slowly,walk,slowly
+193,51087,1z1HDy2-jQw_000002_000012,1z1HDy2-jQw,2.0,12.0,train,skate,forward,A boy on a frozen pond skates forward in slow motion.,skate,forwards
+194,52870,N5KRZRIPx5w_000027_000037,N5KRZRIPx5w,27.0,37.0,train,play,outside,two teens playing ping pong outside as two younger boys watch,play,outdoor
+195,25264,qZNHx23No8U_000000_000010,qZNHx23No8U,0.0,10.0,train,lean,back,"A young boy leans back in a chair, then falls over, whist someone is encouraging him.",tilt,backwards
+196,7287,TfWXa5AKqmM_000036_000046,TfWXa5AKqmM,36.0,46.0,train,decorate,out,Someone out of shot is decorating a piece of paper for an art project.,decorate,out
+197,14576,6QDQrdZ36D0_000033_000043,6QDQrdZ36D0,33.0,43.0,train,climb,down,A young boy in a karate outfit climbs down from a thick hanging rope which is attached to the ceiling.,climb,downwards
+198,49780,eYmc6NfFDNs_000040_000050,eYmc6NfFDNs,40.0,50.0,train,throw,outside,A teen boy throws a yellow dart at a dart board outside.,throw,outdoor
+199,60202,afzbRdkw7fE_000036_000046,afzbRdkw7fE,36.0,46.0,train,ride,successfully,A child successfully rides a unicycle down the street.,ride,properly
+200,47523,IN2FbKz0u5k_000047_000057,IN2FbKz0u5k,47.0,57.0,train,fight,inside,"Inside of a home, two girls playfully pillow fight with each other and giggle.",fight,indoor
+201,53748,-cIFpF1gGbE_000013_000023,-cIFpF1gGbE,13.0,23.0,train,hit,softly,An adult male attempts to hit a tennis ball softly over the net to a child and he hits the net.,hit,gently
+202,16703,sgLuWe0f_AM_000001_000011,sgLuWe0f_AM,1.0,11.0,train,crack,purposely,The woman is purposely cracking her knuckles one by one.,separate,purposefully
+203,5896,QDSPtqQUrvc_000000_000010,QDSPtqQUrvc,0.0,10.0,train,slide,down,A person slides down bottles of wine on a conveyor system while music is playing.,move,downwards
+204,7754,ZA7ZJIPDbjo_000262_000272,ZA7ZJIPDbjo,262.0,272.0,train,place,outdoor,Some built  equipment were placed outdoor and a person was working on them,put,outdoor
+205,11336,7ldeHo__2Cc_000000_000010,7ldeHo__2Cc,0.0,10.0,train,throw,back,"A girl pitches a softball, the batter does not hit it, then the catcher throws the softball back to the pitcher.",throw,backwards
+206,80171,i8dELnCIfac_000112_000122,i8dELnCIfac,112.0,122.0,train,tie,successfully,"A child successfully ties a laced shoe, then unties the shoe.",secure,properly
+207,24704,INWJN49M-xU_000003_000013,INWJN49M-xU,3.0,13.0,train,run,outside,"A young man takes off running outside, jumps over some railing and falls to the grass.",run,outdoor
+208,4413,KwgkeS1sPzA_000010_000020,KwgkeS1sPzA,10.0,20.0,train,put,slowly,A steel bar is inside an apparatus and it slowly puts a bend in the metal.,put,slowly
+209,26405,V1mUdPsWOuY_000171_000181,V1mUdPsWOuY,171.0,181.0,train,stand,outside,"A person is standing outside, putting a tire on a bicycle.",stand,outdoor
+210,58585,tqYnx9DfMdw_000006_000016,tqYnx9DfMdw,6.0,16.0,train,speak,loudly,A baby sit on the floor and speaks loudly as it plays with a newspaper.,talk,loudly
+211,34661,2Jk6XJlw8VY_000000_000010,2Jk6XJlw8VY,0.0,10.0,train,throw,delicately,A man slowly jogs across a field and delicately throws a javelin.,throw,gently
+212,61894,h9Q8pl4oQLg_000016_000026,h9Q8pl4oQLg,16.0,26.0,train,pull,backwards,A young man is using a belt floor sander on a hardwood floor while pulling it backwards.,pull,backwards
+213,68318,lLLK56Xu0ds_000000_000010,lLLK56Xu0ds,0.0,10.0,train,fall,immediately,A baby bounces in a slinging device and immediately falls asleep.,fall,instantly
+214,2406,OD0es7hym3M_000000_000010,OD0es7hym3M,0.0,10.0,train,stand,back,A small child runs across the screen in the background while a teen does a standing back flip,stand,backwards
+215,8439,x742RioMb6U_000000_000010,x742RioMb6U,0.0,10.0,train,ride,backwards,A person is riding a plow truck backwards on a muddy surface.,ride,backwards
+216,72799,_9JpiZ5gHvA_000050_000060,_9JpiZ5gHvA,50.0,60.0,train,swim,fast,"A group of young men compete in a swimming competition, they swim as fast as they can in a swimming pool.",swim,quickly
+217,8305,1pvRxOnYi7U_000203_000213,1pvRxOnYi7U,203.0,213.0,train,drive,forward,A digger is driving forward to scoop all the rubbish on the floor beside a warehouse,drive,forwards
+218,60642,YD6QVsxpIUk_000042_000052,YD6QVsxpIUk,42.0,52.0,train,dance,outside,A man is dancing to music outside while wearing a mask.,dance,outdoor
+219,11316,VODyHCZEGLI_000084_000094,VODyHCZEGLI,84.0,94.0,train,stand,outside,A girl stands outside and swings a baseball bat at balls that are being gently thrown to her,stand,outdoor
+220,60097,PBQt5XDx4Vo_000022_000032,PBQt5XDx4Vo,22.0,32.0,train,ride,outdoors,A young man rides his unicycle outdoors by himself in a traffic circle.,ride,outdoor
+221,45634,o17r3sBs22E_000033_000043,o17r3sBs22E,33.0,43.0,train,jump,outside,Outside a man jumps over a sidewalk then climbs a pole.,jump,outdoor
+222,9348,1tuNr4Th22I_000055_000065,1tuNr4Th22I,55.0,65.0,train,stick,backwards,A man is stuck backwards in a kayak over rapid river water.,stick,backwards
+223,58054,Tgkakh0iXrU_000026_000036,Tgkakh0iXrU,26.0,36.0,train,put,slowly,A little boy sits on his bed and slowly puts on his shoes.,put,slowly
+224,17434,0Pv1zA8r9DE_000002_000012,0Pv1zA8r9DE,2.0,12.0,train,walk,outside,"While outside walking a dog, a female decides to cross a river on the stones but she misses a stone and steps into the water.",walk,outdoor
+225,14566,mBKGm6cVD0o_000002_000012,mBKGm6cVD0o,2.0,12.0,train,pull,quickly,A man is in a gym pulling his boy up quickly up a rope.,pull,quickly
+226,67190,nbHzGXAFJSM_000166_000176,nbHzGXAFJSM,166.0,176.0,train,ski,fast,Someone is skiing very fast down a snow covered path.,ski,quickly
+227,69940,-yEW1Xvb82w_000064_000074,-yEW1Xvb82w,64.0,74.0,train,slip,slightly,A man skeing on the snow in the long distance and slipped slightly,move,partially
+228,38809,eQU97lupjHo_000400_000410,eQU97lupjHo,400.0,410.0,train,adjust,back,A lady in a home office puts a cap on her head and then adjusts the cap back.,adjust,backwards
+229,20083,EC8iyn_q-NM_000326_000336,EC8iyn_q-NM,326.0,336.0,train,throw,in,The view from the disc golf basket as a disc is thrown in.,throw,in
+230,78604,3hDqiiKoCIc_000198_000208,3hDqiiKoCIc,198.0,208.0,train,climb,down,A man on a ladder is trimming tall hedges then climbs down and climbs up a second ladder he brings and continues cutting then climbs down again.,climb,downwards
+231,1661,HvSwLk3jmSA_000037_000047,HvSwLk3jmSA,37.0,47.0,train,assemble,gingerly,"A florist gingerly assembles a variety of flowers and leaves, they look beautiful.",make,carefully
+232,70403,v0CrdGSgP0Q_000017_000027,v0CrdGSgP0Q,17.0,27.0,train,walk,quickly,Several people walk quickly in a line through a dim cavern.,walk,quickly
+233,33144,1ZP9LHPTwwg_000012_000022,1ZP9LHPTwwg,12.0,22.0,train,run,outside,At a kid's track meet outside a group of competitors run a hurdle race as the crowd cheers.,run,outdoor
+234,49969,hClw2AWXgxY_000032_000042,hClw2AWXgxY,32.0,42.0,train,fall,slowly,A hand pushes a domino and they all slowly fall onto the table.,fall,slowly
+235,7618,hMu1AqRYMG8_000041_000051,hMu1AqRYMG8,41.0,51.0,train,put,on,A man is putting the back of a shelf on with a hydraulic nail gun.,put,on
+236,67662,dV8JmKwDUzM_000109_000119,dV8JmKwDUzM,109.0,119.0,train,glide,down,Two adults are skydiving and opening their parachutes and gliding down.,move,downwards
+237,42394,81qOPsJ5bQc_000276_000286,81qOPsJ5bQc,276.0,286.0,train,massage,gently,An woman is gently massaging a leg of another woman.,knead,gently
+238,31288,oah6SJdIcog_000001_000011,oah6SJdIcog,1.0,11.0,train,kick,up,A woman dressed in fitness atire is kicking her knees high up in the air and then kicks her legs like she is running behind her.,kick,upwards
+239,13132,ZLCntgQ9KHc_000002_000012,ZLCntgQ9KHc,2.0,12.0,train,chop,outdoors,A man chops wood pieces outdoors with an axe while taunted by a child.,cut,outdoor
+240,37304,mAbQBmcYJkk_000042_000052,mAbQBmcYJkk,42.0,52.0,train,climb,down,"A lovebird sits and swings round on a knitting needle while a woman knits, then climbs down and starts biting the finished knitting.",climb,downwards
+241,49624,jXn3W0t9Oro_000022_000032,jXn3W0t9Oro,22.0,32.0,train,play,lightly,A man or a woman is playing the drums very lightly with a drum stick,play,gently
+242,68153,Nu3ya30pu5o_000000_000010,Nu3ya30pu5o,0.0,10.0,train,slap,suddenly,The boys are playing when one suddenly slaps the other on his left cheek.,hit,instantly
+243,31758,bfYS6Lihpm4_000113_000123,bfYS6Lihpm4,113.0,123.0,train,move,fast,A person is wearing inline skates and is moving fast across a field.,move,quickly
+244,3904,U0z2NCWoViA_000000_000010,U0z2NCWoViA,0.0,10.0,train,lean,back,A woman leans back over another person who then lifts the woman up.,tilt,backwards
+245,27118,l7udNetFnAM_000003_000013,l7udNetFnAM,3.0,13.0,train,fly,up,A car themed kite is seen flying from the ground up in the park slowly.,fly,upwards
+246,84858,EyKSPnf6kkc_000051_000061,EyKSPnf6kkc,51.0,61.0,train,pull,suddenly,A man lying on the bed had his back hair suddenly pulled off causing him pain.,pull,instantly
+247,79757,DIrYfnfogiA_000148_000158,DIrYfnfogiA,148.0,158.0,train,start,carefully,A person carefully and slowly starts to demonstrate how to tie a neck-tie.,start,carefully
+248,82007,mwty9ZmnHLI_000040_000050,mwty9ZmnHLI,40.0,50.0,train,stand,outdoor,Children and adult were sitting and standing outdoor watching a puppet show,stand,outdoor
+249,50024,w9yW4wJFe-c_000000_000010,w9yW4wJFe-c,0.0,10.0,train,tumble,down,A person pushes down a domino and all the dominoes tumble down.,fall,downwards
+250,61389,9Z-dqTgMmzE_000000_000010,9Z-dqTgMmzE,0.0,10.0,train,pull,down,A woman in a fitness center is pulling a bar down in front of her chest.,pull,downwards
+251,8510,ku-JfGLLOzc_000040_000050,ku-JfGLLOzc,40.0,50.0,train,pull,up,The man is hanging upside down after a bungee jump waiting to be pulled up.,pull,upwards
+252,65335,ML4se4A-RZo_000000_000010,ML4se4A-RZo,0.0,10.0,train,put,inside,A girl shot puts inside a gym with a blue floor with other people around.,put,indoor
+253,33646,9HC_JtamTMk_000018_000028,9HC_JtamTMk,18.0,28.0,train,skate,outside,A group of people are skating outside on an ice rink.,skate,outdoor
+254,62989,bGZKA0h0XOI_000074_000084,bGZKA0h0XOI,74.0,84.0,train,place,nicely,a person is placing some plate candles and utensils on the table really nicely,put,properly
+255,12425,GfcVxlw41H8_000024_000034,GfcVxlw41H8,24.0,34.0,train,eat,fast,A young man is sitting down and eating very fast and then he walks away.,eat,quickly
+256,31502,lesyMNfpjyE_000134_000144,lesyMNfpjyE,134.0,144.0,train,hit,inside,A boy is hitting a baseball inside of a batting cage.,hit,indoor
+257,78162,diV6VE1bZUY_000253_000263,diV6VE1bZUY,253.0,263.0,train,swing,up,A female trapeze acrobat swings up to the platform then a male trapeze acrobat swings out on the swing.,swing,upwards
+258,44471,ZjkrfevsTAY_000041_000051,ZjkrfevsTAY,41.0,51.0,train,open,slightly,A person turns the knob on a door and opens the door slightly.,open,partially
+259,22683,PCuodUnswAc_000010_000020,PCuodUnswAc,10.0,20.0,train,play,outside,"A title appears, introducing a group of boys playing basketball outside.",play,outdoor
+260,41236,fCwd-eHtGoU_000034_000044,fCwd-eHtGoU,34.0,44.0,train,crease,carefully,"The young child is seated crosslegged,  folding a piece of paper as an origami project, carefully creasing the line",fold,carefully
+261,68256,7ik9I3oXw1I_000161_000171,7ik9I3oXw1I,161.0,171.0,train,ride,outside,A woman is shown riding a dog sled on the snow outside.,ride,outdoor
+262,70709,m6r4pZDU8oU_000000_000010,m6r4pZDU8oU,0.0,10.0,train,jump,up,"A young lady jumps up a couple of times on a diving board, then dives into a swimming pool.",jump,upwards
+263,68189,SJ_Upbsh-C8_000000_000010,SJ_Upbsh-C8,0.0,10.0,train,look,on,A dog sled team is waiting to start a race on a snow covered ground with onlookers looking on.,look,on
+264,6516,jIkizTTmX_U_000209_000219,jIkizTTmX_U,209.0,219.0,train,comb,carefully,a black women is getting her hair carefully combed by a man,brush,carefully
+265,80890,q9IkzoJdKKs_000245_000255,q9IkzoJdKKs,245.0,255.0,train,stop,momentarily,A man drills a piece of metal and stops momentarily to make a comment.,stop,partially
+266,20428,o7YI5o3hp7M_000038_000048,o7YI5o3hp7M,38.0,48.0,train,turn,slowly,A yacht is slowly turning to come along side a pier's dock.,turn,slowly
+267,23926,6Fc11UBMXQ4_000000_000010,6Fc11UBMXQ4,0.0,10.0,train,eat,messily,A little girl messily eats a piece of watermelon with her hands.,eat,messily
+268,83846,shyVV-GKVgE_000068_000078,shyVV-GKVgE,68.0,78.0,train,wash,properly,A woman is instructing a man how to properly wash and dry his hands.,wash,properly
+269,53432,ymeIZj6pE-A_000001_000011,ymeIZj6pE-A,1.0,11.0,train,count,loud,A man playing saxophone with a boy and a girl and counting out loud to them.,count,loudly
+270,48130,LKUV4vm-i8g_000242_000252,LKUV4vm-i8g,242.0,252.0,train,spread,properly,A woman is showing how to properly spread the mulch around the young tree.,spread,properly
+271,29563,lhiQ8NPN0Nk_000266_000276,lhiQ8NPN0Nk,266.0,276.0,train,put,inside,A person is using a crank to put meat inside of a casing.,put,indoor
+272,21873,zlOHkOK63s0_000000_000010,zlOHkOK63s0,0.0,10.0,train,hold,properly,A person is demonstrating how to properly hold the wheel when driving.,hold,properly
+273,61996,edW2H0bvC14_000015_000025,edW2H0bvC14,15.0,25.0,train,lay,gently,A sausage machine is feeding meat into the casing while a hand slowly catches the full sausages and gently lays them down on a table.,put,gently
+274,18447,Z57NQcUR7mU_000027_000037,Z57NQcUR7mU,27.0,37.0,train,cut,neatly,A person demonstrates how they neatly cut and peel an orange.,cut,neatly
+275,46708,WY5XrFhEwWs_000496_000506,WY5XrFhEwWs,496.0,506.0,train,walk,outside,A girl and a man are petting a deer that is walking around outside.,walk,outdoor
+276,22868,0rqqV5Gzoi4_000056_000066,0rqqV5Gzoi4,56.0,66.0,train,apply,on,"With gloves on, a female is applying something to her eyebrows.",spread,on
+277,25725,zf-MCjZnnI4_000015_000025,zf-MCjZnnI4,15.0,25.0,train,stand,outside,A young boy is standing outside of a pen feeding grass to a goat.,stand,outdoor
+278,24697,83DIh7MkoG8_000009_000019,83DIh7MkoG8,9.0,19.0,train,fall,slowly,Someone falls with a bicycle on the grass from an height very slowly,fall,slowly
+279,55147,zCjD5fQ02ok_000002_000012,zCjD5fQ02ok,2.0,12.0,train,pour,slowly,A person is slowly pouring a liquid into a clear glass with a tap hose.,pour,slowly
+280,1133,X_Wkqc3j9IQ_000012_000022,X_Wkqc3j9IQ,12.0,22.0,train,look,carefully,A woman is sifting dirt through a large sieve and looking through it carefully while a man is cleaning an excavation area.,look,carefully
+281,16141,425RGNH93pI_000000_000010,425RGNH93pI,0.0,10.0,train,walk,slowly,outside by some stairs some men are dressed up as characters from assassins creed walk by slowly,walk,slowly
+282,70541,9vEq6SC2-hA_000044_000054,9vEq6SC2-hA,44.0,54.0,train,dance,inside,A woman is in her living room dancing all by herself inside.,dance,indoor
+283,14162,xlYGmQ6Iv5w_000166_000176,xlYGmQ6Iv5w,166.0,176.0,train,scrub,vigorously,A boy is scrubbing the bottom of his shoe vigorously.,wash,quickly
+284,15727,a8Mi7_9bGnY_000110_000120,a8Mi7_9bGnY,110.0,120.0,train,cook,outside,A person is cooking some food outside and are happy with the results.,cook,outdoor
+285,4438,uc67mNBQRAg_000002_000012,uc67mNBQRAg,2.0,12.0,train,ride,outside,A young man rides a dirt bike outside in the snow,ride,outdoor
+286,28812,afZDVv9Qf1Y_000117_000127,afZDVv9Qf1Y,117.0,127.0,train,put,properly,An instructor teaches a man how to properly put while it rains,put,properly
+287,67203,j0-FnVUkx2Y_000000_000010,j0-FnVUkx2Y,0.0,10.0,train,ski,slowly,A person skis slowly down a hill while others ski past in the background.,ski,slowly
+288,4019,2KQ1mvI_k2Y_000000_000010,2KQ1mvI_k2Y,0.0,10.0,train,prepare,slowly,A girl slowly prepares herself before getting into a backwards handstand.,make,slowly
+289,9704,icZU-zwhy1U_000018_000028,icZU-zwhy1U,18.0,28.0,train,flip,back,"A guy has a deck of cards in his hand, flips them over, and then flips them back.",turn,backwards
+290,68076,UdPxEz7VRqI_000000_000010,UdPxEz7VRqI,0.0,10.0,train,fall,backward,"A boy swings his arm, another boy ducks, and then the second boy slaps the first boy, who falls backward.",fall,backwards
+291,70714,JjSOHgIxY14_000004_000014,JjSOHgIxY14,4.0,14.0,train,play,outside,Kids are playing outside and one boy jumps into the pool.,play,outdoor
+292,42,C0VVxIhDp9Q_000021_000031,C0VVxIhDp9Q,21.0,31.0,train,climb,slowly,A child slowly climbs down a cliff with a rope,climb,slowly
+293,55700,itW36HxG_xs_000000_000010,itW36HxG_xs,0.0,10.0,train,raise,inside,A man is raising his fist inside of a living room with multiple lights in the background.,raise,indoor
+294,29887,dftPVmCjO_k_000003_000013,dftPVmCjO_k,3.0,13.0,train,jump,fast,A person is jumping upside down in a blue surface very fast,jump,quickly
+295,38082,Ri1RiqKT3qw_000005_000015,Ri1RiqKT3qw,5.0,15.0,train,spread,inside,A crew of workmen use tools to spread cement inside of a building.,spread,indoor
+296,1322,UV4ZeMHiBQc_000000_000010,UV4ZeMHiBQc,0.0,10.0,train,speak,rapidly,"A boy is sitting at a small desk, turned around, and speaking very rapidly to another person.",talk,quickly
+297,54477,nij8Kun7BfQ_000240_000250,nij8Kun7BfQ,240.0,250.0,train,play,roughly,A baby boy plays roughly with a toy train set.,play,firmly
+298,82297,s1KQcsRe3Mk_000022_000032,s1KQcsRe3Mk,22.0,32.0,train,ride,slowly,A boy is slowly riding a scooter down a road.,ride,slowly
+299,26967,ohVebc-gLHA_000348_000358,ohVebc-gLHA,348.0,358.0,train,put,carefully,A man is very carefully putting string onto a fishing hook.,put,carefully
+300,59484,g8EVBCC0ujY_000037_000047,g8EVBCC0ujY,37.0,47.0,train,ride,slowly,A line of men with hats slowly riding horse on a canyon,ride,slowly
+301,551,EL5yddWPW-Q_000009_000019,EL5yddWPW-Q,9.0,19.0,train,pull,back,"A person crosses a shallow pond towards a man holding a large crocodile by the tail, and pulling it back when it runs forward.",pull,backwards
+302,4261,HJO_qH_-eFY_000003_000013,HJO_qH_-eFY,3.0,13.0,train,bend,back,A  girl was rolling on the grass and lifting himself up a she bent her back at intervals,bend,backwards
+303,14688,-LMBynHkTmQ_000020_000030,-LMBynHkTmQ,20.0,30.0,train,climb,up,A man holds onto the bottom of a rope and then climbs all the way up.,climb,upwards
+304,16574,1_npQGAc0W4_000090_000100,1_npQGAc0W4,90.0,100.0,train,laugh,loud,A girl laughs out loud while being tickled on the back.,laugh,loudly
+305,78197,2tvza2t9458_000010_000020,2tvza2t9458,10.0,20.0,train,swing,out,A woman swings out on a trapeze and then hooks her legs on the bar.,swing,out
+306,41159,kKsldtkSkwM_000122_000132,kKsldtkSkwM,122.0,132.0,train,crease,carefully,"A person folds white paper, creasing it carefully, as music plays.",fold,carefully
+307,77611,LnvNKj-NyVM_000026_000036,LnvNKj-NyVM,26.0,36.0,train,sled,backwards,A child lays down on a blue sled and sleds backwards down a hill through the snow.,move,backwards
+308,44319,eFDcurD-6bY_000077_000087,eFDcurD-6bY,77.0,87.0,train,stand,outside,A man stands outside and pops a champagne bottle while some other men are speaking,stand,outdoor
+309,72844,6BY1HDmmqFM_000025_000035,6BY1HDmmqFM,25.0,35.0,train,swim,fast,A woman is swimming as fast as possible during some type of swimming competition.,swim,quickly
+310,18915,buADPfbPNkY_000087_000097,buADPfbPNkY,87.0,97.0,train,lean,forward,Ballerina spins in place as male dancer support her waist and leans forward placing her leg behind him.,tilt,forwards
+311,39419,ayoPaXv3l8k_000001_000011,ayoPaXv3l8k,1.0,11.0,train,run,fast,A boy runs fast and jumps into a sand pit then a female instructor measures the distance jumped.,run,quickly
+312,28985,E58-BLLEpUY_000105_000115,E58-BLLEpUY,105.0,115.0,train,stand,outside,Man wearing golf cloths standing outside practicing swinging a gold club.,stand,outdoor
+313,69204,s-sev84yup4_000006_000016,s-sev84yup4,6.0,16.0,train,squat,down,A woman squats down and lifts up a weight bar and puts it over her head.,squat,downwards
+314,26849,Rwvj8TdCo4Y_000001_000011,Rwvj8TdCo4Y,1.0,11.0,train,flip,successfully,A girl is thrilled when she successfully flips a pancake in the skillet in which she is cooking it.,turn,properly
+315,16328,T4wBLXNlSvM_000000_000010,T4wBLXNlSvM,0.0,10.0,train,fall,lengthwise,Hand holds pile of $20 bills and thumb fans out each bill making them fall lengthwise.,fall,vertically
+316,69612,RSKqWW-1Huc_000024_000034,RSKqWW-1Huc,24.0,34.0,train,sneeze,suddenly,"The baby is laying on a blanket on the floor, when he sneezes suddenly.",sneeze,instantly
+317,28983,E58-BLLEpUY_000105_000115,E58-BLLEpUY,105.0,115.0,train,hit,properly,A man explains how to properly hit a golf ball.,hit,properly
+318,68088,lN46b5RabSA_000018_000028,lN46b5RabSA,18.0,28.0,train,slap,hard,Two women having an argument and one slaps the other very hard.,hit,firmly
+319,80460,2QM-wMKU6F8_000111_000121,2QM-wMKU6F8,111.0,121.0,train,use,properly,A man demonstrating how to properly use a tabletop microscope.,use,properly
+320,78765,xBmvC1QjoTI_000005_000015,xBmvC1QjoTI,5.0,15.0,train,clap,slow,A crowd slow claps as a man runs down a track and does a triple jump into sand.,clap,slowly
+321,35884,VjOzrsZIOwQ_000000_000010,VjOzrsZIOwQ,0.0,10.0,train,splash,back,A man moves the child to the edge of the pool so that the child can splash back into the pool and into arms of the adult.,sprinkle,backwards
+322,2976,WGWLLDTYxJc_000049_000059,WGWLLDTYxJc,49.0,59.0,train,speak,briefly,A large amount of grilled food is shown before a man speaks briefly.,talk,partially
+323,83472,HEWcym_cmeA_000000_000010,HEWcym_cmeA,0.0,10.0,train,play,outside,A man and very small boy are playing outside in the snow.,play,outdoor
+324,25227,LhMhiVnm3jY_000015_000025,LhMhiVnm3jY,15.0,25.0,train,lean,back,"In an office with many partition style desks, a man leans back too far in his office chair and tips over.",tilt,backwards
+325,62950,nKF3lPsJsak_000147_000157,nKF3lPsJsak,147.0,157.0,train,boil,hard,A person sucking up a egg in to a bottle its a hard boiled eggs.,cook,firmly
+326,63,p1VKQa4N-hg_000000_000010,p1VKQa4N-hg,0.0,10.0,train,descend,slowly,A man is seen slowly descending from a rock cliff with the aid of a strong rope.,lower,slowly
+327,66207,sECkm1Cc310_000000_000010,sECkm1Cc310,0.0,10.0,train,kick,inside,A young boy kicks a target with alot of stength inside of a gym.,kick,indoor
+328,25294,-Fmo9kHEV7M_000000_000010,-Fmo9kHEV7M,0.0,10.0,train,fall,purposely,"A male child, approximately ten years in age, is sitting on a chair and purposely falls off the chair, causing it to land on him.",fall,purposefully
+329,6008,7QtP_Q8Mkes_000006_000016,7QtP_Q8Mkes,6.0,16.0,train,play,inside,"In bouncy gym, several children jump and play inside together.",play,indoor
+330,61673,lmIcdrq6u-E_000049_000059,lmIcdrq6u-E,49.0,59.0,train,move,outside,a couple of people on a boat moving in a different direction outside with the sun up,move,outdoor
+331,33,y3-3i88mNPc_000008_000018,y3-3i88mNPc,8.0,18.0,train,abseil,rapidly,"A person abseils rapidly down a high concrete wall, taking large hops",lower,quickly
+332,56753,ox--afrRN6g_000025_000035,ox--afrRN6g,25.0,35.0,train,play,outside,A person is showing two babies playing outside in the grass.,play,outdoor
+333,27208,nBxyuSvIyxw_000000_000010,nBxyuSvIyxw,0.0,10.0,train,fold,carefully,A young girl in her room is seated on the floor carefully folding her clothes.,fold,carefully
+334,59565,5pOOIFxj_Ew_000105_000115,5pOOIFxj_Ew,105.0,115.0,train,ride,inside,A person is riding around on a horse inside of an enclosure.,ride,indoor
+335,79526,368BRHdMq4s_000058_000068,368BRHdMq4s,58.0,68.0,train,tie,properly,a person is showing a rope and how to tie it properly for sports,secure,properly
+336,47747,5fwjTH6rwts_000005_000015,5fwjTH6rwts,5.0,15.0,train,spin,continuously,A person is continuously spinning in place on an ice rink.,turn,continuously
+337,26780,LXrKzwLvb3k_000001_000011,LXrKzwLvb3k,1.0,11.0,train,flip,perfectly,"A man cooks pancakes in a frying pan, then flips it over perfectly.",turn,properly
+338,76073,o0tfI02ehDE_000000_000010,o0tfI02ehDE,0.0,10.0,train,pass,back,A person runs and catches and passes back balls on a tennis court.,pass,backwards
+339,72876,7kxc-_5Wz4o_000090_000100,7kxc-_5Wz4o,90.0,100.0,train,turn,back,"A young swimmer is breast stroking across the pool, and after touching the wall, turns back for another lap.",turn,backwards
+340,35728,JqNtm2EvDQA_000000_000010,JqNtm2EvDQA,0.0,10.0,train,stand,outside,a man standing outside playing with a soccer ball as he kicks it with his feet bouncing it around,stand,outdoor
+341,76754,6IlubIGuD1M_000019_000029,6IlubIGuD1M,19.0,29.0,train,cry,loud,A little girl leans against her bed while she cries out loud.,cry,loudly
+342,35449,V-hYoi78vuo_000004_000014,V-hYoi78vuo,4.0,14.0,train,juggle,quickly,A young boy quickly juggles at least four balls indoors standing in a room.,juggle,quickly
+343,47828,ey5xla_rjNg_000000_000010,ey5xla_rjNg,0.0,10.0,train,stand,outside,A woman is standing outside and puts one leg up and spins.,stand,outdoor
+344,54133,vE6Cnt7XJrg_000026_000036,vE6Cnt7XJrg,26.0,36.0,train,stretch,forward,A man played an ukulele and then stretched it forward for proper view,stretch,forwards
+345,84559,kGZVjdVlTVM_000006_000016,kGZVjdVlTVM,6.0,16.0,train,water,outside,A little girl waters a pot of flowers outside for her mother.,pour,outdoor
+346,46165,BPb1CYnC6hg_000081_000091,BPb1CYnC6hg,81.0,91.0,train,kick,properly,A person demonstrates how to properly kick a soccer ball whether it is stationary or not.,kick,properly
+347,8537,BTqj4XvHv0c_000009_000019,BTqj4XvHv0c,9.0,19.0,train,jump,inside,A very large cavern with a man that has bungie jumped inside of it.,jump,indoor
+348,2942,k1Q7U65XalE_000089_000099,k1Q7U65XalE,89.0,99.0,train,stir,slowly,A man slowly stirs around raw meat in a bowl.,mix,slowly
+349,39260,M4_JVV02RrI_000000_000010,M4_JVV02RrI,0.0,10.0,train,run,fast,a little boy runs fast and then tries to jump far into a sand pit,run,quickly
+350,84466,ObuH2kHoWRw_000037_000047,ObuH2kHoWRw,37.0,47.0,train,slide,outside,A boy slides down a slip-n-slide outside on a green lawn.,move,outdoor
+351,74426,EuawVIJeBOg_000017_000027,EuawVIJeBOg,17.0,27.0,train,laugh,hard,"Man holding baby places cell phone to baby's ear, child says syllables and man laughs hard.",laugh,firmly
+352,7377,oJoWfStDQbI_000089_000099,oJoWfStDQbI,89.0,99.0,train,brush,gently,A woman is gently brushing a white dog with a slicker brush,brush,gently
+353,33892,tUv84WnGNTo_000000_000010,tUv84WnGNTo,0.0,10.0,train,swim,off,"Individuals walk around and swim in a pool, as a woman carefully descends the ladder and gets into the water before swimming off.",swim,off
+354,28319,d3BKyKXRW-4_000067_000077,d3BKyKXRW-4,67.0,77.0,train,trim,out,The boy is trimming his friend's  hair out in the backyard.,cut,out
+355,45657,SkAh2NCpNbM_000000_000010,SkAh2NCpNbM,0.0,10.0,train,bend,forward,A boy bending forward jumped over multiple stairs at once,bend,forwards
+356,38420,De8myWYoLqM_000004_000014,De8myWYoLqM,4.0,14.0,train,arrange,swiftly,A man arranges the tiles in the half of the wall swiftly and tries to complete it,arrange,quickly
+357,17052,P14z0ZcKpFA_000003_000013,P14z0ZcKpFA,3.0,13.0,train,crawl,forward,A boy crawls forward slowly and tries to some toy on the floor,crawl,forwards
+358,40626,HuA5ONtjhsA_000029_000039,HuA5ONtjhsA,29.0,39.0,train,make,outside,A dad makes a huge bubble outside over his daughters head.,make,outdoor
+359,31555,4xSSJU2f_Tc_000002_000012,4xSSJU2f_Tc,2.0,12.0,train,run,down,"The little boy lined up to bat and swung and hit the ball, than ran down to first base.",run,downwards
+360,44346,iAHL1vfQAS0_000000_000010,iAHL1vfQAS0,0.0,10.0,train,open,slowly,a person holding a beer in their hand and then opening up the cap slowly,open,slowly
+361,9300,QH91U0Rj5Q8_000099_000109,QH91U0Rj5Q8,99.0,109.0,train,row,forward,a couple of people with a baby in water rowing themselves forward,paddle,forwards
+362,65022,Zcw5PGeARMY_000000_000010,Zcw5PGeARMY,0.0,10.0,train,run,out,A soccer player kicks a soccer ball towards the goal and as it bounces back towards him the goalie runs out attempting to catch the ball.,run,out
+363,4806,60vANc3xmes_000068_000078,60vANc3xmes,68.0,78.0,train,blow,slowly,A man slowly blows a large bubble and then collapses it into his mouth.,breathe,slowly
+364,25302,xgx-bsHlafY_000000_000010,xgx-bsHlafY,0.0,10.0,train,fall,back,a person sitting on a wheel chair falls back on the ground,fall,backwards
+365,66075,yF54eOPur6U_000030_000040,yF54eOPur6U,30.0,40.0,train,kick,properly,A young woman is giving instructions on how to properly kick.,kick,properly
+366,43870,TOwjQ_RSm8s_000020_000030,TOwjQ_RSm8s,20.0,30.0,train,drag,forward,"In a yard, a man lets an motorized lawn mower drag him forward.",pull,forwards
+367,15694,5bXp5GTLu7c_000359_000369,5bXp5GTLu7c,359.0,369.0,train,make,outside,A man trying to make a spit roast outside with small pieces of wood,make,outdoor
+368,56830,emIM4v4NhJA_000004_000014,emIM4v4NhJA,4.0,14.0,train,roll,outside,A young boy sitting in a wheelchair rolls around outside in the sun.,roll,outdoor
+369,45835,5Td-OQQVXT8_000001_000011,5Td-OQQVXT8,1.0,11.0,train,walk,slowly,"Football player slowly walks forward, and catches and throws down footballs from alternating arms.",walk,slowly
+370,75668,YjCCjk3E5_k_000000_000010,YjCCjk3E5_k,0.0,10.0,train,stop,randomly,A woman showing off her sowing machine as it stops randomly from,stop,unevenly
+371,15658,yoOVgfZdx98_000090_000100,yoOVgfZdx98,90.0,100.0,train,boil,outdoors,A man is showing how to boil a pot of coffee outdoors over a fire.,cook,outdoor
+372,33279,pFLWh8mw90A_000054_000064,pFLWh8mw90A,54.0,64.0,train,hit,hard,A man gets hit hard by another man while playing field hockey.,hit,firmly
+373,45413,IawqRLuftaA_000075_000085,IawqRLuftaA,75.0,85.0,train,fly,outdoors,A group of young boys and girls return from flying a float on a parachute outdoors above the sea.,fly,outdoor
+374,82859,80-CyLNTkQM_000068_000078,80-CyLNTkQM,68.0,78.0,train,run,carfully,A young person stops in front of a rushing river of water then carfully runs across it.,run,carefully
+375,45407,lsjOb3hl5FM_000096_000106,lsjOb3hl5FM,96.0,106.0,train,move,fast,A parachute is gliding through the sky and is moving very fast across the horizon.,move,quickly
+376,43414,HO-5LyLBk00_000944_000954,HO-5LyLBk00,944.0,954.0,train,ride,quickly,A person is riding a motorcycle on a winding road very quickly.,ride,quickly
+377,31219,pjZ8fqKUyzE_000000_000010,pjZ8fqKUyzE,0.0,10.0,train,run,forward,"Someone runs forward and does a flip onto a raised, cushioned platform.",run,forwards
+378,43227,KHPwA6eoBGE_000000_000010,KHPwA6eoBGE,0.0,10.0,train,dance,aggressively,"A large number of males are dancing aggressively, while surrounded by onlookers, to some awful music.",dance,firmly
+379,50996,Y4KlIU4ZU2c_000094_000104,Y4KlIU4ZU2c,94.0,104.0,train,play,softly,An elderly woman softly and very methodically plays a harp.,play,gently
+380,79170,Rqn7ujRjVGc_000126_000136,Rqn7ujRjVGc,126.0,136.0,train,tie,properly,A man showing how to properly tie a bow tie.,secure,properly
+381,118,MDnmHCi1MVc_000023_000033,MDnmHCi1MVc,23.0,33.0,train,stare,off,a man talking to another person in the room as he keeps staring off in the distance,look,off
+382,13093,iAFcwKsse9w_000025_000035,iAFcwKsse9w,25.0,35.0,train,cut,outside,A pressing machine cuts multiple pieces of wooden logs in half outside.,cut,outdoor
+383,27902,feTWuKPZA_k_000030_000040,feTWuKPZA_k,30.0,40.0,train,exhale,quickly,"At the gym, a man exhales quickly before lifting a heavy weight a few times.",breathe,quickly
+384,15751,sGOrTpa7NDE_000011_000021,sGOrTpa7NDE,11.0,21.0,train,prepare,outdoors,The man is preparing a meal on a pan outdoors as he prepares to open a canned food.,make,outdoor
+385,56110,6Kx1WJvKQL8_000001_000011,6Kx1WJvKQL8,1.0,11.0,train,punch,intentionally,People are playful at the gym and intentionally punches a guy.,hit,purposefully
+386,76711,l7-0fOtOpvM_000000_000010,l7-0fOtOpvM,0.0,10.0,train,run,up,Two kids play in the snow and a third kid runs up and throws snow at them.,run,upwards
+387,75910,k2PK_V26fCs_000000_000010,k2PK_V26fCs,0.0,10.0,train,stand,outside,Two men stand by a woman outside while she throws something at an object several feet away,stand,outdoor
+388,36220,-sfDq26DfGU_000000_000010,-sfDq26DfGU,0.0,10.0,train,spread,out,A man is jumping and swinging up both arms intermittently with legs spread out.,spread,out
+389,53879,P7dXc72kXqw_000001_000011,P7dXc72kXqw,1.0,11.0,train,hit,hard,Two men hitting the tennis ball hard on the tennis court.,hit,firmly
+390,65223,WBwG9YbXGRs_000002_000012,WBwG9YbXGRs,2.0,12.0,train,lean,backwards,"Athlete stands on square, leans over backwards, swings arm and turns, and throws heavy ball forward during shot-put competition.",tilt,backwards
+391,71176,xPD0JuvFSSA_000014_000024,xPD0JuvFSSA,14.0,24.0,train,walk,down,A child is on his hands walking around upside down on some carpet.,walk,downwards
+392,86957,hzwQUnu7Gx8_000004_000014,hzwQUnu7Gx8,4.0,14.0,train,move,slowly,a little baby that is yawning and slowly moving their mouth as they are being held,move,slowly
+393,43843,44EO6L1wBGk_000003_000013,44EO6L1wBGk,3.0,13.0,train,move,forward,A kid is moving a toy lawn forward and then leaving it to rest.,move,forwards
+394,4461,g3GJvDqtfys_000031_000041,g3GJvDqtfys,31.0,41.0,train,ride,outside,A girl is riding a bicycle with three wheels outside where it has snowed recently,ride,outdoor
+395,42154,3gn9FGFLbQ0_000100_000110,3gn9FGFLbQ0,100.0,110.0,train,lift,slowly,"A man is slowly lifting up in front of a woman, the audience claps, confetti in the air, and they hug each other.",raise,slowly
+396,47679,n1NSfcCB3p4_000000_000010,n1NSfcCB3p4,0.0,10.0,train,reach,forward,"A woman stands behind another woman and reaches forward to pinch her, which causes her to swing round, and both look at the camera",extend,forwards
+397,46238,l3bcz4ZGQjA_000005_000015,l3bcz4ZGQjA,5.0,15.0,train,peel,quickly,A guy quickly peeling apples with a power drill in a kitchen.,peel,quickly
+398,37888,52ElZa31wPw_000094_000104,52ElZa31wPw,94.0,104.0,train,take,outdoors,An intense go kart race takes place outdoors; the crowd watching.,take,outdoor
+399,60507,m-TrI_t1dKw_000006_000016,m-TrI_t1dKw,6.0,16.0,train,cook,outside,A dead pig on a rotisserie being cooked over an open flame outside.,cook,outdoor
+400,32087,4G8y_2CfA9A_000000_000010,4G8y_2CfA9A,0.0,10.0,train,roast,outside,"Outside, a man roasts chestnuts on a grill and talks about the crackle.",cook,outdoor
+401,70664,91oW3DRShTg_000018_000028,91oW3DRShTg,18.0,28.0,train,cover,fully,A guy who is fully covered air paint some type of vent.,cover,completely
+402,44538,pxmVHSrdnIc_000000_000010,pxmVHSrdnIc,0.0,10.0,train,open,quickly,a man is opening the door pretty quickly and only shows carpet,open,quickly
+403,11798,89bNvsWEUV0_000004_000014,89bNvsWEUV0,4.0,14.0,train,pour,slowly,Engine oil is slowly being poured into an engine block.,pour,slowly
+404,62218,RdZklAZ0K80_000095_000105,RdZklAZ0K80,95.0,105.0,train,beat,vigorously,A man uses a fork to vigorously beat raw eggs in a ceramic bowl.,hit,quickly
+405,13371,aCmXpA4HHoQ_000001_000011,aCmXpA4HHoQ,1.0,11.0,train,fall,forward,"A toddler claps her hands several times, and then falls forward.",fall,forwards
+406,73416,AnhbQWy6AsM_000022_000032,AnhbQWy6AsM,22.0,32.0,train,take,down,A young man takes a whack at few balls down at the batting cages.,take,downwards
+407,58597,SPIyTvs4bXs_000013_000023,SPIyTvs4bXs,13.0,23.0,train,lay,neatly,A girl opens up a news paper and neatly lays it out on a coffee table.,put,neatly
+408,52813,4rpdj7e9VGo_000126_000136,4rpdj7e9VGo,126.0,136.0,train,play,inside,Two people are playing table tennis together inside.,play,indoor
+409,40739,x7QPYeMcR7Y_000009_000019,x7QPYeMcR7Y,9.0,19.0,train,place,inside,A man squeezes dough in a large bowl that is placed inside of a sink.,put,indoor
+410,23821,EGsp0FTBIgU_000019_000029,EGsp0FTBIgU,19.0,29.0,train,use,intermittently,"A man sitting on a chair with a plate of spaghetti, intermittently uses the cutlery to touch the food and then places it in his mouth",use,periodically
+411,9522,E9akknD5BdQ_000000_000010,E9akknD5BdQ,0.0,10.0,train,turn,slowly,A sailboat is seen slowly turning over as spectators are yelling.,turn,slowly
+412,27478,vL3jnCPyCww_000006_000016,vL3jnCPyCww,6.0,16.0,train,fold,properly,A man is shown demonstrating how to properly fold a napkin.,fold,properly
+413,38278,O6Vn7y0eZXo_000024_000034,O6Vn7y0eZXo,24.0,34.0,train,coat,partially,A workman is sticking a brick facade to a wall that is already partially coated with cement.,dip,partially
+414,41920,YbBF2oHjbDs_000127_000137,YbBF2oHjbDs,127.0,137.0,train,make,properly,A hotel worker demonstrates how to properly make the beds in the room.,make,properly
+415,60961,JLJpo2Z7_As_000002_000012,JLJpo2Z7_As,2.0,12.0,train,play,outside,A man and a couple of women are playing a game of scissors outside next to a stone with some kind of object on top of it.,play,outdoor
+416,9481,ketqaCKziFI_000064_000074,ketqaCKziFI,64.0,74.0,train,flip,sideways,A group of people are on a large sailboat as it flips sideways into the ocean water.,turn,horizontally
+417,15244,bUFdL7PcRQs_000035_000045,bUFdL7PcRQs,35.0,45.0,train,move,quickly,"A boy holding a glass ball moves his hands over the ball quickly, giving the impression that the ball is floating.",move,quickly
+418,7933,A8eSzmpNJ9E_000000_000010,A8eSzmpNJ9E,0.0,10.0,train,run,suddenly,A few young kids on a beach suddenly runs to a sandcastle and knocks it down,run,instantly
+419,10870,-2eq0citAJg_000018_000028,-2eq0citAJg,18.0,28.0,train,hold,firmly,A young woman is fishing while a man helps her hold the rod firmly on the beach.,hold,firmly
+420,78554,gEJAcqw84dw_000053_000063,gEJAcqw84dw,53.0,63.0,train,cut,fast,A man is cutting the leaves of a plant very fast by sitting and the leaves are spread in the ground,cut,quickly
+421,64988,wQmyxHhMPHA_000019_000029,wQmyxHhMPHA,19.0,29.0,train,run,forward,A man backs up and then runs forward and kicks a soccerball.,run,forwards
+422,69288,QTH4YibFUco_000002_000012,QTH4YibFUco,2.0,12.0,train,lift,inside,People are lifting heavy barbells over their heads inside of a gym.,raise,indoor
+423,61608,4vVynsOIOPk_000015_000025,4vVynsOIOPk,15.0,25.0,train,take,outside,A person is showing taking a picture outside in the day.,take,outdoor
+424,13108,cYvyMBHD07Q_000004_000014,cYvyMBHD07Q,4.0,14.0,train,throw,aggressively,A person is shown throwing a coconut in a rock aggressively.,throw,firmly
+425,59147,fAjpgUcycuA_000002_000012,fAjpgUcycuA,2.0,12.0,train,drop,almost,"People are on the back of the camel, one of the camel almost dropped a woman.",dip,partially
+426,3314,myT0YiXgkDY_000104_000114,myT0YiXgkDY,104.0,114.0,train,push,forward,"Man bends down to shampoo dog, reaches under the belly, along rear legs, pushes dog's head forward, and rubs muffle.",press,forwards
+427,55604,0qH22DvX0Ig_000039_000049,0qH22DvX0Ig,39.0,49.0,train,hold,back,a man holding a woman's back as she does a pull up,hold,backwards
+428,9434,pUDgyU__KGc_000001_000011,pUDgyU__KGc,1.0,11.0,train,flip,outside,two people dance and flip outside together in unison,turn,outdoor
+429,71877,KH3H6fGsiHc_000006_000016,KH3H6fGsiHc,6.0,16.0,train,stretch,back,A woman is stretching her back with her arms up by using a machine,stretch,backwards
+430,38310,P0XPd0qdR74_000056_000066,P0XPd0qdR74,56.0,66.0,train,use,gently,A person gently uses a rubber mallet to place tiles on the ground.,use,gently
+431,68367,yHjrnxkfWmk_000000_000010,yHjrnxkfWmk,0.0,10.0,train,nod,continually,A student continually nods off during a lecture while sitting at a desk.,nod,continuously
+432,60779,A1DVWJL42Og_000075_000085,A1DVWJL42Og,75.0,85.0,train,climb,inside,A woman is climbing a rock wall inside of an indoor gym.,climb,indoor
+433,35062,dNo-cvkVKd8_000067_000077,dNo-cvkVKd8,67.0,77.0,train,ride,quickly,A person is riding quickly on a jet skii on the water.,ride,quickly
+434,78544,t56CezdLUys_000017_000027,t56CezdLUys,17.0,27.0,train,trim,perfectly,A man uses an electric hedge trimmer to trim a hedge perfectly.,cut,properly
+435,65285,mcKxvpzaT_k_000007_000017,mcKxvpzaT_k,7.0,17.0,train,put,outdoors,A young woman is practicing throwing a shot put outdoors in a field.,put,outdoor
+436,44634,WjYDrVLxd9I_000019_000029,WjYDrVLxd9I,19.0,29.0,train,open,slowly,A door inside of house is slowly opened and then closed by a young man.,open,slowly
+437,60549,Yu8dfxpby48_000000_000010,Yu8dfxpby48,0.0,10.0,train,cook,outdoors,A bush is shown and as someone backs away from it a man is shown using a rotisserie to cook a whole animal outdoors while two people converse.,cook,outdoor
+438,70224,YcESJQnAOIQ_000018_000028,YcESJQnAOIQ,18.0,28.0,train,lean,foward,"A young girl leans foward and places her hands on the floor as if to do a front flip, then a man helps push her legs over.",tilt,forwards
+439,52605,LLySg638Ms8_000004_000014,LLySg638Ms8,4.0,14.0,train,play,indoors,A young boy practices playing a piano piece indoors whilst reading music.,play,indoor
+440,39218,sQxAgFm0xcY_000148_000158,sQxAgFm0xcY,148.0,158.0,train,attach,inside,A man is trying to attach a piece of metal inside of a piiece of materal.,attach,indoor
+441,28826,AuwGYu6TnyM_000113_000123,AuwGYu6TnyM,113.0,123.0,train,hit,down,A man is standing up swinging a golf cul hitting the ball down to course,hit,downwards
+442,22611,OXda72wDIzA_000180_000190,OXda72wDIzA,180.0,190.0,train,move,inside,A man is digging through a trash bin and moving things around inside.,move,indoor
+443,77293,1rh_YUW0uCw_000085_000095,1rh_YUW0uCw,85.0,95.0,train,walk,slowly,A young man slowly walks across a tightrope toward another man.,walk,slowly
+444,35656,yHqx_bo9fLg_000002_000012,yHqx_bo9fLg,2.0,12.0,train,walk,back,"A girl bends at the waist holding a soccer ball, straightens up, walks back and kicks ball a couple of times.",walk,backwards
+445,46809,4u0tLVfj3gM_000207_000217,4u0tLVfj3gM,207.0,217.0,train,look,almost,A young girl pets a baby deer who almost looks like it tries to nip her.,look,partially
+446,30108,QUDwmtWasXA_000000_000010,QUDwmtWasXA,0.0,10.0,train,throw,outdoors,A woman throws a discus and shot put outdoors on a large field.,throw,outdoor
+447,80855,iS6ZcyoQlTo_000095_000105,iS6ZcyoQlTo,95.0,105.0,train,drill,properly,A man is demonstrating how to properly drill into a piece of wood.,drill,properly
+448,12453,lYSSqcBmw2E_000156_000166,lYSSqcBmw2E,156.0,166.0,train,chew,loudly,A girl greets the camera and chews gum loudly while another watches.,eat,loudly
+449,16276,GJNKz9zvrKI_000162_000172,GJNKz9zvrKI,162.0,172.0,train,count,slowly,A man sits at a table filled with cash and slowly counts the bills.,count,slowly
+450,3896,jAxlicigO5Y_000011_000021,jAxlicigO5Y,11.0,21.0,train,raise,horizontally,A couple adults are sitting on a couch and the man raises a child up over his head horizontally.,raise,horizontally
+451,71306,AzDZ5zJB_sE_000000_000010,AzDZ5zJB_sE,0.0,10.0,train,jump,down,A girl in the pool jumped upside down to reach the bottom of the pool,jump,downwards
+452,69523,Urmbp1ulIXI_000023_000033,Urmbp1ulIXI,23.0,33.0,train,lean,forward,"A young child leans forward and sneezes twice, and begins to sneeze for a third time.",tilt,forwards
+453,54466,F25n0HVrv0o_000039_000049,F25n0HVrv0o,39.0,49.0,train,move,forward,a person picking up and placing a train on a track to make it move forward,move,forwards
+454,17435,0Pv1zA8r9DE_000002_000012,0Pv1zA8r9DE,2.0,12.0,train,step,carefully,A person trying to carefully step so they don't get their feet wet misses the rock and steps in the river.,step,carefully
+455,22505,_U8VvfRE2Ns_000096_000106,_U8VvfRE2Ns,96.0,106.0,train,play,quickly,A man is in a dark room playing the piano quickly and intensely.,play,quickly
+456,85794,dgp3-25yBfs_000048_000058,dgp3-25yBfs,48.0,58.0,train,whistle,perfectly,An older man is whistling perfectly to a song he's listening too.,sing,properly
+457,23305,c3pP3m1zi5I_000007_000017,c3pP3m1zi5I,7.0,17.0,train,hold,vertically,A girl is trying to bite into a baby carrot while holding it vertically.,hold,vertically
+458,82223,Ii8dzS2Lu_M_000013_000023,Ii8dzS2Lu_M,13.0,23.0,train,drive,outside,A woman is driving a segway outside on the sidewalk between buildings.,drive,outdoor
+459,68452,M72agpjFHYM_000008_000018,M72agpjFHYM,8.0,18.0,train,stand,briefly,"Two men are working in an office building - one briefly stands up, and the other breaks his computer in anger.",stand,partially
+460,13038,DO3cWwaiQk0_000298_000308,DO3cWwaiQk0,298.0,308.0,train,dice,skillfully,A chef skillfully dices a tomato into fine pieces on a cutting board.,cut,properly
+461,35601,HcQegzTtnsM_000004_000014,HcQegzTtnsM,4.0,14.0,train,juggle,outdoors,A man juggles flaming pins outdoors near a desert rock formation.,juggle,outdoor
+462,20120,_owWHGvn_b0_000112_000122,_owWHGvn_b0,112.0,122.0,train,throw,unsuccessfully,A man unsuccessfully throws a frisbee at a net then a woman successfully does it.,throw,improperly
+463,68178,DEo_WE0vecM_000514_000524,DEo_WE0vecM,514.0,524.0,train,pull,forward,a person on the snow on a sled as they have dogs pulling them forward together,pull,forwards
+464,31291,OpykVaB7chc_000014_000024,OpykVaB7chc,14.0,24.0,train,singe,loudly,"In a show or party a group of people were dancing ,shouting and singing loudly",sing,loudly
+465,61190,qST4i0d8Z2c_000115_000125,qST4i0d8Z2c,115.0,125.0,train,flatten,completely,A woman uses a rolling pin to knead out some dough untill it completely flattens and stretches.,spread,completely
+466,66338,Z5bkTJLN3nA_000104_000114,Z5bkTJLN3nA,104.0,114.0,train,sway,slightly,Choir singers sway slightly in unison as they are lead by musical director lifting her arms.,tilt,partially
+467,42354,xn_zrT-IQjU_000019_000029,xn_zrT-IQjU,19.0,29.0,train,sit,on,A man is sitting down with gloves on is inspecting someone's feet.,sit,on
+468,80228,_vRx-u4Vnfk_000069_000079,_vRx-u4Vnfk,69.0,79.0,train,unbox,inside,A man unboxing a Nokia cell phone inside of a blue box.,open,indoor
+469,49914,Z-N4pSXIEl0_000000_000010,Z-N4pSXIEl0,0.0,10.0,train,blow,in,A man blows in a large culled out tree limb and makes sounds.,breathe,in
+470,24605,_LpEKcYOebg_000006_000016,_LpEKcYOebg,6.0,16.0,train,swing,down,"One female holds onto a rope, then jumps and swings down, landing on the ground and sliding into the water.",swing,downwards
+471,80564,e5f3zfSmspY_000052_000062,e5f3zfSmspY,52.0,62.0,train,put,properly,Instructions on how not to handle a microscope as well as how to properly put one away.,put,properly
+472,70236,3oXGmrPkwKk_000008_000018,3oXGmrPkwKk,8.0,18.0,train,land,perfectly,"A man is balancing on a rope, and does a flip, landing almost perfectly back on the rope.",land,properly
+473,17449,XX0b0-BuEQY_000001_000011,XX0b0-BuEQY,1.0,11.0,train,drive,slowly,Several people stand outside as a school bus slowly drives by.,drive,slowly
+474,51890,inTD-fvOtFk_000001_000011,inTD-fvOtFk,1.0,11.0,train,play,outside,A group of people playing a rock throwing game outside.,play,outdoor
+475,72394,fAZ1LS49VsY_000008_000018,fAZ1LS49VsY,8.0,18.0,train,play,loudly,Young people jump and dance at an outdoor concert as a band plays loudly.,play,loudly
+476,57734,62ycGEmdtvA_000040_000050,62ycGEmdtvA,40.0,50.0,train,blink,rapidly,A lady holding a dirty mirror puts on mascara by blinking rapidly.,blink,quickly
+477,56566,dYxDwbv9c74_000015_000025,dYxDwbv9c74,15.0,25.0,train,roll,backwards,A woman plays with her child by rolling a cart backwards while the baby pushes.,roll,backwards
+478,52270,TN_QcKErOD8_000019_000029,TN_QcKErOD8,19.0,29.0,train,play,up,"A child plays the piano alone, up on a church stage.",play,upwards
+479,86152,GCWji4J_FZU_000002_000012,GCWji4J_FZU,2.0,12.0,train,burn,quickly,A laser burns a route 66 symbol into a block of wood quickly.,burn,quickly
+480,8809,Zz8J5Cn9meQ_000000_000010,Zz8J5Cn9meQ,0.0,10.0,train,belch,loudly,"An elderly woman drinks soda, and then belches loudly and laughs.",breathe,loudly
+481,32274,X3Wouv9AGss_000022_000032,X3Wouv9AGss,22.0,32.0,train,move,forward,a girl tries to fit her feet in squares as she moves forward,move,forwards
+482,7447,gaunySZtkzA_000020_000030,gaunySZtkzA,20.0,30.0,train,brush,down,A teenage boy who has very your hair is brushing his hair down.,brush,downwards
+483,39917,u0A07i1qLDc_000007_000017,u0A07i1qLDc,7.0,17.0,train,step,up,"A man steps back, steps up and lunges to the side.",step,upwards
+484,17533,FZmNWmGs298_000012_000022,FZmNWmGs298,12.0,22.0,train,make,slowly,An SUV makes it's way down a swollen creek slowly.,make,slowly
+485,26090,IA5-9sYPMVY_000004_000014,IA5-9sYPMVY,4.0,14.0,train,sit,outside,"a man is sitting on a motorbike outside while shaking his right hand, and horns are heard in the background",sit,outdoor
+486,35,rseBvhN6dio_000003_000013,rseBvhN6dio,3.0,13.0,train,bring,slowly,The guy is doing an exhibition as he slowly brings himself down the building.,carry,slowly
+487,43822,wRLgRLXRDY0_000029_000039,wRLgRLXRDY0,29.0,39.0,train,carry,in,Two people with musical instruments are playing a piece while a chair is carried in.,carry,in
+488,4,CBL6uetTPHg_000089_000099,CBL6uetTPHg,89.0,99.0,train,put,indoor,AN INSTRUCTOR IS SHOWN PUTTING INDOOR ROCK CLIMBING GEAR ON TWO LADIES.,put,indoor
+489,31706,Sj9Kbn31RUA_000000_000010,Sj9Kbn31RUA,0.0,10.0,train,spray,up,A hockey player skates forward and turns spraying ice up in the air.,spray,upwards
+490,14912,mf5s65eldQ0_000002_000012,mf5s65eldQ0,2.0,12.0,train,walk,carefully,Someone has climbed the very top of a tree and is carefully walking around the branches.,walk,carefully
+491,72696,MjOVdt9z9VQ_000011_000021,MjOVdt9z9VQ,11.0,21.0,train,push,outdoors,A young girls uses a broom to push around her toys outdoors.,press,outdoor
+492,571,w5GP7q64zo0_000000_000010,w5GP7q64zo0,0.0,10.0,train,open,slowly,A man holds an alligator's mouth closed and slowly opens it.,open,slowly
+493,25831,lOvi6FG-unY_000000_000010,lOvi6FG-unY,0.0,10.0,train,bend,suddenly,Two kids are seen fencing with each other when one of them suddenly bends over.,bend,instantly
+494,8339,gVBt1YFjS0E_000002_000012,gVBt1YFjS0E,2.0,12.0,train,use,outdoors,A large machine being used outdoors to cut tall trees,use,outdoor
+495,20648,KCSIX_N5heI_000026_000036,KCSIX_N5heI,26.0,36.0,train,play,inside,Some students are playing a game of dodgeball inside of a gymnasium.,play,indoor
+496,49985,bMhnn3Pmspc_000165_000175,bMhnn3Pmspc,165.0,175.0,train,flip,down,A person is flipping dominoes upside down to see the white only.,turn,downwards
+497,20933,jJXdVcMbaiI_000095_000105,jJXdVcMbaiI,95.0,105.0,train,sit,outdoors,Tow women are sitting at a table outdoors working on a puzzle.,sit,outdoor
+498,46229,ybkLUzGuKfY_000034_000044,ybkLUzGuKfY,34.0,44.0,train,turn,quickly,A woman holds an apple in a peeler as another woman turns it very quickly.,turn,quickly
+499,29376,dogykc1E_PU_000022_000032,dogykc1E_PU,22.0,32.0,train,move,clumsily,Music plays very loudly as people sitting in benches or pews clap and watch as people standing in front clap and move clumsily to the music,move,carelessly
+500,6940,RHZZvyqbFA0_000004_000014,RHZZvyqbFA0,4.0,14.0,train,dance,down,A person break dances upside down while a crowd observes.,dance,downwards
+501,84049,633prnX1YHA_000000_000010,633prnX1YHA,0.0,10.0,train,run,constantly,"Woman applies soap, washes hands and scratches palms, and rinses under constantly running water.",run,continuously
+502,37477,4lqNARilMIE_000056_000066,4lqNARilMIE,56.0,66.0,train,hold,sideways,A man is dancing and the director is holding the camera sideways.,hold,horizontally
+503,23104,t-ibIA4LDRE_000008_000018,t-ibIA4LDRE,8.0,18.0,train,eat,slowly,A woman is slowly eating a chicken sandwich in burger buns.,eat,slowly
+504,23564,apVMoEpMyrY_000013_000023,apVMoEpMyrY,13.0,23.0,train,lean,forward,"Toddler eats by leaning forward in chair, leaving hands at sides and placing mouth directly on donut.",tilt,forwards
+505,49950,2hOvq9UxaLU_000035_000045,2hOvq9UxaLU,35.0,45.0,train,play,indoors,Two men playing music indoors and one of them playing a didgeridoo.,play,indoor
+506,78155,Q0HDSdCerA4_000005_000015,Q0HDSdCerA4,5.0,15.0,train,swinge,outside,A woman is shown swinging from a trapeze outside while people cheer her on.,swing,outdoor
+507,78426,XrnmSeZ2zgA_000232_000242,XrnmSeZ2zgA,232.0,242.0,train,prune,properly,A man is demonstrating how to prune a bush properly.,cut,properly
+508,67914,1cXaGVGmZk0_000212_000222,1cXaGVGmZk0,212.0,222.0,train,walk,carefully,A man is carefully walking across a tight rope that is between two trees.,walk,carefully
+509,32206,Qv8artJCOzs_000007_000017,Qv8artJCOzs,7.0,17.0,train,play,outside,A man and his daughter play hop skip outside while wearing their taekwondo uniforms.,play,outdoor
+510,50763,t2eL0WLzrIM_000020_000030,t2eL0WLzrIM,20.0,30.0,train,play,poorly,Two men playing patty cake poorly while a third guy ask to play.,play,improperly
+511,74927,tYOmNVn4M2M_000000_000010,tYOmNVn4M2M,0.0,10.0,train,drink,quickly,"Two men open cans of beer at the same time, and begin to drink quickly after giving a toast.",drink,quickly
+512,86721,WiG9vmUfUB0_000054_000064,WiG9vmUfUB0,54.0,64.0,train,pull,slowly,A woman uses a spindle and slowly pulls to make yarn/twine.,pull,slowly
+513,2378,kKCx1tCDk3c_000000_000010,kKCx1tCDk3c,0.0,10.0,train,run,up,A young man running up to a wall and performs a black flip after kicking off the wall.,run,upwards
+514,31778,0Or4d0SDLLo_000009_000019,0Or4d0SDLLo,9.0,19.0,train,stop,quickly,"In an ice rink, a skater practices stopping quickly by doing drills.",stop,quickly
+515,76136,1tu1_j02-t0_000012_000022,1tu1_j02-t0,12.0,22.0,train,play,outside,A group of people play dodgeball outside while music plays.,play,outdoor
+516,55490,OkG0_Rhm1ss_000101_000111,OkG0_Rhm1ss,101.0,111.0,train,speak,briefly,"A woman stands on the right in front of a weather forecast graphic, turns to face towards the camera, speaks briefly, and walks away to the left",talk,partially
+517,16951,6qPouY3MmtM_000001_000011,6qPouY3MmtM,1.0,11.0,train,crack,loudly,A young man is standing up straight and cracking his neck loudly.,separate,loudly
+518,57141,3hetTxa4gSI_000000_000010,3hetTxa4gSI,0.0,10.0,train,take,out,A young girl puts a contact lense into her eye and then attempts to take it back out.,take,out
+519,2825,kmH8PFDMTVc_000085_000095,kmH8PFDMTVc,85.0,95.0,train,place,gently,A doctor places a wrap gently on a womans elbow.,put,gently
+520,4553,9_nZ9LmM3JU_000000_000010,9_nZ9LmM3JU,0.0,10.0,train,spray,outside,A person is using a hose to spray a metal fixture outside.,spray,outdoor
+521,4557,RLsCOVZdpjQ_000186_000196,RLsCOVZdpjQ,186.0,196.0,train,wash,outside,A man is power washing a long metal part outside,wash,outdoor
+522,53995,ZyvONwcYFtw_000000_000010,ZyvONwcYFtw,0.0,10.0,train,play,inside,A young boy is playing the clarinet inside of a room.,play,indoor
+523,9508,GiZd-oO-h_U_000008_000018,GiZd-oO-h_U,8.0,18.0,train,flip,slowly,A person out on the water that slowly flips  his boat over.,turn,slowly
+524,29227,Ii0CkNEbygQ_000115_000125,Ii0CkNEbygQ,115.0,125.0,train,hit,properly,A man helps a woman demonstrate how to properly hit a golf ball.,hit,properly
+525,52092,59H85WNfFSg_000022_000032,59H85WNfFSg,22.0,32.0,train,move,forward,Man lifts dog and moves forward while young woman throws basketball toward hoop.,move,forwards
+526,23444,H8pIQ41VDX8_000000_000010,H8pIQ41VDX8,0.0,10.0,train,eat,slowly,"One man slowly eats a potato chip, then someone in the background says to him, ""Yes!"".",eat,slowly
+527,29886,dftPVmCjO_k_000003_000013,dftPVmCjO_k,3.0,13.0,train,jump,down,A person is jumping upside down in a blue surface very fast,jump,downwards
+528,72769,B8qQf7QG3xs_000034_000044,B8qQf7QG3xs,34.0,44.0,train,swim,slowly,A woman swims backstroke as she swims slowly backwards along a lane in a pool,swim,slowly
+529,67259,SJ5uIE1a_Pc_000072_000082,SJ5uIE1a_Pc,72.0,82.0,train,fly,quickly,"Skiiers quickly fly down a hill, hitting posts with their arms, while interviewed skiiers explain what it might feel like.",fly,quickly
+530,31207,Gi6aBVAb-Ng_000007_000017,Gi6aBVAb-Ng,7.0,17.0,train,jump,sideways,"A man running down the street and then trying to jump over a horizontal pole sideways, but knocks the pole down.",jump,horizontally
+531,76846,zSZuj0dxeu0_000046_000056,zSZuj0dxeu0,46.0,56.0,train,climb,up,A little child climbs up and reaches for the camera.,climb,upwards
+532,66575,5BoWE236vH4_000000_000010,5BoWE236vH4,0.0,10.0,train,pull,in,In a gym a man is doing out ups with his legs halfway pulled in,pull,in
+533,67873,AiJ6Ys7-XB4_000027_000037,AiJ6Ys7-XB4,27.0,37.0,train,walk,outside,A young boy is walking outside on a tight rope connected to a tree watched by his friends and fails to do a somersault and return to standing on the tight rope.,walk,outdoor
+534,11716,4BC0gHzgD5k_000032_000042,4BC0gHzgD5k,32.0,42.0,train,use,properly,A man is explaining how to properly use the gears in a car.,use,properly
+535,62092,ipnS2WX96GM_000028_000038,ipnS2WX96GM,28.0,38.0,train,hold,firmly,Two men are holding down a root vegetable firmly as one saws a slice of it.,hold,firmly
+536,12,GwlcmI36imo_000127_000137,GwlcmI36imo,127.0,137.0,train,look,down,A person climbing up a rock cliff with another person up the top looking down,look,downwards
+537,61771,qcP1mb1IjjI_000070_000080,qcP1mb1IjjI,70.0,80.0,train,dance,indoors,A man and woman is shown dancing to the music indoors in front of a mirror.,dance,indoor
+538,35475,fO7epp6cIyk_000002_000012,fO7epp6cIyk,2.0,12.0,train,talk,continuously,A boy juggling 3 balls while continuously talking inside their living room.,talk,continuously
+539,56741,HATP8-ODTYU_000035_000045,HATP8-ODTYU,35.0,45.0,train,push,outside,A person pushing a small child in a wheel barrel outside down a path.,press,outdoor
+540,71299,CJjgoQFjGO8_000032_000042,CJjgoQFjGO8,32.0,42.0,train,stand,outside,A man in camoflauge does a handstand while standing outside.,stand,outdoor
+541,35985,-2csq_1UhMQ_000002_000012,-2csq_1UhMQ,2.0,12.0,train,jump,backwards,A woman plugs her nose and jumps backwards into an outdoor pool.,jump,backwards
+542,72491,zqsBshg9764_000004_000014,zqsBshg9764,4.0,14.0,train,roll,in,In the ocean wave roll in and then someone is shown surfing on a board out in them.,roll,in
+543,60110,OHt8JWlknFM_000040_000050,OHt8JWlknFM,40.0,50.0,train,lay,outside,A man is laying on a towel outside on the cement and another man rides a unicycle around him.,put,outdoor
+544,7454,-ayhkSjMkms_000022_000032,-ayhkSjMkms,22.0,32.0,train,turn,slowly,A hair brush is slowly being turned next to a ladies long hair.,turn,slowly
+545,76888,RKRDT2ajFhs_000024_000034,RKRDT2ajFhs,24.0,34.0,train,cry,loudly,A child gets up from the ground and begins to cry loudly.,cry,loudly
+546,71046,LfK93_xtsig_000009_000019,LfK93_xtsig,9.0,19.0,train,stand,inside,A woman squats a few reps standing inside of a squat rack.,stand,indoor
+547,66532,D--Fa71ta14_000074_000084,D--Fa71ta14,74.0,84.0,train,lay,outside,Someone is laying on their back outside trying to do situps while people are heckling him.,put,outdoor
+548,58421,Ti_NsOzoyKg_000018_000028,Ti_NsOzoyKg,18.0,28.0,train,open,slowly,A baby is told to read her book and the baby slowly opens it and pretends to read.,open,slowly
+549,70106,7ot8nGyVrSM_000004_000014,7ot8nGyVrSM,4.0,14.0,train,ride,fast,A man is riding a snow mobile really fast then he jumps a hill on it.,ride,quickly
+550,72861,aeqEAc0FMgs_000128_000138,aeqEAc0FMgs,128.0,138.0,train,swim,properly,A women explains to viewers by showing how to properly swim.,swim,properly
+551,82332,DxUeF-WIdWA_000132_000142,DxUeF-WIdWA,132.0,142.0,train,ride,briefly,"A woman rides a segway scooter, briefly with no hands, in a street.",ride,partially
+552,43946,jpWILSI9mis_000025_000035,jpWILSI9mis,25.0,35.0,train,mow,outside,a person mows their lawn outside in a very fast pace,cut,outdoor
+553,39506,tachrGNay8Y_000002_000012,tachrGNay8Y,2.0,12.0,train,slide,sideways,"A boy rolls down a hill on a skateboard, then slides sideways and stumbles off.",move,horizontally
+554,39872,WBB2M3Q2pok_000000_000010,WBB2M3Q2pok,0.0,10.0,train,move,quickly,"A man is walking, and then he turns as someone on a snow mobile passes him moving quickly.",move,quickly
+555,82847,StrKLfn7cKA_000000_000010,StrKLfn7cKA,0.0,10.0,train,turn,quickly,Two people are in waist high water watching something in the water one man turns around quickly to go in opposite direction.,turn,quickly
+556,37164,S-ngBPGF1Uw_000004_000014,S-ngBPGF1Uw,4.0,14.0,train,glide,down,Two people are hang gliding down into an area.,move,downwards
+557,17154,aZXPBFTdwmg_000148_000158,aZXPBFTdwmg,148.0,158.0,train,cry,nearly,Outside there is a baby on mat crawling towards a person while nearly crying,cry,partially
+558,81027,bZSzBMi_Etw_000000_000010,bZSzBMi_Etw,0.0,10.0,train,lower,slowly,A man holds a hammer in the air and slowly lowers it to his lips.,lower,slowly
+559,12738,Su8-sr14NsY_000020_000030,Su8-sr14NsY,20.0,30.0,train,trim,skillfully,A young man skillfully trims/cuts a large piece of meat.,cut,properly
+560,36654,ZKlwhShLVDI_000057_000067,ZKlwhShLVDI,57.0,67.0,train,stand,back,A person stands back then jolts to kick a football across the lawn.,stand,backwards
+561,23647,NmY0q-M4UfY_000030_000040,NmY0q-M4UfY,30.0,40.0,train,chew,rapidly,"A guy eats some bread in his room, chewing it very rapidly and then makes a strange face.",eat,quickly
+562,23677,gafZUG1aNKI_000070_000080,gafZUG1aNKI,70.0,80.0,train,eat,fast,A group of young men are in a competition to eat as many hot dogs as fast as they can.,eat,quickly
+563,15781,JiwOz9miuyY_000070_000080,JiwOz9miuyY,70.0,80.0,train,pour,lightly,"Olive oil is lightly poured onto sausages, the sausages are then placed into an oven while a man explains the process.",pour,gently
+564,65359,AqIJYnkBugg_000003_000013,AqIJYnkBugg,3.0,13.0,train,swing,sideways,A girl swung sideways and then push forward a shot put onto the marked ground,swing,horizontally
+565,70383,nRuueSZlmkU_000018_000028,nRuueSZlmkU,18.0,28.0,train,walk,outside,A person is showing how they walk through the snow outside.,walk,outdoor
+566,34302,lqvQvMWi8EY_000121_000131,lqvQvMWi8EY,121.0,131.0,train,turn,constantly,A woman is constantly turning her head to the side as she uses a curling iron on her hair.,turn,continuously
+567,74765,i-Mh1BRW-ls_000102_000112,i-Mh1BRW-ls,102.0,112.0,train,strum,vigorously,A person vigorously strums an electric guitar while trying out different chords.,strum,quickly
+568,84595,bBWWCpJMGGk_000000_000010,bBWWCpJMGGk,0.0,10.0,train,drop,accidentally,A young baby uses to hose to water the plants and then accidentally drops the hose,dip,accidently
+569,63022,edIQ5zk_oV0_000016_000026,edIQ5zk_oV0,16.0,26.0,train,set,properly,a woman explaining how to set up an eating area properly on the table.,set,properly
+570,13447,M9NORCUCrtE_000003_000013,M9NORCUCrtE,3.0,13.0,train,look,down,"Toddler sits on floor with hands over mouth, claps hands, yells out with open mouth, and looks down.",look,downwards
+571,45351,wCUBs_eEMBc_000006_000016,wCUBs_eEMBc,6.0,16.0,train,glide,out,a person outside using a parachute gliding out in the air by themselves,move,out
+572,23059,B21VWd9z9Ww_000051_000061,B21VWd9z9Ww,51.0,61.0,train,eat,outside,"A little girl eating different food off of her plate, outside",eat,outdoor
+573,81220,TK8zfYL_8Nc_000010_000020,TK8zfYL_8Nc,10.0,20.0,train,turn,gradually,A wrench is being used to gradually turn a bolt.,turn,gradually
+574,81173,wvLrTXS6kIw_000136_000146,wvLrTXS6kIw,136.0,146.0,train,use,properly,A man shows how to properly use the switches on an Alan Wrench,use,properly
+575,36248,x4bU02DoqS0_000020_000030,x4bU02DoqS0,20.0,30.0,train,play,loudly,A man dances to music that is playing loudly by jumping up and down on his feet.,play,loudly
+576,42671,wsxKSAO2wvQ_000707_000717,wsxKSAO2wvQ,707.0,717.0,train,talk,softly,a woman massaging gently the head of another woman while talking softly,talk,gently
+577,54316,Pb_R7BUnOQ4_000001_000011,Pb_R7BUnOQ4,1.0,11.0,train,play,indoors,A group of kids are playing volleyball indoors with a small crowd watching,play,indoor
+578,11205,Mf1CsONPYpc_000028_000038,Mf1CsONPYpc,28.0,38.0,train,throw,properly,A man gives instructions on how to properly throw a frisbee with his dog as his assistant.,throw,properly
+579,73227,FE3j-k2V0Uo_000409_000419,FE3j-k2V0Uo,409.0,419.0,train,dance,back,A couple is dancing on the dance floor and they are dancing like others did back in a certain time.,dance,backwards
+580,3425,VfmMdXe3VVo_000012_000022,VfmMdXe3VVo,12.0,22.0,train,use,inside,A young girl is completing a forearm workout by using ropes inside of a gym.,use,indoor
+581,48527,_7hRHaRdCi8_000006_000016,_7hRHaRdCi8,6.0,16.0,train,stand,outside,A man is standing outside playing a bagpipe as a large crowd looks on.,stand,outdoor
+582,11098,0QnKyOvyUtg_000012_000022,0QnKyOvyUtg,12.0,22.0,train,step,back,"A young boy steps out of sight and a frisbee appears and scores a basket in the basketball hoop in the background, the boy steps back into view saying he made the shot..",step,backwards
+583,8594,lwlkkdjuptg_000087_000097,lwlkkdjuptg,87.0,97.0,train,bounce,up,A man rides a bungee cord down and into the water and bounces up.,jump,upwards
+584,34098,6ZFo6INV4Lc_000047_000057,6ZFo6INV4Lc,47.0,57.0,train,install,properly,A man is demonstrating and explaining how to properly install a carpet using carpet installing equipment.,install,properly
+585,87020,-Gb1pbOE32g_000032_000042,-Gb1pbOE32g,32.0,42.0,train,exhale,loudly,A group of people are sitting on the floor and then exhaling loudly.,breathe,loudly
+586,24856,44_Gv6SxoCQ_000007_000017,44_Gv6SxoCQ,7.0,17.0,train,play,outside,A group of two boys are playing outside and one falls off his bike.,play,outdoor
+587,11866,hEzGdS9nP5Y_000073_000083,hEzGdS9nP5Y,73.0,83.0,train,move,slightly,"Used motor oil spills vertically and steadily, from car undercarriage, to wide pan which is moved slightly toward the oil.",move,partially
+588,20165,OJ16O-Iw0cY_000000_000010,OJ16O-Iw0cY,0.0,10.0,train,enter,perfectly,There is a person outside surrounded by trees and has a type of disk or frisbee they are holding which they throw in the air at a plastic basket hanging from a tree and it enters the basket perfectly.,enter,properly

@@ -1,0 +1,910 @@
+,Unnamed: 0.1.1.1.1,clip_id,youtube_id,start_time,end_time,split,action,adverb,caption,clustered_action,clustered_adverb
+0,19937,video7705,Xb1pOhKmGkk,57.2,67.78,train,add,lightly,a woman s voice instructs viewers to add salt and pepper to meat cubes lightly dredge them through some flour and then set them aside,add,gently
+1,10076,video3956,YKo4KKQjR8k,95.88,109.79,train,add,in,a glass bowl holds american coin currency and man adds more coins in,add,in
+2,3328,video1291,uBXldG5QnDk,51.9,64.28,train,organize,correctly,best way to organize your fishing line correctly,arrange,properly
+3,4056,video1584,ZFIkwRiaN9o,12.6,23.86,train,arrange,nicely,the chef had his ingredients nicely arranged in a metal pan,arrange,properly
+4,17538,video6824,KdQeU5QTfYE,188.7,200.88,train,plug,in,a lady gives an explanation on plugging a power surge in,attach,in
+5,12596,video4912,VjTiMtjdjTw,70.51,82.58,train,bow,outside,a woman trains a white horse to bow outside,bend,outdoor
+6,14569,video5672,WqLohtxwFO0,0.0,13.8,train,blow,back,a man uses an instrument to violent blow back his opponent,breathe,backwards
+7,4476,video1727,-nlD_pPKkpw,146.49,168.09,train,blow,hard,the wind blew hard,breathe,firmly
+8,7828,video3088,x7UUvSyEUQg,63.97,92.13,train,blow,outside,a man talking with a woman inside and a storm blowing outside,breathe,outdoor
+9,8706,video3404,ZARtmEwdKV8,344.47,355.19,train,comb,back,a man back combs to make a nineteen-twenties look,brush,backwards
+10,14124,video5478,ZARtmEwdKV8,358.95,385.02,train,brush,aggressively,a man aggressively brushes hair and then talks about how to pin it,brush,firmly
+11,13572,video5284,8btJRgYJKWg,358.51,370.55,train,brush,outside,a guy is brushing his teeth outside in the snow,brush,outdoor
+12,23602,video9078,27dNrAtLkvo,573.51,584.18,train,burn,outside,a walkthrough of minecraft where the guy is burning things with a torch outside,burn,outdoor
+13,5476,video2145,U1fu_sA7XhE,81.84,95.3,train,bring,back,butch of people running towards the ocean to bring their loved ones back to beach because of the shark,carry,backwards
+14,10554,video4123,u7YAXBEPqyM,136.72,147.76,train,bring,back,a dog running out to the middle of a stream picking up a fish and bringing it back to his master,carry,backwards
+15,9860,video3859,ULkzOl70pIQ,15.81,38.17,train,bring,in,a well-dressed man is surrounded by poorly dressed people and told they were sent to bring him in dead or alive,carry,in
+16,18314,video7088,BbhpbztdHUg,82.26,93.27,train,carry,indoors,a woman is carrying a dog indoors,carry,indoor
+17,25582,video9853,YnuRpHkg0H8,143.42,162.21,train,climb,indoors,a person is climbing a stucture indoors the interior of the structure is white,climb,indoor
+18,311,video112,w0lH7HibIwA,181.56,195.58,train,climb,up,these people in blue jackets with helmets  are moving climbing the grass lands high up and then sliding down at a very tremendous speed on the skate boards,climb,upwards
+19,4573,video1769,LkbVtMUshtk,198.4,209.6,train,boil,hard,a person cuts a hard boiled egg,cook,firmly
+20,8321,video3271,sjCnp2l1bP4,62.48,74.62,train,boil,gently,one man making recipe in a saucepan boiling it gently,cook,gently
+21,10220,video4009,XXmpREQR0rg,40.33,50.69,train,fry,light,a lady in her kitchen quickly light fries small pieces of cottage cheese and bayleaf in a non-stick pan on a stove,cook,gently
+22,18456,video7147,Iu2ZPHLqXuY,346.49,361.84,train,fry,in,a man is frying fish in outside,cook,in
+23,597,video225,umnIl5HKIZA,530.65,547.28,train,cook,inside,a woman talking about a meal as it cooks inside of a metal pot,cook,indoor
+24,598,video225,umnIl5HKIZA,530.65,547.28,train,boil,inside,some shrimp stew is being boiled inside of a pot,cook,indoor
+25,875,video321,VBdOXL1-nUI,112.86,130.18,train,sear,inside,a man is explaining how to sear a chicken inside of a skillet,cook,indoor
+26,3475,video1350,yTdBn864am8,579.46,590.34,train,cook,inside,someone is cooking some food inside of a pot,cook,indoor
+27,4891,video1884,_yXoA1joYRY,229.61,254.67,train,cook,inside,a person is cooking food inside of a pot,cook,indoor
+28,8324,video3271,sjCnp2l1bP4,62.48,74.62,train,cook,inside,a person is cooking food inside of a pot,cook,indoor
+29,8506,video3337,v7K8pgtLeWA,123.73,136.77,train,cook,inside,a couple of pots on top of a stove with food cooking inside of them,cook,indoor
+30,1807,video679,tCoydyJLKmQ,396.01,418.77,train,cook,outdoors,person is cooking some meat on the grill outdoors,cook,outdoor
+31,3598,video1399,vGXGxTUJvfw,121.01,134.93,train,cook,outside,a man in a light purple shirt is cooking fish outside,cook,outdoor
+32,8124,video3200,xIsk325A7Bs,98.25,109.85,train,cook,outside,a person is cooking some food outside in a pot,cook,outdoor
+33,8908,video3479,Kh7edwdirX0,155.21,166.53,train,cook,outside,three people cooking outside,cook,outdoor
+34,17964,video6969,wdzwYTJBvrM,41.56,56.77,train,cook,outside,there is a woman cooking outside prepping the food for people,cook,outdoor
+35,18455,video7147,Iu2ZPHLqXuY,346.49,361.84,train,cook,outdoors,a man is cooking outdoors,cook,outdoor
+36,5646,video2216,ZBCnTKDdOus,452.65,470.09,train,bubble,slightly,swirling pancake batter in a black pan and it s bubbling slightly,cook,partially
+37,13351,video5201,1XhsLf7Snfs,664.13,674.34,train,bake,half,a scene from half baked with a man talking into a mic,cook,partially
+38,596,video225,umnIl5HKIZA,530.65,547.28,train,cook,properly,a woman with a british accent specifies how not to overcook the greens in her recipe she is currently working on at her stove as well as how to properly cook the prawns,cook,properly
+39,1155,video439,xatAkyyZnhw,187.57,214.39,train,cook,perfectly,chef in the kitchen is teaching to cook pasta perfectly using sauce,cook,properly
+40,7083,video2805,vXQqpm2WRlQ,138.15,150.15,train,cook,properly,an unseen woman explains how to properly cook pasta,cook,properly
+41,5978,video2346,jhYLpylGdKs,79.57,90.81,train,cook,fast,a chef is yelling at his employees to cook faster,cook,quickly
+42,5649,video2216,ZBCnTKDdOus,452.65,470.09,train,brown,slowly,fast-paced music scores pancake batter being drizzled over a hot pan and slowly browning,cook,slowly
+43,2326,video895,yxjnWx6TaQ8,77.76,87.84,train,cover,totally,a person shows how to roll the frankfurters in a long jar filled with batter so they can be covered totally,cover,completely
+44,13619,video5301,B2kqwCyHsEE,413.25,425.25,train,cover,fully,in the video game a fully covered man is hitting the enemies thus defeating them,cover,completely
+45,15064,video5853,z-gD3esFIm8,120.97,132.31,train,cover,fully,the mountain fully covered with snow and two persons are walking in the snow and one cart is moving inside that one person is sitting and it was pushed by the other persons,cover,completely
+46,10636,video4162,5L0k8jMjP-I,465.0,475.0,train,cover,partially,a white car is partially covered,cover,partially
+47,12746,video4979,yUj8ozTp5JA,13.33,29.33,train,crawl,out,a little devil looking cartoon in green is chasing two bunnies and then gets his spear stuck in the dirt a snake crawls out from a hole where he is stuck and chases him,crawl,out
+48,2175,video840,XE2O1KF7KTA,50.75,72.58,train,cry,loud,small animals with umbrellas in the rain while one of them is crying very loud,cry,loudly
+49,1202,video451,tWbr0vzdVxM,57.2,74.82,train,trim,back,knife cutting a piece of white material off and adding gray pieces too it and trimming it back,cut,backwards
+50,19348,video7484,wOAGgT6dWgQ,36.98,48.78,train,slice,gently,a man is gently slicing a slab of meat with a large knife the meat is on a yellow cutting board,cut,gently
+51,1206,video451,tWbr0vzdVxM,57.2,74.82,train,cut,skillfully,the clay was skillfully cut and crafted with the knife,cut,properly
+52,21755,video8387,j3Sk8ZnAiEA,27.47,37.62,train,dice,quickly,a man is dicing an onion very quickly,cut,quickly
+53,21757,video8387,j3Sk8ZnAiEA,27.47,37.62,train,cut,rapidly,a red onion is rapidly cut by a chef,cut,quickly
+54,14898,video5799,_H267W8LweA,186.81,197.73,train,slice,slowly,man on a restaurant kitchen slowly slices a leaf,cut,slowly
+55,7064,video2797,CS9OO0S5w2k,97.28,108.12,train,dance,hard,people singing and dancing hard,dance,firmly
+56,3385,video1315,6JCLY0Rlx6Q,187.23,198.83,train,dance,poorly,a man is dancing poorly and then suddenly is entertaining,dance,improperly
+57,287,video104,M7CdTAiaLes,591.65,602.65,train,dance,in,a sea of concert goers dancing in around the stage,dance,in
+58,1653,video635,bBUlQxMLyYY,162.69,174.57,train,dance,indoors,a clip showing indian women dancing indoors,dance,indoor
+59,3776,video1472,OcohEgpJc6I,10.2,24.0,train,dance,inside,spongebob and squidward are inside dancing,dance,indoor
+60,6983,video2771,WLfPdOhD0qk,26.27,41.09,train,dance,inside,people are dancing inside,dance,indoor
+61,7307,video2891,rdr54BQIocs,86.45,96.61,train,dance,inside,people are dancing inside,dance,indoor
+62,9103,video3549,7hXZ8MNgsiY,10.22,23.82,train,dance,inside,people are dancing inside,dance,indoor
+63,9352,video3645,TbGI-o41r0o,34.71,59.8,train,dance,inside,an animated woman is dancing around inside of a place,dance,indoor
+64,677,video249,4TEhliSh_f4,164.01,180.61,train,dance,outside,a woman dances around outside,dance,outdoor
+65,1351,video512,PgVhUwjxBcU,40.34,52.47,train,dance,outside,some kids dance around outside,dance,outdoor
+66,1360,video515,OMnzf4OHlOw,3.34,13.46,train,dance,outside,a woman is dancing outside,dance,outdoor
+67,2155,video837,SlGUF9npZAM,405.17,429.46,train,dance,outdoors,people in toques dance outdoors and play winter sports to a remix of land of a thousand dances,dance,outdoor
+68,2907,video1119,c7gQ52Z4WGg,4.34,15.69,train,dance,outside,a group of dogs dance around outside,dance,outdoor
+69,3321,video1288,-RrSYwDeFPg,27.07,37.28,train,dance,outside,a group of people dance outside,dance,outdoor
+70,4227,video1645,MxUNWnna6aI,72.83,85.01,train,dance,outside,a man dances around outside,dance,outdoor
+71,4320,video1670,WEIR3d-j5uk,0.0,10.03,train,dance,outside,girls are dancing outside,dance,outdoor
+72,5379,video2099,uBWrpVrazzA,73.0,85.76,train,dance,outside,small girls are dancing outside to music,dance,outdoor
+73,5390,video2105,q_bljSRIcxM,37.38,48.78,train,dance,outside,women dance together outside,dance,outdoor
+74,5623,video2207,B-UKSU0Uldg,109.96,135.38,train,dance,outside,two girls dancing outside,dance,outdoor
+75,5953,video2335,HwctEiWLe84,167.17,178.73,train,dance,outside,several people were dancing to a song outside,dance,outdoor
+76,6636,video2622,6JludperQ68,7.86,35.62,train,dance,outside,women are shown dancing outside,dance,outdoor
+77,6651,video2628,WgTR916uv4A,82.81,95.17,train,dance,outside,a couple dances outside,dance,outdoor
+78,6694,video2648,CS9OO0S5w2k,62.08,75.36,train,dance,outside,a group of people dance outside,dance,outdoor
+79,8047,video3166,-RrSYwDeFPg,47.13,58.51,train,dance,outside,a group of people dance outside,dance,outdoor
+80,8101,video3194,I-n15mPIKQU,18.19,29.41,train,dance,outside,a group of people dance outside,dance,outdoor
+81,8280,video3264,ynBplqio1R4,91.56,102.11,train,dance,outdoors,man in green shirt is dancing with other people outdoors,dance,outdoor
+82,8637,video3384,yRhDi2aK5ac,18.85,33.33,train,dance,outdoors,a group of children singing and dancing outdoors,dance,outdoor
+83,8661,video3390,c_IXAyFKdxM,649.89,669.73,train,dance,outside,a person dances around outside with a lantern,dance,outdoor
+84,10831,video4236,HwctEiWLe84,73.62,86.76,train,dance,outside,a man dances around outside,dance,outdoor
+85,11567,video4525,4TEhliSh_f4,110.79,123.17,train,dance,outside,a woman dances freely outside,dance,outdoor
+86,20827,video8024,2_2rhdd0h98,327.27,338.85,train,dance,half,people dance half-heartedly at a concert,dance,partially
+87,5837,video2292,1NZpa_uY680,273.21,291.53,train,dance,slowly,a woman is dancing slowly in a forest while a song is playing,dance,slowly
+88,11078,video4331,WaZFp-t2WZs,2.93,19.19,train,dance,slow,a man and woman have a conversation as they slow dance at a party,dance,slowly
+89,24630,video9485,VuLCKi3gJmk,0.0,29.41,train,style,almost,almost funeral styled song while showing a beautiful exotic beach location,decorate,partially
+90,210,video76,wtj77LtGXoo,186.65,213.05,train,decorate,perfectly,someone is showing the perfectly decorated watermelon in a kitchen,decorate,properly
+91,3918,video1529,VQvtXt9rt1Q,224.64,245.69,train,decorate,nicely,very good view of a a fan on a ceiling and a room nicely decorated,decorate,properly
+92,10248,video4019,koTimuE37p4,300.71,311.53,train,drop,down,a lifted mattress is allowed to drop back down onto a bed frame,dip,downwards
+93,13282,video5178,l__QCHfsgF4,124.23,138.7,train,dunk,hard,he dunked the ball very hard,dip,firmly
+94,7395,video2924,1PBUYzWXEIQ,544.25,569.07,train,write,backwards,someone writes cursive backwards,draw,backwards
+95,2339,video901,1PBUYzWXEIQ,533.37,544.25,train,write,nicely,someone writing nicely on paper,draw,properly
+96,9872,video3864,OI3Bcgh4Jko,26.88,40.36,train,drink,fast,a man is drinking very fast from a mug,drink,quickly
+97,2153,video836,lKy7mrAL0Dk,65.57,91.97,train,drive,backwards,someone is driving backwards in a car,drive,backwards
+98,6984,video2772,0vKbLD6_C8k,234.0,249.24,train,drive,down,a car driving down quickly on a street,drive,downwards
+99,22156,video8535,sR2R8thMzUo,6.88,17.46,train,drive,forward,a video game man jumps his dirt bike off the roof of a building and lands perfectly while facing backwards on the street belong before driving forward again,drive,forwards
+100,10709,video4190,TroBbXmAeoc,317.78,336.17,train,drive,in,two men were driving the car in off road,drive,in
+101,19797,video7649,w_F7QrR4Ur8,32.05,48.61,train,drive,in,a tractor is drive in to the forest,drive,in
+102,21118,video8138,th0OGw218qY,0.0,24.86,train,drive,inside,brad pitt is driving around inside of a truck,drive,indoor
+103,3082,video1198,1w7hk-b1ZQA,309.85,320.21,train,drive,outdoors,a man is talking and driving a car outdoors,drive,outdoor
+104,4468,video1725,X0hQ3X8cfFs,0.0,20.87,train,drive,outside,a bus on the road is driving around outside,drive,outdoor
+105,5678,video2229,5WJ5l1nOJDU,498.08,509.6,train,drive,outside,a peoples driving outside in wrost street with full of water,drive,outdoor
+106,468,video166,tHRLX8jRjq8,132.34,144.01,train,drive,fast,a lady driving the pick up truck fast and chasing a large vehicle,drive,quickly
+107,894,video327,CiN1oJT-5CM,32.05,42.76,train,drive,fast,cars are shown driving extremely fast through the city,drive,quickly
+108,1613,video617,twissBYs9Hc,257.17,268.93,train,drive,fast,a car race riders driving the cars very fast on runway,drive,quickly
+109,1744,video663,sHKxcJd7wY8,3.22,19.07,train,drive,rapidly,a blue lamborghini drives rapidly down a busy street,drive,quickly
+110,2399,video922,WNJn5uUbzrw,92.21,104.11,train,drive,fast,a lamborghini driving fast,drive,quickly
+111,2437,video939,4TshFWSsrn8,270.61,282.04,train,drive,quickly,a car is driving very quickly around a track,drive,quickly
+112,2674,video1031,t9FnRvUoA9w,162.84,177.68,train,drive,fast,a man driving the car very fast in the car race,drive,quickly
+113,4435,video1713,4AJPt_qm5kY,390.89,403.13,train,drive,fast,a car is driving fast,drive,quickly
+114,5696,video2236,jst2VwSnE-M,132.29,142.85,train,drive,speedly,a person driving the car speedly alone in the road,drive,quickly
+115,6369,video2506,LOqkGukFVj8,46.05,58.61,train,drive,fast,a car is driving fast down the road,drive,quickly
+116,6985,video2772,0vKbLD6_C8k,234.0,249.24,train,drive,quickly,a car driving down quickly on a street,drive,quickly
+117,8019,video3153,btaq2nxhVSk,476.42,487.3,train,drive,fast,a motorcycle drives fast while a go-pro is used to film,drive,quickly
+118,8089,video3188,bZoWZeHwbXU,30.51,55.77,train,drive,fast,someone is driving a motorcycle very fast,drive,quickly
+119,8890,video3476,ZFcanpNarEg,109.49,139.45,train,drive,fast,a man is driving fast in his race car in an empty road,drive,quickly
+120,8909,video3480,5yA-B7_XR9k,84.69,94.73,train,drive,fast,a man drives a car very fast,drive,quickly
+121,9445,video3690,XWmw4mopa_o,18.58,32.71,train,drive,fast,the person drives by the large green trees really fast,drive,quickly
+122,9694,video3789,ZFcanpNarEg,144.53,164.73,train,drive,fast,a car rider is driving the care very fast,drive,quickly
+123,10136,video3976,YyoXX7soF9o,136.61,151.77,train,drive,fast,a men is driving car very fast and while driving he is talking,drive,quickly
+124,10398,video4077,YR-CFLCeclc,128.73,141.17,train,drive,fast,someone drives a race car very fast on a track in a forest in a video game,drive,quickly
+125,11019,video4307,6LtffXUqgzU,310.37,322.25,train,drive,quickly,a blue rally car drives quickly down a road,drive,quickly
+126,11160,video4360,TcdxvRT89NU,10.88,21.28,train,drive,fast,the player is driving his red formula very fast on the race,drive,quickly
+127,11958,video4679,YNOQa-5B86A,43.53,59.65,train,drive,fast,there is a storm at the side of a road and vehicles are driven away very fast,drive,quickly
+128,12184,video4765,y70CvtVNUm8,0.0,22.57,train,drive,fast,a man outside with a vw jetta in the background which can drive very fast,drive,quickly
+129,12290,video4807,Ghf0raK1HOw,199.65,210.26,train,drive,fast,a car is driving fast,drive,quickly
+130,12314,video4816,YqcfOKaIwqY,61.61,71.83,train,drive,fast,the man is driving the bike fast on the road while the man and woman are talking on phone,drive,quickly
+131,12404,video4845,cx8mjqHQqn4,31.08,45.59,train,drive,fast,a guy driving very fast in a car,drive,quickly
+132,12466,video4868,-UNWszs05kU,90.08,101.75,train,drive,fast,car is driving fast,drive,quickly
+133,12702,video4958,HvtHYSubcU4,683.28,695.71,train,drive,fast,a racecar driving fast,drive,quickly
+134,12960,video5057,ZdUUY9ibX6I,200.04,228.03,train,drive,fast,a man wearing a cap is driving his car very fast,drive,quickly
+135,13195,video5150,79x3vR68xR0,361.57,371.65,train,drive,fast,a car is driving fast,drive,quickly
+136,14097,video5469,sF19L00KbAI,0.0,23.35,train,drive,fast,the big train is driven very fast on the railway,drive,quickly
+137,3856,video1510,TroBbXmAeoc,360.66,375.76,train,drive,slowly,a man in a black shirt and black car drive slowly to show off the tires,drive,slowly
+138,3963,video1550,_U8o0xwqLOU,262.49,273.29,train,drive,slowly,a person drives a car slowly up a mountain road on a rainy day,drive,slowly
+139,4469,video1726,CVy9Y5CLw28,9.31,25.57,train,drive,slowly,a car drives by the camera slowly,drive,slowly
+140,5428,video2126,tFc5jBcitPY,117.25,127.53,train,drive,slowly,a volkswagen drives slowly down a dirt road in the country,drive,slowly
+141,8284,video3266,Z32sAmV48C0,165.51,193.47,train,drive,slowly,some one driving the truck very slowly on the road,drive,slowly
+142,14362,video5587,90GOQxI_7Zc,717.1,728.64,train,drive,up,the truck drove up,drive,upwards
+143,16401,video6375,yyMpZyF1VDg,423.04,448.43,train,drive,up,an orange classic sports car drives up on sidewalk to avoid oncoming traffic on road,drive,upwards
+144,18442,video7138,2McWGF6zqKc,775.96,798.38,train,drive,up,a car drives up and parks in a parking space,drive,upwards
+145,12965,video5058,X9vOoXU56KI,83.23,94.51,train,eat,gently,in the restaurent the men is eating food in gently,eat,gently
+146,9045,video3531,1VQ_3sBZEm0,171.81,183.32,train,taste,bad,a stewardess brings a pilot bad tasting coffee while people are dancing on the plane,eat,improperly
+147,15200,video5914,TOryVF_iM9Q,9.39,24.78,train,chew,loudly,a man in a blue shirt is chewing loudly while another man watches,eat,loudly
+148,5822,video2287,uwkwx8V5qWI,176.06,189.37,train,eat,outside,an advertisement shows a man eating outside of a restaurant,eat,outdoor
+149,9807,video3833,XpUUgOUReoU,104.15,116.41,train,eat,outside,a big snake is eating s smaller snake outside,eat,outdoor
+150,1017,video381,zAQb5kP7ajI,168.51,181.85,train,eat,slowly,in the glass chamber the spider is eating a cockroach slowly,eat,slowly
+151,9804,video3833,XpUUgOUReoU,104.15,116.41,train,consume,slowly,in a desert a large black snake slowly consumes a smaller brown snake,eat,slowly
+152,4102,video1602,ymCTWX7Lu6I,58.49,70.17,train,enter,in,a black car is enter in between the crowd,enter,in
+153,14572,video5672,WqLohtxwFO0,0.0,13.8,train,enter,outside,an telugu horror movie scene about the sage visited the house and one of the man is unable to enter outside due to devil soul entered into the body,enter,outdoor
+154,25244,video9709,VuNxH1-EnwY,344.56,368.75,train,exit,properly,in front of a school a safety explains how to properly exit a bus as a line of children walk down the steps in a line,exit,properly
+155,25110,video9660,xgJyoKUHzpQ,261.38,277.79,train,extend,forward,a type writer extends paper forward then types a few words,extend,forwards
+156,15403,video5989,YKo4KKQjR8k,69.75,82.8,train,reach,in,large glass candy container filled half way with assorted candies show a hand reach in and take out a lollipop,extend,in
+157,198,video74,tcnLD6ePch4,180.23,191.24,train,reach,out,hands reaching out from the screen with people screaming don t touch me don t touch me and blood squirting,extend,out
+158,17332,video6754,isrKOZ5Rgc4,267.45,280.89,train,reach,almost,a golf ball almost reaches the hole,extend,partially
+159,7105,video2810,yESL-NeAkBk,46.64,59.32,train,reach,successfully,little hamster successfully reaches the peak of his play set to reggae beats after a brief struggle to,extend,properly
+160,18728,video7238,XiFXclDgxCk,152.7,171.82,train,reach,slowly,a scary claw hand slowly reaches down for a woman lying in bed,extend,slowly
+161,4174,video1627,v7AYKMP6rOE,1054.48,1065.53,train,reach,upward,a woman is exercising with hands and arms reaching upward,extend,upwards
+162,2353,video905,YbkhZeXT67s,79.31,108.18,train,fall,back,the baby monkey wakes up and begins to scratch himself then falls back to sleep,fall,backwards
+163,12987,video5069,ZMN2Bs_Cr1A,501.13,513.77,train,fall,backwards,a young man bouncing a basketball walks into another young man wearing a red cap the man with the ball falls backwards onto the ground,fall,backwards
+164,16498,video6403,YavcnEIRa6U,0.0,10.02,train,fall,in,a person swings out over a river and falls in,fall,in
+165,7094,video2806,U37lyRoECn4,37.08,49.68,train,fall,almost,the little puppy is so excited to eat he almost falls onto his food plate,fall,partially
+166,11294,video4410,v_fnFbd_R9U,46.47,57.86,train,fall,nearly,a very beautiful young woman poses in skimpy bathing suits with a thong gripping her muscular glutes as she arches her back with a nipple nearly falling out of her gossamer top and a lusty look in her eyes,fall,partially
+167,17186,video6689,0plgkpfx-RA,240.53,254.09,train,fall,slowly,an animated object with tentacles is slowly falling onto a group of people,fall,slowly
+168,5811,video2285,UcF_QBfizxE,138.05,153.41,train,fight,hard,there is a man fighting hard on the ground,fight,firmly
+169,11676,video4559,82Os_vTLBx4,368.18,383.13,train,fight,hard,this is a portion of a hard fought wrestling match,fight,firmly
+170,12796,video4991,xachpa6-CXo,100.85,113.89,train,fight,hard,there is a crocodile fighting hard for food,fight,firmly
+171,666,video245,ZFJY5Fcpvqc,138.17,156.65,train,fight,outside,a few people start fighting each other outside then inside and ran out the building,fight,outdoor
+172,11894,video4645,ONaZW59Nibk,416.95,432.85,train,battle,outside,a person is battling a character outside of a wrestling ring,fight,outdoor
+173,19885,video7686,tfkRDVrFOyw,488.01,509.67,train,fight,outside,a man talks as a group of people are fighting outside,fight,outdoor
+174,17157,video6680,Yh-Qg8hsNQE,5.05,24.37,train,fight,almost,a large and small monkey are almost fighting over a branch with leaves on it that they are eating,fight,partially
+175,18807,video7266,bYM9P5L0ilo,174.49,184.93,train,fill,down,a guy demonstrating how to fill a bottle upside down,fill,downwards
+176,3790,video1479,sLZIUFq1Wds,69.98,84.13,train,fit,inside,a man providing a demonstration of how much candy can fit inside of a cup along with two disney toys,fill,indoor
+177,11842,video4623,BVyKFDNp5uQ,31.01,41.89,train,pack,outside, one in a white shirt and one in a blue shirt are packing groceries outside in plastic bags and the man in white distributes a bag to a man who may be homeless,fill,outdoor
+178,10075,video3956,YKo4KKQjR8k,95.88,109.79,train,fill,partially,a large glass fish bowl is partially filled with pocket change,fill,partially
+179,4594,video1776,X8PFRnQEQ2Q,170.46,186.84,train,fly,back,a player is hit by wizards fireball and flies back into home that is collapsing,fly,backwards
+180,12273,video4798,ZXTCtpdY6b0,105.67,116.92,train,fly,down,a helicopter flies through the skies upside down in a game,fly,downwards
+181,1937,video742,yuXUAPy8fGw,24.89,52.57,train,fly,in,russian supplies to syria are flown in each day,fly,in
+182,25754,video9912,SkDSgxox3rM,0.0,13.49,train,fly,outdoors,person is recording the birds which fly outdoors,fly,outdoor
+183,11983,video4690,cZXjQee9VA4,66.2,79.21,train,fly,fast,a plane if flying real fast,fly,quickly
+184,11516,video4500,yQBKQEbAw0k,225.51,248.03,train,fly,up,shows a cardinals player up to bat he swings and clips the end of the wooden bat the white ball flies up onto the dug out roof,fly,upwards
+185,21677,video8353,xDK2Embt1Tk,59.41,77.01,train,fold,down,a young man dressed in black discusses selling a land rover and how its back seats fold down,fold,downwards
+186,5388,video2105,q_bljSRIcxM,37.38,48.78,train,fold,in,a woman and a girl folding a dress in out door,fold,in
+187,10920,video4265,7I0JgHFTrQw,41.09,51.47,train,fold,quickly,hands fold paper quickly,fold,quickly
+188,2501,video960,0s2m9Q9Hrzg,60.73,70.99,train,fold,up,a lady folding a stroller up,fold,upwards
+189,21125,video8139,x7ot7e7MS8A,85.09,114.37,train,follow,correctly,a bird teacher explains how a bird should be taught to follow instruction correctly to get the treat,follow,properly
+190,21867,video8431,yJuO5qDJDFo,66.41,80.85,train,follow,quickly,a black sports car races quickly followed by other cars,follow,quickly
+191,9677,video3784,XiscvoO6GMU,9.47,20.15,train,wave,out,a little girl with blue hair is jumping and waving in inside out,gesture,out
+192,4111,video1607,RCC9NSJURiE,31.49,47.97,train,knock,back,a child laying in a bed knocking back on a wall and texting on her phone,hit,backwards
+193,4589,video1776,X8PFRnQEQ2Q,170.46,186.84,train,knock,back,a character gets knocked back into a collapsing building by enemies,hit,backwards
+194,7711,video3043,XmOKkId7WAY,216.23,237.45,train,hit,backwards,a baseball player hits a ball backwards,hit,backwards
+195,2301,video885,yQJptpmgIUE,79.96,93.72,train,slap,down,the korean actor is happily thinking about the time when the woman slapped his hand down,hit,downwards
+196,20789,video8007,SGSE_XPF4_g,124.17,147.19,train,hit,down,the woman with muscular body hits the man down,hit,downwards
+197,817,video302,sYzs02otPZc,220.9,248.8,train,hit,forcefully,a black dress man forcefully hits the ball in the ground,hit,firmly
+198,1713,video655,t9Hnh6ajJCM,69.77,90.16,train,tap,hard,players tapping the ball hard in a volleball match,hit,firmly
+199,2315,video890,s_a0pwylgBA,25.45,36.57,train,hit,hard,a rugby player in a black uniform is hit so hard he drops the ball,hit,firmly
+200,2946,video1140,uQp9iwVzN5Q,47.69,59.01,train,punch,hard,a boxer punches a dummy lady harder,hit,firmly
+201,5239,video2038,SX_y7uq8598,236.91,250.78,train,hit,hard,baseball players hitting the ball hard with bat,hit,firmly
+202,6613,video2608,XD4CccRdfCA,31.84,44.38,train,hit,hard,the player in red shirt is hitting the ball so hard,hit,firmly
+203,6818,video2702,CxidNsTttHk,0.0,27.61,train,knock,lightly,a group of people lightly knock around a softball or a baseball,hit,gently
+204,21594,video8320,vfS8O9G1FHw,36.45,66.01,train,nail,in,in the room the small girl is make their eye nail in very well,hit,in
+205,6015,video2361,-CrTa3SgLu4,0.0,30.0,train,beat,outside,a man is beat boxing outside surrounded by lots of people and there are a few kids dancing one of them is trying to break dance and the crowd is excited by it,hit,outdoor
+206,6819,video2702,CxidNsTttHk,0.0,27.61,train,hit,outside,a person is tossing a ball and the other person is hitting the balls with a baseball bat outside,hit,outdoor
+207,8395,video3306,29ZA7Ag4d_U,366.91,380.05,train,hit,almost,a large car crashes into a smaller car then another van almost hits a different car,hit,partially
+208,9737,video3803,xhYSTvOLrEk,36.15,48.28,train,hit,nearly,a man is driving around an oil truck and is nearly hit by an oil truck turning towards him,hit,partially
+209,3565,video1388,Youn_lyV-RM,223.53,235.49,train,hit,successfully,a table tennis player rejoices at an indoor stadium where he successfully hits a perfect spin shot,hit,properly
+210,5240,video2038,SX_y7uq8598,236.91,250.78,train,hit,perfectly,a base ball player hits a ball perfectly out of the stadium,hit,properly
+211,1727,video658,wkAeEzLMhlY,206.35,218.97,train,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly
+212,2388,video918,sG2aDu9wD_0,191.49,201.73,train,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly
+213,3933,video1536,TdEBIXpeDHQ,9.89,36.09,train,hit,fast,two men play ping pong in an arena hitting the ball back and forth very fast scoring points,hit,quickly
+214,7228,video2860,W4oIrtzDIcQ,7.62,33.18,train,hit,vigorously,two men hit a tennis ball back and forth vigorously in an attempt to score a point,hit,quickly
+215,9893,video3872,YWpB0HlPXuA,186.21,197.49,train,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly
+216,11452,video4474,YQNLyJ8SApk,177.49,196.61,train,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly
+217,12448,video4861,vIOn7F6o7NA,53.11,77.91,train,volley,vigorously,two men compete in a game of table tennis by vigorously volleying the ping pong ball over the net,hit,quickly
+218,15067,video5855,vGCbTgJ2yH0,34.55,52.57,train,hold,back,a person is hold her hair back to take a picture,hold,backwards
+219,9238,video3599,xIOwwi1Ei7U,17.58,40.21,train,hold,down,a clip of two cats one holding the other down,hold,downwards
+220,18174,video7034,SeXGoxN9B70,76.92,93.52,train,hold,down,a man holding a doll upside down and talking about videos,hold,downwards
+221,1684,video643,VHaabZ3Xlfw,150.18,164.98,train,hold,forward, wearing a black shirt with a vertical yellow stripe on the side speaks with his hand often held up palm forward,hold,forwards
+222,4867,video1875,sJG3Z45HaIE,22.9,37.8,train,grasp,tenderly,a man hugging an article of clothing then tenderly grasping a woman s neck while another man looks on,hold,gently
+223,7519,video2963,wI6VyDDa1tA,151.73,163.17,train,hold,inside,someone is holding an electronic device inside,hold,indoor
+224,13608,video5295,WHTJWJkpsJc,160.64,172.59,train,hold,inside,a man is holding a phone inside of a room,hold,indoor
+225,8907,video3479,Kh7edwdirX0,155.21,166.53,train,hold,outside,spanish cooking show that is being held outside,hold,outdoor
+226,15655,video6083,xotmTHeUe7k,30.31,40.65,train,hold,outside,a man is holding a nasty brown spider outside,hold,outdoor
+227,46,video21,SF8G--iZN4U,75.19,103.52,train,grip,properly,a man discusses how to properly grip and hold a tennis racket,hold,properly
+228,4268,video1656,yK-v7B0H4wM,40.75,59.71,train,grip,properly,a man is explaining how to properly grip a baseball,hold,properly
+229,7899,video3120,_Zq-OHCNx7o,5.37,25.45,train,hold,properly,a man in a gray polo describes how to properly hold a table tennis racquet,hold,properly
+230,4081,video1594,_1E6EUrnXZs,230.34,242.39,train,hug,outside,a man and woman are hugging outside,hug,outdoor
+231,9716,video3798,VVMs237ppcc,94.51,105.31,train,jump,backwards,a man is walking on a trampolin and jumping backwards on it,jump,backwards
+232,3687,video1437,Bh44DyW1KEc,107.02,118.23,train,jump,in,a dog swims in the family pool then another dog jumps in to play,jump,in
+233,4287,video1659,wSpLHsGk4so,110.45,124.65,train,jump,inside,people are shown exercising and jumping a hurdle inside of a gym and one of them trips over it and falls on their face,jump,indoor
+234,2189,video843,0pNbHvNxxj8,569.75,589.17,train,jump,out,a video game character jumps into a large truck then back out,jump,out
+235,10097,video3965,SePja8XXz6I,79.36,91.64,train,jump,outside,a person jumping on a trampoline outside,jump,outdoor
+236,10878,video4252,Y9q5hoTIA3g,185.53,201.95,train,jump,outside,a small rodent is jumping around outside,jump,outdoor
+237,11125,video4351,yCufU6AJVqc,8.86,19.87,train,jump,outside,a boy is jumping on a trampoline outside,jump,outdoor
+238,14647,video5701,Y9q5hoTIA3g,355.34,377.59,train,jump,outside,a small rodent is jumping around outside,jump,outdoor
+239,17501,video6812,zr4rkxL6jHw,30.76,40.76,train,jump,outside,a horse is jumping outside,jump,outdoor
+240,815,video302,sYzs02otPZc,220.9,248.8,train,kick,outdoors,several men are kicking a soccer ball through a goalpost outdoors,kick,outdoor
+241,11684,video4564,WyNSJU02ywo,84.0,94.04,train,kick,properly,a guy speaking about how to properly kick a ball with a baseball bat,kick,properly
+242,4792,video1843,qQf1gvxVFOM,319.99,331.87,train,kiss,almost, two young people almost kiss in a car three people standing in a room in front of a large deer head,kiss,partially
+243,15097,video5870,XWzYOpWi65E,36.75,57.47,train,land,properly,several impressive ski jumps that land properly and safely,land,properly
+244,11190,video4370,C0XYQQFBK4w,831.55,842.49,train,laugh,hard,bowzer is laughing hard,laugh,firmly
+245,5061,video1957,sTDPUjyF0Fw,10.26,24.2,train,laugh,loudly,the man in blue shirt is talking and laughing loudly in front of camera,laugh,loudly
+246,16269,video6335,TMJf9ReoDNg,223.1,243.17,train,laugh,loud,2 young men sitting on a white couch looking at something start laughing out loud,laugh,loudly
+247,8846,video3460,1R3uANhiWu4,1320.05,1335.54,train,look,back,a woman finds an abrasion on her face after looking back into the mirror,look,backwards
+248,9093,video3545,sWBKCzzNEeo,0.0,15.29,train,look,back,a woman in a baseball hat turning in slow motion to look at a man running away then looking back at the camera,look,backwards
+249,1317,video498,qSBWgH5AUIQ,39.01,60.89,train,look,down,a man looks down,look,downwards
+250,1869,video712,USEpUcdqciQ,97.21,109.93,train,look,downwards,a man is looking downwards and speaking to another man he is wearing a black vest,look,downwards
+251,3054,video1185,x3dBFQeI9Ig,23.07,33.55,train,look,down, looking down while walking and carrying a backpack,look,downwards
+252,3254,video1267,wJT_v5sRilM,49.21,69.93,train,look,down,while sitting by bookcases a woman looks down occasionally when asking a question and a man looks up and to the side occasionally when answering the question,look,downwards
+253,3886,video1517,wt-Ay3sWFaA,53.33,73.17,train,look,down,a man puts a donut hole inside of a donut and looks down,look,downwards
+254,6755,video2679,rlBYIgQYUm0,150.33,164.97,train,look,down,a girl smiles and looks down at her bed and then knocks on the wall behind her,look,downwards
+255,9572,video3734,XUVyWBfmMyU,86.05,97.01,train,look,down,looking down over small tables and people sitting at them,look,downwards
+256,22145,video8534,RINwpg4hmlc,105.46,117.96,train,look,hard,a bunch of men looking hard and saying something at the end,look,firmly
+257,7981,video3140,xOKHCHk3a5s,111.61,121.61,train,look,forward,a song is playing with the visual of a male vampire and then a woman sitting at a table  the camera then pans to a bigger picture of her looking forward,look,forwards
+258,2445,video940,SSmpO5eG6ys,321.54,345.53,train,look,in,a fish tank filled with puffer fish a kid on the outside looking in trying to startle on of the fish,look,in
+259,6475,video2546,mgqwMxnPVNU,307.02,318.67,train,look,inside,a kid looks at her phone inside then a lady turns her phone around to talk into it,look,indoor
+260,7982,video3141,wcEK-K7ysTc,97.02,110.91,train,look,inside,a man is holding a monkey to a window for the monkey to look inside,look,indoor
+261,15938,video6209,uWNyNw8RLB4,134.85,145.48,train,look,indoors,a man and a woman looking at a picture indoors,look,indoor
+262,141,video51,-4-WZv-jKso,288.13,300.23,train,look,outside,a person is looking around outside,look,outdoor
+263,1397,video532,vi56l-gYqmk,10.16,23.34,train,look,outdoors,a man is looking at the camera outdoors very surprisingly,look,outdoor
+264,4371,video1692,ulcZMQ3QY-w,40.35,57.01,train,stare,outside,a child staring at a train outside in the snow,look,outdoor
+265,4375,video1692,ulcZMQ3QY-w,40.35,57.01,train,look,outside,kid in looks outside of door then waiting in front of a train,look,outdoor
+266,6340,video2487,vscUcqrwQ98,15.4,34.35,train,peep,outside,a railway track and train moving on track fast person in white dress color sitting peeping outside displaying on screen,look,outdoor
+267,10794,video4220,__FmZWlsOf0,593.61,618.27,train,look,up,a biker comes to a petrol bunk removes his gloves then riding fast on road looking up,look,upwards
+268,12414,video4848,ZbfHccPdYcE,133.71,144.29,train,look,up, with a sweaty face looks up at a gooey and breathing life form of connected rods a claw,look,upwards
+269,18715,video7236,YVOFTbVB7D8,85.69,95.9,train,look,up,guy walking looking up,look,upwards
+270,2056,video801,VwJPHyoeqwY,279.29,300.98,train,make,gently,the music people is making the pudding food items in gently,make,gently
+271,623,video234,Vuy2nrJz0Zw,275.99,300.78,train,make,in,in the kitchen the old lady to making the south indian vada snacks in very well,make,in
+272,2055,video801,VwJPHyoeqwY,279.29,300.98,train,make,in,the music people is making the pudding food items in gently,make,in
+273,1144,video433,vhPzIzszlrU,346.76,357.87,train,prepare,inside,some meat is being prepared inside of a skillet and is sizzling beautifully,make,indoor
+274,2116,video820,usNaxOOQCzM,90.81,110.49,train,make,inside,a machine in a room is making some stuff inside,make,indoor
+275,2844,video1093,W3YVmSMl-fY,13.93,26.45,train,prepare,inside,a woman preparing food inside of an orange and white kitchen,make,indoor
+276,3746,video1456,TNZaw-xGOgg,122.34,139.94,train,make,inside,a person with a plaid shirt is making some food inside,make,indoor
+277,18238,video7059,xYK-SK2KsH4,160.98,187.75,train,make,loudly,at the pet shop the parrotlove birds are making their noises in very loudly,make,loudly
+278,1658,video636,NuZy8Rjk4d0,246.77,273.81,train,build,outdoors,a man showing how to build a fire outdoors,make,outdoor
+279,1776,video674,VTW9R2DcyDI,117.69,131.17,train,mold,outdoors,the person  mold the dough with her finger outdoors,make,outdoor
+280,2628,video1016,NuZy8Rjk4d0,281.77,301.25,train,build,outside,a man is building a fire outside,make,outdoor
+281,5251,video2042,xw9Au9OoN88,434.23,451.87,train,make,outside,the boy and girl standing in the lawn and the celebrations made in outside,make,outdoor
+282,11828,video4618,NFb0SUCeiro,138.01,148.53,train,make,outside,a man is making a fire outside,make,outdoor
+283,9790,video3826,xkJeDkiL3Rc,137.12,159.91,train,make,barely,a player just barely makes first down in football game,make,partially
+284,8655,video3388,Z6c8hIW7bhI,164.38,190.3,train,prepare,properly,a cook showing how to prepare tofu properly,make,properly
+285,9832,video3849,UZ-k4A-eD20,119.97,130.01,train,make,properly,a woman wearing blue serving gloves demonstrates how to properly make a burrito,make,properly
+286,17725,video6882,9dAlUUo66fo,206.42,222.31,train,make,quickly,a girl quickly makes a reservation on her smartphone,make,quickly
+287,25138,video9670,tPOivsKavQo,65.53,88.33,train,construct,up,windmills constructed from the ocean floor up spin in groups,make,upwards
+288,1796,video677,Ub9Z4UXU_MM,209.99,220.27,train,dissolve,fully,an yellow stuff being stirred in bowl with a redish liquid to get a fully dissolved substance,mix,completely
+289,15998,video6228,XbaC0YIRfpM,427.77,449.1,train,stir,completly,in pan oil is added then a white ingredients are added to it and stirred completly,mix,completely
+290,13872,video5385,WFqw5V-p5Z4,195.38,205.49,train,whisk,in,milk is being poured into a metal bowl and whisked in with other ingredients,mix,in
+291,1767,video669,Ub9Z4UXU_MM,309.89,326.04,train,stir,inside,someone is stirring food inside of a pot,mix,indoor
+292,1793,video677,Ub9Z4UXU_MM,209.99,220.27,train,whisk,inside,a man whisking ingredients together inside of a metal bowl,mix,indoor
+293,5531,video2172,wuAYZvMDons,43.49,53.7,train,mix,inside,a person is mixing some flour inside of a cup,mix,indoor
+294,6494,video2551,wW_kszdGIJw,260.17,288.85,train,stir,inside,someone is stirring food inside of a pot,mix,indoor
+295,7411,video2928,yQDw-P3CkAw,42.39,58.57,train,mix,inside,a person is mixing something inside of a cup,mix,indoor
+296,8555,video3354,WtFjpHQM__k,345.18,362.61,train,mix,inside,a person is breaking and mixing a brown substance inside of a white bowl,mix,indoor
+297,9603,video3753,Uz5dp7b9mwI,143.21,161.75,train,stir,inside,a man has poured tomato sauce into pasta and is stirring it inside of a black skillet,mix,indoor
+298,10221,video4009,XXmpREQR0rg,40.33,50.69,train,stir,inside,someone is stirring food inside of a pot,mix,indoor
+299,11501,video4492,TGY3iP4X34c,218.73,229.21,train,stir,inside,someone is stirring food inside of a pot,mix,indoor
+300,14694,video5719,cnpA9L8GPw8,96.11,108.29,train,mix,outside,a little girl is mixing paints outside under the tarp,mix,outdoor
+301,3099,video1205,v_dkYNq8G9Y,296.48,307.21,train,stir,fast,a hand is stirring chicken very fast with a spoon in a frying pan,mix,quickly
+302,22008,video8483,0h7BCFxQBzo,19.77,31.13,train,stir,slowly,slowly stirring the water into flour,mix,slowly
+303,23950,video9207,_V7iMAv0mY4,64.98,75.86,train,blend,upwards,a woman applies a purple eyeshadow to her outer and inner eye blending upwards into the crease,mix,upwards
+304,1647,video632,BlWSWcc6sSM,1496.81,1507.37,train,hang,down,performers hang upside down from ropes,mount,downwards
+305,4489,video1731,TASGl0_jnjU,164.93,178.29,train,hang,down,a girl hanging upside down who has long frizzy and curly hair,mount,downwards
+306,5778,video2272,5cA9cGUGr00,172.85,186.19,train,hang,outside,a group of people hanging out outside,mount,outdoor
+307,15861,video6169,STPtzQYygTY,0.0,12.73,train,hang,outside,a group of men are hanging out with drinks outside while a mounted policeman s horse accidentally hits one of them in the face,mount,outdoor
+308,18209,video7047,YrIa5TgpIL0,160.37,177.69,train,hang,outdoors,many striped textiles hang from a clothesline outdoors,mount,outdoor
+309,8296,video3266,Z32sAmV48C0,165.51,193.47,train,move,back,a driver in red t-shirt is trying to moving back his truck,move,backwards
+310,313,video112,w0lH7HibIwA,181.56,195.58,train,slide,down,these people in blue jackets with helmets  are moving climbing the grass lands high up and then sliding down at a very tremendous speed on the skate boards,move,downwards
+311,12081,video4726,wnPQ2XT8Qvw,170.22,182.86,train,move,down,music was playing and water moving down from a mountain,move,downwards
+312,1531,video579,WTAF3OFhzdA,1172.85,1192.29,train,move,forward,a man is swimming on one side of his body using only one hand and moving forward with his legs,move,forwards
+313,2268,video875,zKHEDfea-5I,199.85,212.93,train,move,forward,the chemistry periodic table breaks apart and the squares containing br and ba move forward,move,forwards
+314,6986,video2772,0vKbLD6_C8k,234.0,249.24,train,move,forward,a view of a cars dash cam the car is moving forward,move,forwards
+315,9159,video3573,TbGI-o41r0o,159.55,170.38,train,move,forward,the man in the animation is moving forward,move,forwards
+316,5275,video2052,wZYa9ZKZeDk,0.0,24.44,train,move,in,there is a satellite is moving in to the space,move,in
+317,6852,video2717,_lYV47k3Rvw,323.85,343.85,train,move,in,there is a red car is moving in to the city,move,in
+318,8804,video3448,U0CGsw6h60k,64.67,79.84,train,move,in,there is a yellow color car moving in to the street,move,in
+319,12885,video5028,ZyEnVLPhjUc,160.84,171.59,train,move,in,vehicle moving in between field in shown in this cartoon clip,move,in
+320,13340,video5197,2EZ_zGACOdo,0.0,17.53,train,move,in,the camera moves in on the video game schoolhouse,move,in
+321,13383,video5209,_WIiBnIw10Q,34.32,48.83,train,move,in,there is a crowd is moving in to the street,move,in
+322,4396,video1698,Xe5h9y29iUw,122.29,138.29,train,drift,indoors,a man is drifting a motorcycle around indoors to create a lot of smoke,move,indoor
+323,5115,video1989,Z32sAmV48C0,12.16,28.04,train,move,hardly,a lorry is moving through the mud and river very hardly ,move,partially
+324,853,video312,YT6hpnZ_xjI,8.13,24.33,train,move,fast,a car   parking on road and driver moving to  start a car fast moving on road persons beside standing  displaying on screen,move,quickly
+325,1139,video431,vKVJ5yvM1bY,167.93,193.97,train,move,fast,a police man entering in gate and fire exploding bombing glass breaking of cars persons moving fast displaying on screen,move,quickly
+326,1926,video741,xW28F8QRVVo,255.3,265.45,train,move,fast,beautiful scenery moving fast as men dig tunnels,move,quickly
+327,3544,video1375,wETgdf9FM-4,146.25,161.93,train,move,fast,a car is moving very fast in a road with snow covered,move,quickly
+328,4084,video1595,vG8SDYb7ZMQ,331.08,354.4,train,move,fast,a fast moving train in the tracks some train and the platforms are seen few goods train standing,move,quickly
+329,4479,video1729,Y3GwvN5W1dE,337.05,351.4,train,move,fast,something is moving on screen very fast cannot recognize what it is,move,quickly
+330,5048,video1953,Z2eE08eZUTw,161.98,172.29,train,move,fast,a boy in black dress moving in water fast,move,quickly
+331,6018,video2363,UozWJTuhbMQ,113.06,127.57,train,move,fast,there are lots of insects moving very fast on dry leaves,move,quickly
+332,6339,video2487,vscUcqrwQ98,15.4,34.35,train,move,fast,a railway track and train moving on track fast person in white dress color sitting peeping outside displaying on screen,move,quickly
+333,6509,video2555,W2asVll3OSU,290.2,300.48,train,move,fast,a fast moving film of a woman applying makeup,move,quickly
+334,6987,video2772,0vKbLD6_C8k,234.0,249.24,train,move,fast,car moving very fast here,move,quickly
+335,7120,video2818,xfPvtIOs5IA,94.84,105.02,train,move,fast,a boat is moving fast as they see shark attacking it,move,quickly
+336,7250,video2869,4TshFWSsrn8,198.62,210.67,train,move,fast,a person is moving fast in a car,move,quickly
+337,8179,video3225,sKPrwY0Ycno,10.36,36.35,train,move,fast,water flows and clouds are moving very fast and the mountains are crossed,move,quickly
+338,8497,video3335,Xe5h9y29iUw,43.25,62.33,train,move,fast,a  red bike moving on road fast wearing black dress cloth wheeling bike displaying on screen,move,quickly
+339,8893,video3476,ZFcanpNarEg,109.49,139.45,train,move,fast,a car moving on road fast racing wearing helmet driving displaying on screen,move,quickly
+340,9444,video3690,XWmw4mopa_o,18.58,32.71,train,move,fast,there is some vehicle is moving very fast through the forest,move,quickly
+341,9510,video3712,v0MZQvPTK9c,530.11,543.96,train,move,fast,a girl and kid moving fast on road driving vehical fast waving hand trees beside laughing  displaying on screen,move,quickly
+342,9546,video3724,8wI7U2eec6E,123.18,145.25,train,move,quickly,a woman plays a grand piano while things around her move very quickly,move,quickly
+343,10056,video3947,bwmn2CThQ2Y,212.73,222.94,train,move,fast,computer game showng car moving fast,move,quickly
+344,10315,video4045,2lCA3T--IfU,820.73,837.05,train,move,fast,the video game featured a fast moving vehicle,move,quickly
+345,10396,video4077,YR-CFLCeclc,128.73,141.17,train,move,fast,a person is driving a car in first person view and the car is moving very fast,move,quickly
+346,10441,video4091,W_x1lY7t1p0,34.33,44.41,train,move,fast,a man in white shirt is moving very fast in his speed boat,move,quickly
+347,11174,video4364,wv-I-Wb9K98,43.85,54.09,train,move,fast,a car is moving very fast in a road with snow covered,move,quickly
+348,11572,video4526,V22Ll4jQ_zc,32.85,51.35,train,move,fast,a vehicle moves fast on the road and the outside scenery are visible through the side glasses,move,quickly
+349,11897,video4646,z-NWf8ChNNQ,159.89,175.01,train,move,fast,a  person in black color cloth wearing sitting inside car white color car moving on road fast  displaying on screen,move,quickly
+350,2827,video1090,tXkYu9kVEb8,603.65,629.41,train,move,slow,the people are walking along a very slow moving river bed,move,slowly
+351,3889,video1517,wt-Ay3sWFaA,53.33,73.17,train,move,slowly,man playing with his food then moving slowly and talking,move,slowly
+352,6411,video2523,-DzD81kL--U,21.09,47.46,train,move,slowly,a league of legends character moves slowly in the same spot,move,slowly
+353,9021,video3522,CVy9Y5CLw28,169.76,182.23,train,move,slowly,a car moving slowly,move,slowly
+354,10707,video4190,TroBbXmAeoc,317.78,336.17,train,move,slowly,a car is moving slowly from low land to little high land and comes down,move,slowly
+355,10965,video4285,y9oQAnpeuUo,563.05,574.81,train,move,slowly,a train slowly moving around a scenic body of water with mountains around,move,slowly
+356,7794,video3077,xBzFCUM2_ho,3.65,15.03,train,scroll,up,a photo of earth is shown scrolling up followed by text,move,upwards
+357,11634,video4545,WbHEosCN22k,37.69,63.41,train,move,up,the skater moves up with sticks on the ice and progresses while a great number of spectators watch,move,upwards
+358,19845,video7665,HfBGE3VmEzk,354.07,368.92,train,open,correctly,a woman is getting ready to show viewer how to open up a folded baby stroller correctly,open,properly
+359,16651,video6467,vkwCQH6IVhM,27.7,38.34,train,paddle,out,a guy paddles a surfboard out into the ocean and rides a wave,paddle,out
+360,20962,video8079,npfwYuMDm9k,332.84,344.4,train,row,swiftly,men are rowing boats swiftly in a boat race,paddle,quickly
+361,1634,video624,Xa7Bgj0y3eg,49.69,70.89,train,park,outside,a van is parked outside of a white building,park,outdoor
+362,4814,video1855,ZdUUY9ibX6I,6.93,20.32,train,park,outside,a neon green lamborghini parked outside is viewed from multiple different camera angles,park,outdoor
+363,10086,video3959,5L0k8jMjP-I,425.0,435.0,train,park,outside,a black car is parked outside,park,outdoor
+364,10637,video4162,5L0k8jMjP-I,465.0,475.0,train,park,outside,a white porsche is shown in a garage and another is shown parked outside on a brick driveway,park,outdoor
+365,1619,video618,6LtffXUqgzU,481.17,491.89,train,pass,speedly,a racing car passing away speedly,pass,quickly
+366,4087,video1595,vG8SDYb7ZMQ,331.08,354.4,train,pass,swiftly,a train swiftly passing by other trains as electronic music plays,pass,quickly
+367,8431,video3313,wnPQ2XT8Qvw,233.08,258.41,train,pass,fast,an icy mountain is showing with the time passing by really fast,pass,quickly
+368,1096,video413,YH6zJpW4yfo,3.05,15.61,train,play,aggressively,two man playing table tennis very aggressively ,play,firmly
+369,1711,video655,t9Hnh6ajJCM,69.77,90.16,train,play,hard,there is a team with black dressing is playing hard,play,firmly
+370,4997,video1929,s_a0pwylgBA,49.45,61.49,train,play,roughly,a red uniformed team plays soccer roughly and aggressively,play,firmly
+371,8073,video3182,vxob3QyHgck,106.59,130.58,train,play,gently,a woman gently plays with her baby as it lies on its back,play,gently
+372,9700,video3793,jiMf5lKgZmE,136.58,151.53,train,play,softly,who s making love by johnnie taylor plays softly,play,gently
+373,1728,video658,wkAeEzLMhlY,206.35,218.97,train,play,in,in the cort the table tennis players are played in very well the colour of the back ground is blue,play,in
+374,4114,video1608,XD4CccRdfCA,44.63,73.67,train,play,in,in the cort the table tennis players are played in very well the colour of the back ground is red,play,in
+375,4818,video1856,X2wngRlP1sk,7.39,22.54,train,play,in,a man with a black shirt on is playing violin in between a stone facade,play,in
+376,896,video328,LeRtiTnv4gQ,169.77,180.98,train,play,indoors,a young man is playing an electric guitar indoors,play,indoor
+377,1669,video640,Yi9Kl-KpNQI,269.52,280.69,train,play,indoors,a trainer playing tennis with a young boy indoors,play,indoor
+378,1712,video655,t9Hnh6ajJCM,69.77,90.16,train,play,indoors,a game of volleyball is played indoors while bad music plays,play,indoor
+379,1866,video710,lyWEpgqfDo8,194.88,224.55,train,play,indoors,a band plays a song indoors,play,indoor
+380,3203,video1242,XrSR0uDD7d4,29.37,59.13,train,play,inside,a cat plays with a ball inside of a living room,play,indoor
+381,6396,video2516,4jrl0zY69mU,98.01,127.41,train,play,indoors,puppies play indoors together,play,indoor
+382,6611,video2608,XD4CccRdfCA,31.84,44.38,train,play,indoors,two men play a match of table tennis indoors while spectators look on,play,indoor
+383,9182,video3579,TY14K-UluRQ,71.29,94.51,train,play,inside,two male children playing baseball inside of a house,play,indoor
+384,6571,video2586,8kwpxthBF6g,6.42,21.94,train,play,out,japan versus the netherlands playing soccer out on the soccerfield,play,out
+385,286,video104,M7CdTAiaLes,591.65,602.65,train,play,outdoors,a dj is playing music outdoors,play,outdoor
+386,793,video294,JlYv67-kPPM,23.36,34.08,train,play,outdoors,a cartoon character is playing an instrument outdoors,play,outdoor
+387,1114,video418,OEx-GMDQxjw,132.6,150.0,train,play,outside,a band plays instruments outside in front of a stone building,play,outdoor
+388,2045,video795,2WnkpDQIVwY,396.41,410.82,train,play,outside,guy playing lacrosse outside,play,outdoor
+389,2523,video967,t9bNiJdgybQ,16.4,29.08,train,play,outside,a group of old band members sing and play outside,play,outdoor
+390,3023,video1169,AoPp3VYrUIA,814.52,825.73,train,play,outside,a dog is playing outside,play,outdoor
+391,3276,video1272,yD-YZNKgV0A,73.59,84.77,train,play,outside,kids playing outside on a trampoline,play,outdoor
+392,3412,video1327,a03PND1Vyvo,145.83,162.6,train,play,outside,women are playing soccer outside,play,outdoor
+393,3928,video1535,zn_YSuDWIuU,14.95,25.25,train,play,outside,a child plays outside of a house,play,outdoor
+394,4149,video1619,BgXrTGIiFV8,11.39,23.45,train,play,outside,video of people playing outside by the beach,play,outdoor
+395,4274,video1656,yK-v7B0H4wM,40.75,59.71,train,play,outdoors,person is playing with the white ball outdoors,play,outdoor
+396,4816,video1856,X2wngRlP1sk,7.39,22.54,train,play,outdoors,man in black shirt is playing a violin outdoors,play,outdoor
+397,5803,video2281,97uHUyPL5dA,83.21,96.81,train,play,outside,a man is singing and playing guitar outside,play,outdoor
+398,6542,video2574,BaEcK09XY2U,538.02,550.13,train,play,outdoors,a cat is jumping and playing outdoors,play,outdoor
+399,6555,video2577,XLzOWczAsNQ,137.11,158.56,train,play,outside,girls are playing outside,play,outdoor
+400,6854,video2718,yRtjhURTELs,162.58,174.89,train,play,outside,a small child in a safari hat plays excitedly with some toys outside,play,outdoor
+401,7032,video2787,o5yDkChpW5U,6.05,24.37,train,play,outside,kids are playing outside,play,outdoor
+402,7223,video2860,W4oIrtzDIcQ,7.62,33.18,train,play,outside,a man playing tennis outside trades volleys with a competitor,play,outdoor
+403,7988,video3143,YkoiTA3EqCM,74.05,88.74,train,play,outdoors,the white dog is playing with his owner outdoors,play,outdoor
+404,8564,video3357,0LN9HWhovbo,55.5,67.08,train,play,outside,two black horses are playing outside,play,outdoor
+405,9014,video3520,PoU0PdnCFiI,42.12,56.07,train,play,outside,a girl is playing outside,play,outdoor
+406,9358,video3648,l5TMAQ3NntM,97.39,109.16,train,play,outside,a band of people playing outside,play,outdoor
+407,9781,video3822,PqxH9iXUDf0,13.8,28.08,train,play,outside,a musical group plays outside while a man sits in an office with a headset on,play,outdoor
+408,9912,video3882,yRtjhURTELs,232.32,246.71,train,play,outside,a boy finding a new dinosaur toy while playing outside,play,outdoor
+409,10059,video3950,4MwckY3YM_Y,50.41,61.73,train,play,outdoors,a folk singer playing guitar outdoors and singing,play,outdoor
+410,10229,video4013,waWM9vAfsIw,78.61,105.38,train,play,outdoors,the horse is playing with big blue ball outdoors,play,outdoor
+411,10760,video4205,7wYM_Y_KTzM,118.67,139.65,train,play,outside,two dogs are playing outside,play,outdoor
+412,11072,video4330,0LN9HWhovbo,32.08,42.08,train,play,outside,two horses are playing outside,play,outdoor
+413,11745,video4590,08GXrTvxzuQ,169.9,181.38,train,play,outside,a man is playing a violin outside,play,outdoor
+414,12798,video4991,xachpa6-CXo,100.85,113.89,train,play,outside,a group of people are playing rugby outside,play,outdoor
+415,13017,video5073,4MwckY3YM_Y,85.41,96.05,train,play,outside,a man plays a guitar outside,play,outdoor
+416,13176,video5142,AxYiLzWee84,36.18,47.39,train,play,outside,a dog and a monkey are best friends playing outside,play,outdoor
+417,12270,video4796,yzYE2EadWm4,272.81,290.38,train,play,nicely,a person is playing a colourful video game very nicely,play,properly
+418,12299,video4809,SeUjbPth7go,438.85,460.68,train,play,nicely,a person is playing a computer game nicely,play,properly
+419,14423,video5606,hZLdueQsUdw,343.3,356.51,train,play,properly,a man shows how to properly play a guitar,play,properly
+420,1769,video670,ChcHv0Kd-qo,173.45,185.05,train,play,fast,a person is playing video game fast,play,quickly
+421,11151,video4357,Z1dRM2mgIHQ,159.05,186.81,train,play,fast,video is playing very fast and the video is related to some game,play,quickly
+422,6503,video2553,YWpB0HlPXuA,110.85,128.89,train,play,slowly,a person is playing table tennis very very slowly,play,slowly
+423,6282,video2462,jEIOFs8jwC4,183.9,193.9,train,point,inside,a man points a pistol inside of another man s mouth,point,indoor
+424,2171,video839,TTbGixKq0R8,0.0,12.01,train,pour,down,animated blue liquid pours down to form the ideas & pixels logo,pour,downwards
+425,2172,video839,TTbGixKq0R8,0.0,12.01,train,flow,down,blue liquid flows down to form three blue letters,pour,downwards
+426,8427,video3313,wnPQ2XT8Qvw,233.08,258.41,train,flow,down,a tall mountain is being shown with a stream of water flowing down,pour,downwards
+427,7617,video3007,tA04YGfDF4U,160.64,182.03,train,pour,in,a man and a bowl pouring in plastic bag mixing dish inside kitchen to prepare to serve to eat displaying on screen,pour,in
+428,4015,video1567,WbSJJx9JkDE,417.95,440.61,train,flow,fast,a wide fast flowing river with a big rock creating some rapids,pour,quickly
+429,7302,video2889,sXtE9SY4OmI,384.61,395.09,train,flow,rapidly,a rapidly flowing creek rolls beneath a walk bridge in a park,pour,quickly
+430,3083,video1199,T-sy6rPJBj4,304.22,315.56,train,pour,slowly,someone pours a spoon of sugar slowly into a cup,pour,slowly
+431,8695,video3400,Vx1yprdgs80,140.99,156.74,train,pour,slowly,someone is preparing shrimp juice and pouring to a glass very slowly,pour,slowly
+432,10434,video4086,VarCAvDC7jQ,352.93,381.73,train,flow,up,a water scene flowing from up falls trees beside  displaying on screen,pour,upwards
+433,4195,video1634,Xa7Bgj0y3eg,35.49,49.69,train,push,down,the man pushing the trolley with an injured one finally pushes him down and we see a model,press,downwards
+434,12994,video5069,ZMN2Bs_Cr1A,501.13,513.77,train,push,down,a man wearing a red hat runs into a man bouncing a basketball  the man with hat pushes him down then gets the ball and throws it over a fence,press,downwards
+435,13346,video5199,rA0Q9-IIBXk,47.09,57.34,train,push,down,a cartoon man pushes another man down,press,downwards
+436,5169,video2011,nb9GMm7QtlM,23.93,36.81,train,push,forcefully,an animated cat forcefully pushes its bowl of food to the side,press,firmly
+437,3528,video1370,WoEIrQBrBDk,11.21,27.88,train,press,gently,a man and a woman standing near a busy street are glancing around themselves in an alert manner then the man pulls the woman in for a passionate kiss and presses her against a nearby building gently,press,gently
+438,20510,video7912,D4QnQBkdgrU,67.4,77.61,train,push,in,father and son pushing a car in to the river,press,in
+439,7797,video3079,6NqiAgzOJHo,61.4,72.33,train,smash,outside,a man smashes a car outside,press,outdoor
+440,3096,video1204,JQG86Gv5E_k,361.51,372.55,train,pull,back,a woman pulls a girl s hair back,pull,backwards
+441,5093,video1978,YaCPCWyxcLo,164.53,192.61,train,pull,back, with her black hair pulled back lifts a white shuttlecock above her forehead while her other arm is extending lower in the opposite direction,pull,backwards
+442,5099,video1979,xegDVnBSyPA,6.12,18.83,train,pull,back,still pictures of two women first woman long hair in her face on one side  the second woman has her hair pulled back,pull,backwards
+443,8290,video3266,Z32sAmV48C0,165.51,193.47,train,pull,backwards,a van goes forward while the truck comes behind then the truck goes the van is pulled backwards,pull,backwards
+444,15474,video6015,wefbiSI5y8g,38.95,63.01,train,pull,back,a woman with hair pulled back stands in front of rows of blue seating ending at a red wall,pull,backwards
+445,19057,video7364,YlaPue9IucE,38.97,59.09,train,pull,back, with her hair pulled back wears a blue scarf looped loosely over a printed blue dress while standing in a pathway by fabric partitions over simple structures,pull,backwards
+446,11406,video4447,Y-XLsQv-w48,162.01,180.01,train,pull,down,a man takes off red sunglasses and tosses them aside then pulls an identical pair down from his head to his eyes,pull,downwards
+447,17869,video6931,9qKKsc3vSTg,425.17,435.69,train,drag,in,a man in car is dragging another car in behind while a person dressed in yellow tries to stop him,pull,in
+448,23700,video9120,X4v1xAgv7c4,48.26,58.91,train,pull,quickly, in a black helmet and ski outfit is leaning forward and holding onto a white pole that is quickly pulling her over a field of snow,pull,quickly
+449,3354,video1300,4wSQB6FRUvM,200.65,218.69,train,pull,slowly,a man slowly pulls off a piece of cheesey bread from a loaf,pull,slowly
+450,857,video314,UhVgKJPaVxM,119.4,136.72,train,pull,up,a female news anchor speaks about an upcoming billboard and song to promote pulling your pants up,pull,upwards
+451,4462,video1725,X0hQ3X8cfFs,0.0,20.87,train,pull,up,a bus pulls up to a curb then pulls off,pull,upwards
+452,18423,video7129,xBaIdgyuEYU,36.61,47.69,train,lie,in,a girl is lying in 00,put,in
+453,3403,video1322,4TYv2PhG89A,155.64,166.84,train,serve,inside,a clip taken from an older movie showcasing a woman serving two men inside of a high class restaurant,put,indoor
+454,3885,video1517,wt-Ay3sWFaA,53.33,73.17,train,put,inside,a man puts a donut hole inside of a donut and looks down,put,indoor
+455,11584,video4529,1CYgndOeC4o,189.79,203.67,train,put,inside,a person is putting colored frosting inside of a flower pastry,put,indoor
+456,13545,video5277,tTULt7ASXgc,17.36,28.58,train,put,inside,a woman putting a globe together inside of her living room,put,indoor
+457,14459,video5620,BN2rTaFUlxs,106.07,116.37,train,place,inside,a man is drawing an outline of a body and place a circle inside,put,indoor
+458,1040,video390,1b_aDIMTyvM,211.25,235.29,train,place,outside,a person places a bunch of furniture outside in the sims,put,outdoor
+459,7881,video3114,93ujnlzFWhE,228.04,239.82,train,place,outside,a man places some traps outside,put,outdoor
+460,11317,video4424,SoaOuanzfxM,135.57,155.25,train,put,nicely,prepared food are nicely put in plate in a table,put,properly
+461,11670,video4554,U1y4E7Qhi68,176.79,197.44,train,place,nicely,the girl in blue shirt is cooking a delicious dish and it is placed nicely in a white porcelain plate,put,properly
+462,13232,video5160,YBmmD1Icpjw,0.0,28.38,train,put,hastily,the man in blue dress is hastily putting on his gloves and helmet and starts riding his bike,put,quickly
+463,24345,video9371,wF6KCwD34iU,214.66,238.79,train,place,quickly,preparing for a long journey  placing all luggage in place quickly and the journey started,put,quickly
+464,3739,video1455,9PqnVIDdDT8,14.23,32.01,train,lie,silently,a lizard is lying on a table silently and then it walks towards the person who is talking,put,quietly
+465,24627,video9483,_mrkQmEHquk,8.18,26.7,train,lift,gently,a woman narrates a recipe for broccoli-cheese soup that a user submitted while a spoon gently lifts a spoonful of steaming-hot soup out of a white ceramic bowl,raise,gently
+466,3433,video1337,CDXxURPagpM,182.86,194.45,train,lift,outside,a woman lifts a heavy weight outside,raise,outdoor
+467,25016,video9629,-cL1-y0J3gw,4.59,27.14,train,rise,fast,needles of speed meter are rising very fast,raise,quickly
+468,15134,video5884,0vKbLD6_C8k,172.44,185.08,train,hoist,up,men hoisting a engine up,raise,upwards
+469,2755,video1063,wUqZ87BnAGA,65.98,81.91,train,ride,down,a man in a white shirt stands near a wide staircase as a model bicycle rides down on a string,ride,downwards
+470,2767,video1065,wItEBID6tLY,158.04,180.06,train,ride,down,a woman rides a zipline down into some water,ride,downwards
+471,19704,video7615,x0B-P6b-moM,116.35,145.68,train,ride,forward,man rides his horse forward,ride,forwards
+472,5244,video2039,X9yDKAm4r40,167.72,181.35,train,ride,in,the men is riding their cycle in like as road,ride,in
+473,11744,video4589,5xpvEuOxyxE,13.39,23.77,train,ride,inside,a dog rides inside of a car,ride,indoor
+474,4368,video1690,oQohsDpFlNI,210.85,224.31,train,ride,outside,a person is riding a motorcycle outside,ride,outdoor
+475,9254,video3604,SyGG6i9YPP8,55.92,82.63,train,ride,outside,a guy on a surf board is riding the waves outside,ride,outdoor
+476,12281,video4801,SCROQQfdyC4,103.71,113.91,train,ride,outside,a man riding a horse outside,ride,outdoor
+477,12301,video4809,SeUjbPth7go,438.85,460.68,train,ride,outside,someone is riding on a roller coaster outside,ride,outdoor
+478,15255,video5935,ThFCg0tBDck,153.83,165.21,train,ride,outside,people riding their bikes outside and also skiing down a snowy mountain,ride,outdoor
+479,16414,video6378,WmzbEW1oSWc,253.37,265.85,train,ride,outside,a man rides a horse in front of a large crowd outside,ride,outdoor
+480,1701,video652,w0lH7HibIwA,132.05,158.75,train,ride,properly,a man is teaching another man on how to properly ride a unique skateboard,ride,properly
+481,0,video0,9lZi22qLlEo,137.72,149.44,train,ride,speedly,a man riding the car speedly in a narrow road,ride,quickly
+482,969,video362,19HB8Z8LBnQ,101.85,112.26,train,ride,speedly,a game scene of a man riding his bike speedly,ride,quickly
+483,1715,video656,WmzbEW1oSWc,28.09,46.85,train,ride,fast,there is a hore race and one person in yellow rides his horse very fast and he reaches first,ride,quickly
+484,1992,video772,Xe5h9y29iUw,94.85,122.05,train,ride,fast,a person riding his bike fast and make some stunt,ride,quickly
+485,4394,video1698,Xe5h9y29iUw,122.29,138.29,train,ride,fast,the racer moves the bike with much racing and rides fast,ride,quickly
+486,6885,video2729,tlgBsxMH94g,16.61,26.93,train,ride,fast,the man rides in the car really fast on the track on a cloudy day,ride,quickly
+487,8018,video3153,btaq2nxhVSk,476.42,487.3,train,ride,fast,a front view of a motorcycle riding fast on the road,ride,quickly
+488,8892,video3476,ZFcanpNarEg,109.49,139.45,train,ride,fast,a car racer riding a car very fast in the race,ride,quickly
+489,10297,video4036,btaq2nxhVSk,473.89,485.63,train,ride,fast,a person is riding too fast on the road,ride,quickly
+490,10442,video4091,W_x1lY7t1p0,34.33,44.41,train,ride,fast,there is a man is riding bike through the sea very fast,ride,quickly
+491,10793,video4220,__FmZWlsOf0,593.61,618.27,train,ride,fast,a biker comes to a petrol bunk removes his gloves then riding fast on road looking up,ride,quickly
+492,8567,video3358,25bevakVaro,13.26,25.84,train,ride,slowly,a clip showing woman riding slowly on horses,ride,slowly
+493,9433,video3686,wKO1Osn6vj0,501.58,521.78,train,ride,slowly,someone is slowly riding a motorcycle through some kind of ruins or destroyed area,ride,slowly
+494,11586,video4531,VcqWLOOkMQE,17.23,28.48,train,ride,slowly,a train rides slowly through a european city on a sunny day,ride,slowly
+495,18547,video7174,yW1AEkE30Ec,187.74,199.48,train,ride,upwards,two guys ride upwards on what seems to be scenic lift,ride,upwards
+496,23607,video9082,4L8qC9nuO34,207.86,224.37,train,roll,back,a guy and a girl uses a fire extinguisher while rolling back on a chair,roll,backwards
+497,24721,video9514,WtnAuXW81cM,11.33,23.14,train,roll,completely,the inside of a white car interrior with it s windows completely rolled up,roll,completely
+498,8159,video3215,xc9Dxu9KZuE,163.78,174.59,train,roll,down,a boy throwing a ball up onto a house and letting it roll back down into a basketball hooop,roll,downwards
+499,2148,video835,xfPvtIOs5IA,30.14,52.57,train,roll,in,some waves on a beach are rolling in,roll,in
+500,6683,video2642,3usU25Z9ICE,84.93,95.08,train,roll,in,soldiers yelling and shooting as a tank comes rolling in,roll,in
+501,6691,video2647,t62fUZJvjOs,0.0,25.41,train,roll,in,a man in glasses rolls in on a chair in front of his computer,roll,in
+502,8760,video3431,AxYiLzWee84,48.8,59.54,train,roll,outside,a monkey rolls around outside,roll,outdoor
+503,10687,video4184,uYwPrnbJ5h0,120.33,130.64,train,roll,slowly,a red trolley car slowly rolls on a track while an announcers describes the museum in the background,roll,slowly
+504,2121,video824,5yrKecW8JJ8,65.41,75.56,train,run,down,several people are being run down,run,downwards
+505,4258,video1653,wEhCTi8l7nM,0.0,14.16,train,run,hard,there is a man running hard on the ground,run,firmly
+506,5283,video2054,urJgH6tpfkU,197.21,211.81,train,run,hard,there is a man running hard with a ball on the grass,run,firmly
+507,9401,video3674,zbqy1Rpjgmw,156.57,166.81,train,run,hard,there is a man is running hard to win,run,firmly
+508,14836,video5773,TjLCJKoot4U,113.53,126.53,train,run,heaavily,water running heaavily a tiger is running,run,firmly
+509,16169,video6295,yQA8paAn7dQ,47.19,67.48,train,run,hard,there is a athlete running hard for a victory,run,firmly
+510,9761,video3812,v8E-Q9s0JHc,0.0,28.31,train,run,forward,practices base ball  with good batting style and is running forward,run,forwards
+511,17791,video6904,ylSh0dOsd8Q,31.62,53.14,train,run,in,there are some people is running in to the street,run,in
+512,18619,video7197,1NnyVc8r2SM,64.95,75.91,train,run,in,a man is running in fast forward maneuvering men with guns,run,in
+513,5543,video2177,Xa7Bgj0y3eg,290.41,308.41,train,dash,inside,a  old person in  blue color cloth wearing dress driving ambulance dashing to wall inside body open the door falling down displaying on screen,run,indoor
+514,6422,video2525,YMcpX7_ph-c,120.93,131.48,train,run,inside,girls running track inside of a building,run,indoor
+515,662,video245,ZFJY5Fcpvqc,138.17,156.65,train,run,out,people running into a restaurant fighting and then running out,run,out
+516,4192,video1634,Xa7Bgj0y3eg,35.49,49.69,train,run,out,a fake disaster scene fro training and people running out checking on the dummies in the road,run,out
+517,6030,video2367,wEFx6ly86Jo,64.68,80.46,train,run,out,the bat boy runs out to hand the batter a bat,run,out
+518,10231,video4013,waWM9vAfsIw,78.61,105.38,train,run,out,a horse is playing with the ball happily and running out,run,out
+519,1447,video548,bQcduEj8lxI,20.92,31.67,train,run,outdoors,animals are running outdoors,run,outdoor
+520,1883,video720,vrgspvKSVLc,11.21,28.33,train,run,outside,a horse running around outside,run,outdoor
+521,2537,video973,w6_eXUI0Bds,56.84,67.68,train,run,outside,black man running on a track outside he is wearing all black clothes,run,outdoor
+522,5887,video2313,ZZpGYMNi3c8,103.24,115.02,train,run,outside,people are running outside,run,outdoor
+523,6554,video2577,XLzOWczAsNQ,137.11,158.56,train,run,outside,a woman is running around outside with a dog,run,outdoor
+524,11073,video4330,0LN9HWhovbo,32.08,42.08,train,trot,outside,two horses are trotting outside,run,outdoor
+525,15151,video5892,C88qI9tgS9c,29.2,39.27,train,run,outside,a group of soldiers run outside,run,outdoor
+526,17685,video6869,coK8muKco_k,98.56,110.16,train,run,outside,a woman is running away outside,run,outdoor
+527,3630,video1413,neQ3G-Q79_I,318.5,341.82,train,run,nearly,a video game scene in which a small boy shoots at a girl and then drives a jeep nearly running her over,run,partially
+528,386,video136,yqN3XwhkLH4,4.39,28.44,train,run,fast,group of people are running fast  on the grass,run,quickly
+529,506,video180,CTTCJOXqx-Y,301.96,316.82,train,run,fast,spongebob is running fast,run,quickly
+530,585,video220,wgokBKbxFAM,174.79,188.27,train,run,fast,person is running so fast on the street and trying to escape,run,quickly
+531,1263,video474,ZDX-bg6wgvA,303.75,329.01,train,run,fast,a cartoon of animal sword lifting and tiger horse ryding fighting running fast displaying on screen,run,quickly
+532,1755,video667,TbB1FJB6Y0s,4.92,32.61,train,run,quickly,a young mouse jumps into a hamster spin wheels and runs quickly in place,run,quickly
+533,2532,video973,w6_eXUI0Bds,56.84,67.68,train,run,rapidly,a man in dark athletic clothing runs rapidly down a track,run,quickly
+534,2544,video978,UjQsclAlXvk,425.41,437.41,train,run,fast,the players are running so fast and holding the ball,run,quickly
+535,3501,video1356,xCnqc_rZX88,202.25,212.75,train,run,fast,theire is a car race going on all cars are running fast overtaking each other,run,quickly
+536,4257,video1653,wEhCTi8l7nM,0.0,14.16,train,run,fast,players run around fast in a rugby match while coaches around,run,quickly
+537,4999,video1929,s_a0pwylgBA,49.45,61.49,train,run,fast,group of players are running fast and fighting for the ball,run,quickly
+538,6022,video2363,UozWJTuhbMQ,113.06,127.57,train,run,fast,lots of ants running fast in leaves at forest,run,quickly
+539,6423,video2525,YMcpX7_ph-c,120.93,131.48,train,run,fast,group of women are running fast in the gym,run,quickly
+540,6634,video2621,4nesGzBd4-I,68.65,85.33,train,run,fast,a character on a videogame is running very fast,run,quickly
+541,7039,video2788,wVwjpEyybI0,0.0,11.85,train,dash,fast,a railway track and train moving on track fast dashing  walls  changing track accident displaying on screen,run,quickly
+542,7149,video2833,VK5ADL57j7Y,432.11,459.18,train,run,fast,theire is a car race going on all cars are running fast overtaking each other,run,quickly
+543,7304,video2889,sXtE9SY4OmI,384.61,395.09,train,run,quickly,a wooden sway bridge spanning over water running quickly beneath it in an area with heavy foliage,run,quickly
+544,7478,video2948,xlXk49Mh7go,45.59,57.64,train,run,fast,a man running faster on the snow,run,quickly
+545,7944,video3129,SZaoC1YcGMw,18.33,31.05,train,run,fast,person is running fast  on the fallen trees,run,quickly
+546,8036,video3162,svxRpqeqFRY,31.33,52.61,train,run,fast,a car is running faster and parts are displayed,run,quickly
+547,9403,video3674,zbqy1Rpjgmw,156.57,166.81,train,run,fast,the men in the shorts run on the track fast,run,quickly
+548,9443,video3690,XWmw4mopa_o,18.58,32.71,train,run,fast,a train runs very fast in the  forest area,run,quickly
+549,10228,video4013,waWM9vAfsIw,78.61,105.38,train,run,fast,a horse playing with a big blue bouncy ball enjoying life and having fun then run fast into open areas,run,quickly
+550,10270,video4025,SSKTEfc9Ulc,205.85,224.93,train,run,fast,the brown dog is running so fast in the mountain,run,quickly
+551,10392,video4077,YR-CFLCeclc,128.73,141.17,train,run,fast,a car running faster on the road,run,quickly
+552,11010,video4304,tSU7dqAFvP4,18.03,32.78,train,run,fast,theire is a car race going on all cars are running fast overtaking each other,run,quickly
+553,11021,video4307,6LtffXUqgzU,310.37,322.25,train,run,fast,a car is running fast on the road,run,quickly
+554,11067,video4329,UU83bvXtY20,74.12,84.77,train,run,fast,in the track the athelets are ran very fast and ready change their baton to their team for relay item,run,quickly
+555,11171,video4364,wv-I-Wb9K98,43.85,54.09,train,run,fast,in a high way a car is running fast   a red and white bus is coming from the opposite side,run,quickly
+556,11350,video4433,Ta0smNAe5Rs,665.95,676.62,train,run,fast,a small donkey running fast in a farm,run,quickly
+557,11573,video4526,V22Ll4jQ_zc,32.85,51.35,train,run,fast,a small baby is there and a car is running faster,run,quickly
+558,12035,video4711,vsrxsWAF3Nk,139.45,161.29,train,run,fast,rugby game is at its zenith of excitement and players run fast with the ball,run,quickly
+559,12206,video4771,TZ5hF3j6mKM,85.76,100.73,train,run,fast,a man with no shirt running fast through the mountains,run,quickly
+560,13057,video5089,uK52LAnmNIk,2.12,16.8,train,run,fast,a car is running faster on the ground,run,quickly
+561,13365,video5204,_uXqbHmr4Po,171.39,200.11,train,run,fast,running race and the persons running very fast while the person in white dress rushes to the win,run,quickly
+562,13840,video5377,YBmmD1Icpjw,100.55,111.79,train,run,fast,the camera is running fast showing all the way forestslandscapes and gardens,run,quickly
+563,14310,video5562,XR3jSZTPJ7c,65.68,76.01,train,run,fast,the men run really fast on the outdoor track wearing shorts,run,quickly
+564,14366,video5589,vsrxsWAF3Nk,161.29,172.85,train,run,fast,the players in red are running fast to score point,run,quickly
+565,14448,video5615,8Scu9nhy3TY,57.22,67.6,train,run,fast,players run fast in a rugby game,run,quickly
+566,4312,video1665,UuH_zpX8yUw,31.85,46.29,train,run,up,a man is announcing that the frozen television screen is not working but hopes that they will be able to get it up and running,run,upwards
+567,6310,video2472,rdhF5w7ZH7Y,91.91,104.85,train,run,up,guy running up on stage,run,upwards
+568,11378,video4441,sKXmtHSzeXc,30.34,51.03,train,run,up,two young men in white run up and hug an african american man who is wearing a halo,run,upwards
+569,17163,video6682,8R2FHDtmTo4,1122.24,1134.38,train,dig,down,a minecraft player digging down,scoop,downwards
+570,13564,video5280,sQK3Yr4Sc_k,365.29,376.34,train,split,down,two pink objects one kind of heart shaped and the other kind of heart shaped but upside down they are split by a yellow object as smaller white balls flow out of the yellow object and from left to right or right side up heart shape to upside down heart shaped thing,separate,downwards
+571,4813,video1855,ZdUUY9ibX6I,6.93,20.32,train,set,outside,a light green sports car sets outside in a park like setting,set,outdoor
+572,1345,video509,uemI_ptb8RY,14.65,24.88,train,set,properly,a woman showing how to properly set up a stroller,set,properly
+573,2125,video827,WYAZ1ORgI00,152.67,176.92,train,shake,badly,a man is talking to a camera with woman and shaking the camera badly,shake,improperly
+574,9842,video3853,Uid3mBlFv9M,374.05,385.89,train,wag,inside,a small white dog is wagging its tail inside,shake,indoor
+575,21451,video8257,VRWRmIEHr3A,25.53,38.92,train,shake,vigorously,a person wearing a purple glove shakes their hand vigorously while a host talks about lab safety,shake,quickly
+576,11189,video4370,C0XYQQFBK4w,831.55,842.49,train,shoot,down,bowzer is laughing and lazers are shooting down,shoot,downwards
+577,20140,video7780,Y7zPOquH4D4,397.45,420.21,train,shoot,outside,a man shoots at people in outside and talks about a play,shoot,outdoor
+578,7586,video2994,AphM9UNdhgY,14.73,31.15,train,shoot,perfectly,the player shoots the ball perfectly,shoot,properly
+579,3116,video1211,Al1p_xuPKpM,186.27,197.85,train,shoot,fast,men shooting guns fast,shoot,quickly
+580,13535,video5274,7m3o5LuFKxg,9.64,20.53,train,singe,back,a man and woman singing back to back,sing,backwards
+581,113,video43,6c8iu8uh8PU,92.68,103.36,train,sing,hard,he sang hard and performed,sing,firmly
+582,3991,video1558,bAwMYCHwge4,240.05,250.05,train,singe,softly,a girl with a star wars shirt is singing softly,sing,gently
+583,8779,video3436,z4B6GVfk20o,56.41,82.85,train,singe,softly,a lady is singing very softly to a huge audience it is very quiet there are lights in the room,sing,gently
+584,1987,video770,8fea1i2rOHI,13.21,29.3,train,singe,indoors,a woman is singing a song on a stage indoors,sing,indoor
+585,5908,video2316,a2BghkPcV2E,66.32,77.08,train,singe,inside,a man is singing inside of a club,sing,indoor
+586,6578,video2593,YBcP4x_RcAU,127.18,140.55,train,singe,inside,a group of people are singing inside of a studio,sing,indoor
+587,8355,video3280,2oHBrJe3vUQ,135.97,151.81,train,singe,indoors,a band is playing music and singing indoors,sing,indoor
+588,4356,video1686,UAM8ApVlWGs,71.33,95.85,train,singe,loudly,there is a hot women singing loudly with perfect voice,sing,loudly
+589,21923,video8449,21jEoD7gpYA,103.44,114.79,train,sing,loud,an over-enthusiastic man sings so loud that president obama and family are embarassed,sing,loudly
+590,290,video106,yRhDi2aK5ac,14.52,33.33,train,singe,outdoors,a group of kids singing outdoors,sing,outdoor
+591,646,video242,RSL30W9DeU8,54.25,68.58,train,sing,outside,a man sings outside in a forest,sing,outdoor
+592,1505,video568,0nI5j--lRB4,104.18,114.91,train,singe,outdoors,two children are singing outdoors,sing,outdoor
+593,2279,video877,t9bNiJdgybQ,23.04,33.36,train,sing,outside,a man sings with his band behind him outside,sing,outdoor
+594,2524,video967,t9bNiJdgybQ,16.4,29.08,train,sing,outside,a man sings outside on stage,sing,outdoor
+595,3158,video1224,vk3dy25Cxn4,79.01,89.65,train,singe,outside,a man and a woman singing outside in nature,sing,outdoor
+596,4228,video1645,MxUNWnna6aI,72.83,85.01,train,singe,outside,people are singing outside on the streets,sing,outdoor
+597,4412,video1705,HwctEiWLe84,126.59,140.65,train,singe,outdoors,a man is singing outdoors,sing,outdoor
+598,6073,video2386,4_zcjxDdZ1s,168.38,181.65,train,singe,outside,a man is singing outside while a woman plays with her child,sing,outdoor
+599,7414,video2930,WgTR916uv4A,95.17,106.01,train,singe,outdoors,a boy and a girl are singing together outdoors,sing,outdoor
+600,7939,video3128,TDRT-bYRvMI,51.63,64.51,train,sing,outside,a blonde woman walks with a man and sings outside,sing,outdoor
+601,8281,video3264,ynBplqio1R4,91.56,102.11,train,sing,outside,a blonde woman walks down stairs as men sing outside,sing,outdoor
+602,8640,video3384,yRhDi2aK5ac,18.85,33.33,train,singe,outside,kids singing together outside,sing,outdoor
+603,8731,video3413,5MDMv4-JG4E,112.79,125.54,train,singe,outside,bunch of guy s singing outside,sing,outdoor
+604,9150,video3570,I-n15mPIKQU,29.66,41.13,train,sing,outside,kids sing a musical outside on benches,sing,outdoor
+605,10060,video3950,4MwckY3YM_Y,50.41,61.73,train,singe,outside,a man playing a guitar and singing outside,sing,outdoor
+606,10901,video4260,9a2Va94Tldc,116.33,128.11,train,singe,outside,a man is singing a gospel song outside,sing,outdoor
+607,2254,video869,09NssntypbU,126.03,137.17,train,singe,vigorously,a recording of an outdoor band shows the band singing vigorously and having lots of fun,sing,quickly
+608,21915,video8447,CxmA5YxRGKw,78.45,89.25,train,sing,slowly,a person sings slowly for a huge audience and a panel of judges,sing,slowly
+609,10883,video4254,UWRJ-1dLrtQ,406.92,432.91,train,sit,in,a man in grey suit is sitting in between the two women,sit,in
+610,475,video166,tHRLX8jRjq8,132.34,144.01,train,sit,inside,a movie scene of a car moving girl sitting inside driving and dashing truck person standing watching,sit,indoor
+611,705,video261,uze3a2lzORQ,50.6,65.48,train,sit,inside,a man in a pink shirt and neck tie sitting inside of a studio with three others,sit,indoor
+612,1502,video567,YrFnnP91Hss,85.73,98.61,train,sit,inside,a small animal is sitting inside of a box inside,sit,indoor
+613,9702,video3794,Z1_z77fsuUE,232.78,243.25,train,sit,inside,an bowl inside an ant yellow colour an ant sitting inside show on the screen,sit,indoor
+614,10079,video3958,xfOwSTXP-3o,121.57,133.01,train,sit,inside,car is fallen into river and a man is sitting inside,sit,indoor
+615,11161,video4360,TcdxvRT89NU,10.88,21.28,train,sit,inside,a car parking  inside man sitting and speaking   displaying on screen,sit,indoor
+616,11362,video4437,bt-RoSzsEKA,162.71,175.59,train,sit,indoors,a man is playing an electric guitar while sitting on a stool indoors,sit,indoor
+617,13949,video5410,Ya0eXpd1eiU,187.7,203.25,train,sit,inside,some food is sitting inside of a cup,sit,indoor
+618,14117,video5471,yKUljDqaSBE,40.79,51.07,train,sit,inside,some green vegetables are sitting inside of a white bowl,sit,indoor
+619,1562,video591,5yA-B7_XR9k,180.37,194.53,train,sit,outside,two men sitting outside talking to each other,sit,outdoor
+620,2706,video1041,0FMUFW5t-ME,0.0,17.03,train,sit,outside,a child sitting outside next to a pool,sit,outdoor
+621,3153,video1224,vk3dy25Cxn4,79.01,89.65,train,sit,outside,a man and a woman both wearing denim are sitting outside in a beautiful rural setting,sit,outdoor
+622,3307,video1283,AxYiLzWee84,125.41,136.68,train,sit,outside,a man talks about a creature sitting outside,sit,outdoor
+623,4082,video1594,_1E6EUrnXZs,230.34,242.39,train,sit,outdoors,video of a couple sitting outdoors and being happy,sit,outdoor
+624,5985,video2350,jWxpHociX0I,30.71,40.96,train,sit,outside,a man is sitting outside,sit,outdoor
+625,8095,video3191,-1LecxKUMDk,63.04,73.05,train,sit,outside,wild cats are sitting outside,sit,outdoor
+626,8733,video3413,5MDMv4-JG4E,112.79,125.54,train,sit,outside,group of guys singing while sitting outside,sit,outdoor
+627,8771,video3433,yRtjhURTELs,338.39,366.83,train,sit,outside,a young boy is sitting outside and playing with toy dinosaurs,sit,outdoor
+628,9148,video3570,I-n15mPIKQU,29.66,41.13,train,sit,outside,a group of people sit at lunch tables outside,sit,outdoor
+629,9492,video3706,5pBUcXmyRGI,68.82,82.0,train,sit,outside,two men sitting outside talking to each other,sit,outdoor
+630,10369,video4067,x9zdpQM1FI8,576.96,592.64,train,sit,outside,a elderly woman with white hair is sitting outside with a plate full of food,sit,outdoor
+631,10620,video4154,z0e1IW5NlNY,356.17,369.78,train,sit,outdoors,person in white clothes is sitting outdoors and walking,sit,outdoor
+632,12481,video4874,NyZPpGT6ptY,110.61,123.83,train,sit,outside,a man sings while sitting outside by the water,sit,outdoor
+633,12739,video4975,5cA9cGUGr00,191.07,202.83,train,sit,outside,two men sitting outside talking to each other,sit,outdoor
+634,13221,video5156,I-n15mPIKQU,32.45,45.13,train,sit,outside,a guy and a girl who are singing interrupt teenagers who are sitting outside and eating lunch at school,sit,outdoor
+635,9047,video3532,b10UMtraFRw,256.66,271.41,train,sit,quietly,several politicians are sitting quietly,sit,quietly
+636,13688,video5322,X-6iyJgzGtQ,185.11,214.51,train,sit,quietly,the person is shouting some thing to the four children and the children were sitting quietly in the sofa,sit,quietly
+637,5265,video2047,vHYVw5LpHUQ,119.64,134.2,train,skate,outdoors,a woman is ice-skating outdoors in front of a crowd,skate,outdoor
+638,272,video99,tEyCBVt2pw4,31.31,57.2,train,skate,fast,many peoples skating fast and furiously in slope of snow,skate,quickly
+639,7479,video2948,xlXk49Mh7go,45.59,57.64,train,ski,down,a man is skiing down in the snow through an enclosed area,ski,downwards
+640,4683,video1806,Y8fmZ8yDSTo,70.87,82.96,train,ski,fast,the people ski down the snowy slope really fast,ski,quickly
+641,15099,video5871,sVTAVx2XsTM,20.78,32.71,train,smile,down,a woman is posing with her hair in an up-do a woman is smiling with her hair down in curls,smile,downwards
+642,1216,video457,ydLJtKlVVZw,10.02,26.2,train,smoke,outdoor,a green dressing woman is smoking outdoor,smoke,outdoor
+643,21902,video8444,yswO3b__f4k,103.08,116.01,train,marinate,inside,two middle aged women begin to marinate chicken inside of a glass bowl,soak,indoor
+644,22170,video8538,zgQF44nvXxs,122.01,134.73,train,apply,heavily,a woman heavily applies a pale makeup powder to her face,spread,firmly
+645,1515,video574,uIFtlKCZ-dk,35.85,46.65,train,apply,in,a woman with pink dressing is applying sun cream in off the coastand also people are taking sun bathing in off the coast,spread,in
+646,7294,video2882,u0OzkvXXpLM,0.0,23.95,train,apply,properly,two women are talking to each other about how to apply make up properly,spread,properly
+647,23060,video8888,_UUjJJQ02n0,35.35,46.56,train,splash,fully,surfing done by a person and the water splashes fully without making clear vision,sprinkle,completely
+648,19941,video7705,Xb1pOhKmGkk,57.2,67.78,train,season,lightly,a woman is explaining how to lightly season stew meat with salt and pepper and then to lightly dredge in some flour,sprinkle,gently
+649,11374,video4440,VL12nbnCg9Y,175.86,187.33,train,splash,inside,two kids standing on edge of pool with someone splashing inside of the pool,sprinkle,indoor
+650,10006,video3927,TvsvDQiv3Vw,0.0,15.09,train,squat,down,a man in a checked shirt squats down and polishes the logo of a volkswagen car,squat,downwards
+651,1266,video476,t3SDTrlOALA,1175.77,1190.53,train,stand,in,a woman explains the activity of a business called intex while a man drops his phone from a ziplne a family lays in front of a laptop and a doctor stands in from of 5 people,stand,in
+652,5868,video2305,TEcetaiAZKQ,132.08,143.59,train,stand,inside,a boy in  blue dress color wearing cloth   standing inside ground and putting ball into net playing basket ball game  displaying on screen,stand,indoor
+653,6090,video2394,Y1AgEjcXH1U,128.88,143.72,train,stand,inside,different people are sitting and standing inside of a restaurant,stand,indoor
+654,6299,video2469,zjkuVvpiwqA,33.78,47.16,train,stand,inside,a woman who is wearing a green shirt and pink pants in standing inside of a bathtub and is scrubbing the sides of a bath tub,stand,indoor
+655,9998,video3923,BiyS-DHZeKU,88.17,111.39,train,stand,inside,men standing inside of a boat,stand,indoor
+656,14926,video5808,ZyxlUjZpaYc,34.42,63.23,train,stand,inside,people are standing around inside,stand,indoor
+657,15456,video6003,w0kSlov2WqI,94.18,104.53,train,stand,inside,a guy in a grey shirt is standing inside of a room,stand,indoor
+658,8,video2,QA7KVQq9vKA,31.17,41.24,train,stand,outside,a man stands outside talking about an automotive combustion leak tester,stand,outdoor
+659,755,video280,xt3ccmwN5ZU,24.7,36.46,train,stand,outside,a person in a lab coat is standing outside,stand,outdoor
+660,1400,video532,vi56l-gYqmk,10.16,23.34,train,stand,outside,a young man stands outside on a road near the trees,stand,outdoor
+661,1862,video709,w_qvWW_Nbus,53.27,65.57,train,stand,outside,a blonde woman in a pink shirt and brown sweater standing outside talking,stand,outdoor
+662,2563,video988,yDotCgK-jos,211.93,228.21,train,stand,outside,random people in fashionable outfits standing outside of a gray brick building,stand,outdoor
+663,2797,video1081,X2PBr0hb5nM,58.17,69.09,train,stand,outside,a blonde woman models her jacket while standing outside,stand,outdoor
+664,2956,video1142,JOkzV9CEjcE,23.46,34.67,train,stand,outside,an animated young girl is standing outside of a house,stand,outdoor
+665,3081,video1198,1w7hk-b1ZQA,309.85,320.21,train,stand,outside,a man is standing outside of a car speaking spanish,stand,outdoor
+666,3146,video1221,YivJFETQi9g,4.93,14.93,train,stand,outdoors,the man in the suit and sunshades stand outdoors,stand,outdoor
+667,3599,video1399,vGXGxTUJvfw,121.01,134.93,train,stand,outside,an old man stands outside and talks about fish,stand,outdoor
+668,3824,video1496,z8AOQuVhuGM,60.11,72.95,train,stand,outside,a girl with bright red lip stick standing outside wearing a red hat and a blue coat,stand,outdoor
+669,4372,video1692,ulcZMQ3QY-w,40.35,57.01,train,stand,outside,a boy stands in robe outside during snowy evening with large train passing by,stand,outdoor
+670,4671,video1802,Z48Ud3TGCnA,28.01,47.25,train,stand,outside,a man stands outside and reads a short list of ingredients,stand,outdoor
+671,4815,video1856,X2wngRlP1sk,7.39,22.54,train,stand,outside,the man in black dress standing outside area and play the guitar well,stand,outdoor
+672,5044,video1950,zaucTP02gWY,40.93,53.42,train,stand,outside,a black haired woman wearing a white shirt speaks to a man while standing outside,stand,outdoor
+673,5253,video2042,xw9Au9OoN88,434.23,451.87,train,stand,outside,a man in black and a woman in white are standing outside of a building there are fireworks in the sky behind the man and woman,stand,outdoor
+674,5292,video2057,BNJ4mf7axYk,7.01,17.51,train,stand,outside,a man draws a picture and then stands still outside,stand,outdoor
+675,7016,video2785,WfsS1R7cYL0,17.15,40.48,train,stand,outside,a man wearing a green shirt is speaking while standing beneath a citrus tree outside,stand,outdoor
+676,8350,video3278,w1Qxxx2SQoo,0.0,25.89,train,stand,outside,a man stands outside in the dark as cars drive in the distance,stand,outdoor
+677,8469,video3327,arNdrPgyl_s,166.65,177.89,train,stand,outside,a woman in a white dress standing outside,stand,outdoor
+678,9778,video3822,PqxH9iXUDf0,13.8,28.08,train,stand,outside,a man is standing in front of a poorly put together band outside talking to a man in an office,stand,outdoor
+679,10152,video3985,VBmMU_iwe6U,31.16,45.84,train,stand,outdoors,a music video scene of several people standing outdoors on a platform,stand,outdoor
+680,10410,video4081,yjQMzEPASpU,38.57,50.21,train,stand,outside,people standing outside of a mall with bags,stand,outdoor
+681,10430,video4084,X2PBr0hb5nM,103.85,116.09,train,stand,outside,two young women stand outside and one of them has a microphone,stand,outdoor
+682,11196,video4371,_Wado1cieOg,39.29,59.17,train,stand,outside,a group of people stand outside and take a picture,stand,outdoor
+683,11322,video4425,9BrfCsE91No,218.45,229.25,train,stand,outside,people are standing outside,stand,outdoor
+684,12186,video4765,y70CvtVNUm8,0.0,22.57,train,stand,outside,a guy wearing a baseball hat stands outside in front of a car and talks,stand,outdoor
+685,12224,video4775,XfymJYn1BXc,100.53,125.97,train,stand,outside,a guy is standing outside in a field,stand,outdoor
+686,12257,video4792,ufKBhTKsKw0,241.25,253.34,train,stand,outside,brown haired women with a wine glass cuts too still of people standing outside in athletic wear cuts to a still of mark walhberg actor,stand,outdoor
+687,12380,video4833,6Gskx99gHGA,122.3,141.72,train,stand,outside,kids are standing outside and dancing,stand,outdoor
+688,12552,video4899,WyNSJU02ywo,11.73,22.37,train,stand,outside,a man is standing outside explaining how to practice your swing at home,stand,outdoor
+689,12588,video4907,ZMN2Bs_Cr1A,513.77,528.2,train,stand,outside,men who are dressed like superheroes stand outside,stand,outdoor
+690,12849,video5016,x7UUvSyEUQg,9.97,21.29,train,stand,outside,a woman stands outside and catches rain in her hand,stand,outdoor
+691,12858,video5018,TitydQ1waoA,37.41,50.33,train,stand,outside,a boy is standing outside talking about weapons,stand,outdoor
+692,13208,video5153,UOXFdQJXM7E,399.88,410.96,train,stand,outside,guys stand around outside,stand,outdoor
+693,13578,video5284,8btJRgYJKWg,358.51,370.55,train,stand,outside,a man is standing outside in the snow brushing his teeth,stand,outdoor
+694,665,video245,ZFJY5Fcpvqc,138.17,156.65,train,start,inside,a few people start fighting each other outside then inside and ran out the building,start,indoor
+695,25107,video9659,rD8lWtcgeyg,11.35,23.78,train,begin,slowly,a robot is slowly beginning to move and superheroes are sensing danger and preparing to fight,start,slowly
+696,24426,video9404,0-U_6AM6EVs,411.77,426.29,train,start,up,a man talking about a movement that is starting to up-rise,start,upwards
+697,7399,video2926,WTc9OsK8dVU,80.56,107.45,train,step,back,a man in basketball attire demonstrating a step back move,step,backwards
+698,14577,video5672,WqLohtxwFO0,0.0,13.8,train,step,in,two men walking into a room and one being thrown back before he can step in,step,in
+699,12150,video4751,ya_Va1PU_jM,6.89,28.84,train,step,outside,guy asking few people to step outside,step,outdoor
+700,7075,video2801,vyDRbx8nWFg,44.17,61.28,train,stick,down,avril lavigne is singing and stuck down in a hole in this music video,stick,downwards
+701,3642,video1422,0SX5I9up3J0,270.21,287.85,train,stick,inside,a group of cartoon characters are stuck inside of a cave when a fight breaks out and they all fall down a hole,stick,indoor
+702,10193,video3997,rJkr3zT9RTo,152.31,164.28,train,block,completely,video of a basketball player getting completely blocked by his opponent while going for a layup,stop,completely
+703,13194,video5150,79x3vR68xR0,361.57,371.65,train,stop,quickly,a car is driving down a road then quickly stops,stop,quickly
+704,25,video12,bha24P9uw-E,73.08,83.3,train,stretch,out,a man with is arms out stretched,stretch,out
+705,15549,video6046,wL1fyeYAipk,19.53,37.85,train,strip,completely,a man wearing jeans completely strips all of the components of his car off,strip,completely
+706,5739,video2257,CgNtfelbfvg,56.45,70.35,train,surf,outside,kids are surfing outside with wind noise,surf,outdoor
+707,19404,video7505,z4wGSi9FXak,62.58,91.71,train,swim,hard,swimming hard to climb on the boat after falling down from the surfacing board,swim,firmly
+708,18970,video7327,SSq7LW3qu1k,74.91,94.18,train,swim,inside,a man swimming inside of a pool in a large blue aquarium,swim,indoor
+709,19396,video7505,z4wGSi9FXak,62.58,91.71,train,swim,out,a surfer swims out in to the ocean to catch a ride back in,swim,out
+710,2149,video835,xfPvtIOs5IA,30.14,52.57,train,swim,outside,someone is swimming around in the ocean outside,swim,outdoor
+711,745,video279,2alP2ZlmmFA,238.09,250.37,train,swim,fast,a group of swimmers are swimming fast,swim,quickly
+712,20193,video7797,YmMynOT7U3k,49.13,61.58,train,swim,slowly,a person is swimming slowly in a swimming pool,swim,slowly
+713,13182,video5144,VV3vlI5ssBw,22.57,39.32,train,swinge,gently,in the tennis practice the blue shirt player is swinging the rocket gently on left and right side,swing,gently
+714,14987,video5830,wv5m1-9J0hM,97.24,111.63,train,take,down,a person runs on sports field and is taken down,take,downwards
+715,24583,video9463,ZSXQqw2B7Pw,207.01,220.65,train,take,forcefully,a man in blue shirt forcefully taking the shoes from the leg,take,firmly
+716,15089,video5867,SwXr0ScjD9o,14.01,27.45,train,take,in,a man is talking about his car and going to take his luggage in dicky,take,in
+717,397,video138,2llPQkSbME4,478.36,500.01,train,take,inside,a video clip taken inside of a video game while someone is giving commentary,take,indoor
+718,3793,video1480,xIAq1OdWQM0,56.24,67.58,train,take,indoors,a man running and jumping in succession he is performing the triple-long jump this is taking place indoors,take,indoor
+719,2041,video793,i4D7yXmiWfw,85.23,112.83,train,take,out,pirates of the caribbean out takes,take,out
+720,6751,video2676,UNZA4pKh-EE,108.29,124.71,train,take,out,a view of balea cascadi water falls taken out from a long distance,take,out
+721,139,video51,-4-WZv-jKso,288.13,300.23,train,take,outside,a man takes a drink outside,take,outdoor
+722,172,video62,wz2qEGPQEtA,704.38,729.28,train,remove,quickly,a woman quickly removes makeup that s all over her body,take,quickly
+723,846,video312,YT6hpnZ_xjI,8.13,24.33,train,take,quickly,a car revs its engines and runs its lights before quickly taking off down the street,take,quickly
+724,2438,video939,4TshFWSsrn8,270.61,282.04,train,take,fast,a car takes a turn very fast,take,quickly
+725,7034,video2788,wVwjpEyybI0,0.0,11.85,train,take,quickly,a train takes a corner too quickly and flips over onto its side while in motion,take,quickly
+726,11695,video4569,UglYAUkyWzA,140.12,164.31,train,take,slowly,man sitting at a table in a white tank top slowly takes off his sunglasses cuts to vehicle driving ends with gates to a resort,take,slowly
+727,23435,video9024,vT4dZ0U30yg,183.4,196.04,train,talk,down,a woman is talking with a small picture down in the bottom right of the screen,talk,downwards
+728,9172,video3575,2xNA59KzBjc,529.38,539.63,train,speak,aggressively,a man speaks aggressively to two other men,talk,firmly
+729,14038,video5449,3APquH5Rj7c,133.93,151.37,train,talk,aggressively,gordon ramsey talks aggressively to a woman,talk,firmly
+730,9821,video3843,bAwMYCHwge4,224.05,238.05,train,speak,softly,a girl speaks softly wearing a star wars shirt,talk,gently
+731,1102,video414,hzMDJ4fpPEw,53.77,64.14,train,talk,in,a man is jumping and talking to another man in outside,talk,in
+732,5957,video2336,tqarb7Gvhos,287.45,306.06,train,talk,in,in and out on espn talked about football,talk,in
+733,68,video22,_JZIjHJClNc,20.05,32.81,train,talk,inside,a man and woman are talking to each other inside of a building,talk,indoor
+734,813,video300,8h_IcLn4JSg,360.7,387.39,train,talk,inside,a man is talking to another man inside of a room,talk,indoor
+735,1298,video490,CbuOH2xjFtY,17.6,46.47,train,talk,indoors,a clip of a young man and woman talking to each other indoors,talk,indoor
+736,1820,video682,TDWfGPVnXdU,20.33,31.51,train,talk,inside,a woman with dark hair is talking inside,talk,indoor
+737,2297,video885,yQJptpmgIUE,79.96,93.72,train,talk,indoors,a man and a woman are talking indoors,talk,indoor
+738,3336,video1292,-TGj227OVKY,172.11,183.08,train,talk,inside,two young men talking to each other inside of a room,talk,indoor
+739,3592,video1396,vQSnCRmVF8w,3.05,13.21,train,talk,indoors,a man with glasses and a red tie is talking indoors,talk,indoor
+740,5711,video2239,xotmTHeUe7k,0.0,12.86,train,talk,inside,a person with a blue shirt is talking inside,talk,indoor
+741,6920,video2746,uqOy-BJoyhc,48.33,62.37,train,talk,inside,a woman with purple and white hair is talking inside,talk,indoor
+742,7104,video2809,SwXr0ScjD9o,163.33,182.33,train,speak,inside,a car   moving on road  and boy in white and  black strip dress sitting speaking inside   moving on road  displaying on screen,talk,indoor
+743,7827,video3088,x7UUvSyEUQg,63.97,92.13,train,talk,inside,a man talking with a woman inside and a storm blowing outside,talk,indoor
+744,7831,video3088,x7UUvSyEUQg,63.97,92.13,train,speak,inside,a male and female are speaking inside in an unknown language while having tea,talk,indoor
+745,8050,video3168,3s3fuaKIdno,1412.46,1422.63,train,talk,inside,a group of women talk inside of their house,talk,indoor
+746,8241,video3246,UYa6gbDcx18,172.95,189.84,train,speak,inside,an elderly man is speaking to a blonde boy inside of a room,talk,indoor
+747,8597,video3371,ZMR0rAxEtQA,229.86,255.72,train,speak,inside,two guys are standing and speaking to each other inside of a living space,talk,indoor
+748,9327,video3635,5u6r9zTpdsc,14.97,25.77,train,talk,inside,a group of people talk inside of a house,talk,indoor
+749,3562,video1387,3Qd3HBFMZCg,304.82,315.26,train,talk,loud,a woman is talking out loud,talk,loudly
+750,12638,video4926,snDZ38McqRM,50.58,73.75,train,speak,loudly,a man speaks loudly to a statue of what appears to be a hindu goddess,talk,loudly
+751,372,video129,jWxpHociX0I,541.05,552.37,train,talk,out,two men talking out in the water,talk,out
+752,106,video40,-8222dxzZIk,336.6,358.16,train,talk,outside,two men are talking outside,talk,outdoor
+753,399,video140,3q43gpuy2-w,94.21,106.12,train,talk,outdoors,military men are shown talking to one another outdoors,talk,outdoor
+754,669,video246,GY3Vx0KnwjY,54.84,65.42,train,talk,outside,a police officer is talking to a couple outside,talk,outdoor
+755,1104,video414,hzMDJ4fpPEw,53.77,64.14,train,talk,outside,two men are talking outside in their front yard,talk,outdoor
+756,1454,video548,bQcduEj8lxI,20.92,31.67,train,talk,outside,wolves running then a man talking outside,talk,outdoor
+757,1504,video568,0nI5j--lRB4,104.18,114.91,train,talk,outside,two boys are talking outside,talk,outdoor
+758,2612,video1005,CX8tDb-jzXM,174.96,185.2,train,talk,outside,two people are talking outside and a man is waving,talk,outdoor
+759,3389,video1316,-CIs3jOnfiM,200.95,216.56,train,talk,outside,a man is talking to a child outside,talk,outdoor
+760,3507,video1358,mzye0UnpeQY,72.1,97.43,train,talk,outside,a silent video clip of a video game of two animals talking to each other outside,talk,outdoor
+761,5233,video2033,-7-rH4IBKLE,63.53,75.69,train,talk,outdoors,men are talking outdoors,talk,outdoor
+762,5779,video2272,5cA9cGUGr00,172.85,186.19,train,speak,outside,a man speaks to another man outside for an interview,talk,outdoor
+763,6600,video2603,4V-oTaO5asc,304.81,317.25,train,talk,outdoors,a man is talking on the microphone outdoors,talk,outdoor
+764,8173,video3223,0Knp_ciNF_k,875.69,886.65,train,talk,outside,a woman can be seen talking to reporters outside,talk,outdoor
+765,8560,video3355,_YXO2MZTJjc,301.28,313.85,train,talk,outdoors,the woman looks out the window and talks on the phone outdoors,talk,outdoor
+766,9169,video3574,uq4rBj07L8M,162.77,184.77,train,talk,outside,a young man with black hair talks while twirling a pen sitting in a library and another man talks outside,talk,outdoor
+767,9392,video3668,-s_16LinZ50,284.42,297.51,train,talk,outdoors,animated characters talk outdoors,talk,outdoor
+768,9633,video3767,9qjyukEyNLA,399.69,411.61,train,speak,outside,a woman speaks to an interviewer outside,talk,outdoor
+769,9780,video3822,PqxH9iXUDf0,13.8,28.08,train,talk,outside,a man is talking about something in outside,talk,outdoor
+770,9786,video3825,421tpz0A5Nw,673.37,684.57,train,speak,outside,a man and a child speak to each other outside,talk,outdoor
+771,10447,video4092,BmiM3xWEQ7w,63.08,75.16,train,talk,outdoors,spider man and a villain are talking outdoors,talk,outdoor
+772,10533,video4116,5UabpCiOFCU,85.09,95.17,train,talk,outside,a man talks on a phone outside,talk,outdoor
+773,10739,video4202,oCZFrwRTbiw,1520.77,1531.69,train,speak,outside,a child speaks to the camera outside,talk,outdoor
+774,10902,video4260,9a2Va94Tldc,116.33,128.11,train,speak,outdoors,a man is speaking outdoors,talk,outdoor
+775,12427,video4853,CYneI9VMvhg,389.09,407.24,train,talk,outside,a man talks to a boy outside,talk,outdoor
+776,13936,video5406,oYFIWe8BBp4,10.06,24.14,train,speak,outside,a child speaks to the camera outside,talk,outdoor
+777,14229,video5524,V1jqyfrUqqA,273.25,302.41,train,talk,outside,a guy in a black vest and glasses is talking outside,talk,outdoor
+778,5507,video2161,A2IMbbRdlsI,345.19,359.91,train,talk,briefly,an announcer briefly talks about a basketball star,talk,partially
+779,6360,video2497,TG55ErfdaeY,151.66,162.29,train,talk,briefly,a man in a purple button shirt briefly talks about god and mentions singularity,talk,partially
+780,15226,video5922,thnDxFdkzZs,47.43,57.65,train,explain,breifly,a scientist breifly explain about the ditterent types of atom,talk,partially
+781,2460,video949,zhs3XHx3_iA,18.43,36.82,train,speak,properly,there is a man wearing horned rimed glasses and he is talking about grammar and speaking properly,talk,properly
+782,569,video213,5wK2aNcaDSU,37.08,62.98,train,speak,quickly,an analyst is speaking quickly,talk,quickly
+783,1720,video657,w3GFq6zoZEI,117.06,143.36,train,speak,fast,a young woman with long and straight blonde hair wears a deep-pink sweater with white stars while speaking fast,talk,quickly
+784,3150,video1223,A7sm_O21CBc,40.25,50.89,train,speak,quickly,a woman is speaking quickly,talk,quickly
+785,6495,video2552,4V-oTaO5asc,295.81,307.81,train,speak,rapidly,a man speaks rapidly in front of a laughing crowd,talk,quickly
+786,8792,video3441,_pFCpKtwCkI,52.06,67.78,train,talk,fast,a man in a blue shirt and glasses talking with his hands very fast,talk,quickly
+787,10986,video4295,Swfo9k8ITQM,156.17,174.59,train,speak,fast,a woman speaks very fast and gestures outward with her arms while standing in front of a white oven in a brown kitchen,talk,quickly
+788,12647,video4934,_tGOKEqzD70,8.46,24.1,train,talk,rapidly,two hindu couples talking rapidly while one woman hands a baby to her husband,talk,quickly
+789,18575,video7187,b47HVW9TuhI,172.09,187.93,train,talk,quietly,a hooded character talks quietly to another man,talk,quietly
+790,5636,video2212,BsadPwkvrTQ,57.14,67.55,train,throw,back,a man getting thrown back into the wrestling ring by another man,throw,backwards
+791,14567,video5672,WqLohtxwFO0,0.0,13.8,train,throw,backwards,two guys walk near a man dressed in orange while one of the guys is thrown backwards,throw,backwards
+792,22019,video8487,XbNHfZjXuVM,0.0,10.53,train,throw,down,a cricket game is being played and a lot of players are being thrown down,throw,downwards
+793,1376,video523,WqLohtxwFO0,13.8,29.38,train,throw,violently,a man is held above a woman s head and violently thrown in a quirky fight scene,throw,gently
+794,14202,video5515,9F0ONHeAFO4,11.39,31.41,train,throw,outside,a person is throwing a paper airplane outside,throw,outdoor
+795,25815,video9937,CPFdE1GLH6U,21.47,37.32,train,throw,outside,someone throwing a paper airplane outside,throw,outdoor
+796,3315,video1287,zGe-ZpsZ124,15.06,27.24,train,throw,up,a coach throws a volleyball up by the net and a female player runs swings up her arms jumps up with bent knees and spikes the ball over the net,throw,upwards
+797,11571,video4525,4TEhliSh_f4,110.79,123.17,train,lean,back,a woman leans her head back an stretches her arms and dances in the wind,tilt,backwards
+798,4295,video1661,qWkz8eb2ziM,15.68,26.41,train,lean,forward,a ninja is leaning forward,tilt,forwards
+799,11435,video4464,z4mTzIJD3EY,12.89,23.41,train,lean,forward,a young woman does stretching exercises by leaning forward with legs apart on a green gym floor by a white line,tilt,forwards
+800,17477,video6805,1bz-uKlZiQo,7.29,18.0,train,tip,soft,a man gets shot with a soft-tipped arrow,tilt,gently
+801,18500,video7163,FyRysi1Vovs,63.01,75.63,train,touch,back,a young man is touching a young girls back,touch,backwards
+802,24559,video9451,cfYjRV_DH9k,16.32,31.68,train,touch,outside,a girl feeds and touches a horse outside,touch,outdoor
+803,25086,video9650,w8Wiq-POmFA,120.25,132.11,train,touch,almost,dwight howard almost touches the top of the backboard,touch,partially
+804,177,video66,606BFmZN0is,20.69,31.33,train,turn,backwards,a girl is singing and judges are turning backwards and hearing the song,turn,backwards
+805,13700,video5324,_b3XHP2olJA,29.01,45.16,train,flip,back,a man is flipping back on a trampoline,turn,backwards
+806,14852,video5781,xrK50olwZRw,113.01,124.76,train,flip,back,a woman in purple top flips her hair back over her shoulder,turn,backwards
+807,20182,video7795,ukYr_C1Tnzk,260.68,280.58,train,flip,down,a man demonstrates how to turn the wing while it is flipped upside down in the water,turn,downwards
+808,2214,video854,vNFDLkQZD5w,300.35,312.29,train,flip,inside,a woman flipping cooking meat inside of a pan filled with hot oil,turn,indoor
+809,11022,video4307,6LtffXUqgzU,310.37,322.25,train,spin,nearly,a car nearly spins out while taking a corner in a race,turn,partially
+810,25284,video9723,wUqbvHOW6Us,75.65,97.61,train,rotate,fast,a copper wire placed on a pen battery rotating fast in clockwise direction,turn,quickly
+811,134,video51,-4-WZv-jKso,288.13,300.23,train,spin,slowly,a black man anxiously slowly spins around,turn,slowly
+812,2014,video780,wIUFOPv7fi0,46.88,59.85,train,turn,slowly,a man is bound to a table by his hands and slowly turns into the incredible hulk,turn,slowly
+813,3982,video1553,ygO9-_lHsuw,162.01,174.99,train,spin,slowly,a pop music video is shown with a female singer slowly spinning,turn,slowly
+814,14882,video5792,CuLtT_fe8B8,391.8,406.28,train,screw,back,a man is showing how to screw parts back onto something,twist,backwards
+815,21175,video8156,AFkCZn2pO8k,7.08,17.16,train,use,bad,a woman wanting to use the bathroom really bad,use,improperly
+816,5661,video2224,TBNw5cCG5Lw,142.62,171.52,train,use,outside,a woman in shorts a hat and tank top is using soap to wash a white horses  tail outside in a stable,use,outdoor
+817,7564,video2985,N24csYRVOVM,33.41,47.9,train,use,properly,how to use a piece of equipement properly,use,properly
+818,7770,video3067,yGXLkntX7SQ,86.07,98.45,train,use,properly,a young woman shows how to properly use a curling iron,use,properly
+819,3076,video1195,amtuB-2wGeQ,93.97,106.87,train,walk,backwards,a puppy walks backwards,walk,backwards
+820,6208,video2435,TJ1R2sqvEkI,276.93,290.25,train,walk,back,people praising the roman emperor when he thows money to the crowd and walk back to his castle,walk,backwards
+821,17061,video6648,UxH2U63G-Wk,1399.71,1414.49,train,walk,back,a young tall and skinny model walking back to the backstage,walk,backwards
+822,359,video126,bTT3bWCPfxc,233.13,243.53,train,walk,down,fashion model walks down run way,walk,downwards
+823,2572,video992,ZHJ1Y9G9ah0,50.81,61.19,train,walk,down,people are walking down,walk,downwards
+824,3546,video1377,4bXP7qbsqNw,30.05,40.33,train,walk,forward,a man in a uniform is walking forward and speaking,walk,forwards
+825,5919,video2318,5G3mEoTEqvw,299.61,311.41,train,march,forward,soldiers marching forward happily,walk,forwards
+826,8983,video3508,XOAVEqND_Ns,16.6,27.78,train,walk,forward,there are some people slowly walking forward to other people,walk,forwards
+827,14238,video5527,u_yJTZkO650,73.82,96.04,train,walk,forward,a bare-chested man with a beard looks down at a woman with blonde hair while that same woman slowly walks forward in a white dress with gray overlay pinned at the shoulders,walk,forwards
+828,9281,video3613,UDbBXS-XlUI,523.8,535.92,train,walk,gently,in the fashion show ramb the girls are walked gently their frock is like as butterfly,walk,gently
+829,487,video172,b98mlSx0Q28,2.2,15.52,train,walk,in,a guy walks in and tries to talk to a man on a bed,walk,in
+830,1278,video483,YSCM2Cg4WTA,410.06,426.67,train,walk,in,a man talks about his team mates and the danger he s walking in to while playing a first-person shooter,walk,in
+831,1690,video645,tSR5R0Gbq-U,19.07,39.69,train,walk,in,a people are walking in to the forest path way,walk,in
+832,2269,video875,zKHEDfea-5I,199.85,212.93,train,walk,in,there is a woman is walking in to the village,walk,in
+833,3277,video1273,_G2CgUKS5tw,20.13,43.45,train,walk,in,there are some people is walking in to the street,walk,in
+834,3282,video1275,y9oQAnpeuUo,465.37,482.29,train,walk,in,there is a mature woman walking in to the station,walk,in
+835,3367,video1306,722EXLTigpg,251.67,263.74,train,walk,in,children playing games with each other as an adult walks in,walk,in
+836,4824,video1859,tFhqEupQviU,0.0,15.33,train,walk,in,there is a boy is walking in to the street,walk,in
+837,5709,video2239,xotmTHeUe7k,0.0,12.86,train,walk,in,there is a spider walking in to the wall,walk,in
+838,6463,video2544,v66VMFBPq8E,100.05,113.61,train,walk,in,in a room a man in a white shirt sleeping on a resting chair whiles a girl walked in from school,walk,in
+839,8083,video3185,sMptH7uAGjA,60.21,75.92,train,walk,in,there is a hot woman is walking in to the beach,walk,in
+840,8488,video3333,_ZDNX7PWsg0,469.72,486.03,train,walk,in,a dog walks in a room and joins another dog then a man walks in and talks to them,walk,in
+841,8595,video3371,ZMR0rAxEtQA,229.86,255.72,train,walk,in,a bearded man in a suit with a man in black dress in a living space talkng when a crew of three more people walk in expectedly,walk,in
+842,10700,video4188,xROmDsULcLE,114.54,127.42,train,walk,in,there are some people walking in to the market,walk,in
+843,11368,video4439,xUL4X2uwAwc,15.43,38.65,train,walk,in,a man in black is walking in to the lab,walk,in
+844,11878,video4640,hFLpO_CsdK4,78.27,101.8,train,walk,in,a man putting on a shirt as a woman walks in,walk,in
+845,12107,video4733,zsJpUCWfyPE,18.67,29.68,train,walk,in,there are some people is walking in to the shore,walk,in
+846,12225,video4776,Y7efwyy6Ic4,36.92,52.93,train,walk,in,there is a suit man walking in to the corridor,walk,in
+847,12413,video4848,ZbfHccPdYcE,133.71,144.29,train,walk,in,there is a woman with gun is walking in to the forest,walk,in
+848,12457,video4866,_piOmYadXfM,95.94,118.5,train,walk,in,the women walk in and model the outfits as the people watch,walk,in
+849,12538,video4894,X46t8ZFqUB4,22.19,33.75,train,walk,in,montage of a woman with long dark hair singing and dancing at a night club and walking in with a white fur coat,walk,in
+850,1011,video381,zAQb5kP7ajI,168.51,181.85,train,walk,inside,a large spider walks around inside of a glass aquarium,walk,indoor
+851,1031,video386,_q-n8SjU_RI,39.84,55.85,train,walk,inside,a cartoon woman opens the door and people walk inside,walk,indoor
+852,1761,video668,pSIELD98Dq0,57.84,69.42,train,walk,inside,a minecraft film with a minecraft batman walking around inside,walk,indoor
+853,2660,video1025,y0_YLSytMsk,296.94,325.44,train,walk,inside,a dog is walking around inside of a store,walk,indoor
+854,7870,video3110,Y-XLsQv-w48,37.92,49.46,train,walk,inside,the girls and the man walk inside of the restaurant,walk,indoor
+855,14431,video5608,VYxdJJjhAs0,13.25,25.81,train,walk,inside,some cops in a room are walking around inside,walk,indoor
+856,15194,video5912,wSJc6vlACt8,11.77,29.05,train,walk,inside,a building and still images  picture of man walking inside building  person working inside displaying on screen,walk,indoor
+857,7118,video2816,qIVDxL2lgN4,24.13,38.53,train,walk,loudly,mr bean walking loudly across rooftops with ninjas,walk,loudly
+858,251,video93,WkBM8D92yA8,714.86,726.27,train,walk,out,a man is signing autographs and also walks out to a wrestling ring,walk,out
+859,5918,video2318,5G3mEoTEqvw,299.61,311.41,train,march,out,men in the army marching out,walk,out
+860,6161,video2420,bAgL5AMK2yM,55.6,67.65,train,walk,out,women with angel wings walk out on stage while a man sings,walk,out
+861,6448,video2538,6zMVFsz7oT4,45.03,60.14,train,walk,out,beauty pageant contestants are walking out onto a runway,walk,out
+862,7685,video3033,TnnV2_QTYl4,342.22,352.27,train,walk,out,a man walks out to a beautiful beach with a backpack on this back,walk,out
+863,8024,video3156,pownZMAmm0E,16.0,26.07,train,walk,out,a lego man walks out through a gate,walk,out
+864,9708,video3796,g3Rf5qDuq7M,483.45,496.41,train,walk,out,a group of males are walking out on stage then a man is shown talking,walk,out
+865,10775,video4215,kphmlnpVlFQ,1720.05,1731.81,train,walk,out,a person in a black jacket walks out onto a stage,walk,out
+866,276,video99,tEyCBVt2pw4,31.31,57.2,train,walk,outside,a group of people are walking around outside,walk,outdoor
+867,943,video346,JoT3VwlQdXE,47.87,58.63,train,walk,outside,woman and man chat and walk outside,walk,outdoor
+868,1005,video378,v0ohq2E5vp0,8.05,32.81,train,walk,outside,a news anchor narrates over video of a politician walking around outside,walk,outdoor
+869,3052,video1185,x3dBFQeI9Ig,23.07,33.55,train,walk,outside,two guys walk down a sidewalk together outside and talk,walk,outdoor
+870,4022,video1568,-OivByuJT-k,323.94,342.19,train,walk,outside,a group of people are walking outside,walk,outdoor
+871,4182,video1630,w6l_elj8Ke4,825.39,835.47,train,walk,outside,a militia group walks around outside looking for something,walk,outdoor
+872,5145,video2000,S3rWUGjtn_4,53.09,65.5,train,walk,outside,a sponge and a starfish walk outside and have a conversation,walk,outdoor
+873,5418,video2118,tYhOBh6PJ8o,381.47,401.37,train,walk,outside,a man with a green hat is walking around outside,walk,outdoor
+874,5838,video2292,1NZpa_uY680,273.21,291.53,train,walk,outside,a woman is singing and walking outside,walk,outdoor
+875,8341,video3278,w1Qxxx2SQoo,0.0,25.89,train,walk,outside,a man is walking outside with the sound of cars and sirens play in the background,walk,outdoor
+876,10851,video4243,N708P-A45D0,40.59,51.07,train,walk,outside,a man and woman are talking another woman is walking outside,walk,outdoor
+877,11546,video4514,PBFRk6VOWXs,7.52,22.8,train,walk,outside,a minecraft character farts and walks around outside,walk,outdoor
+878,11714,video4577,T4ZPMWWPIIo,163.78,183.96,train,walk,outside,a woman is shown walking outside as music plays in the background,walk,outdoor
+879,13155,video5132,0ZOvqYypOuo,82.06,92.37,train,walk,outdoors,a man is walking outdoors,walk,outdoor
+880,12821,video5001,Uc6k4Y5_F50,85.3,106.52,train,walk,hardly,there is a boy is walking hardly through the forest,walk,partially
+881,15060,video5853,z-gD3esFIm8,120.97,132.31,train,walk,properly,due to snow falls the peoples are unable to walk properly,walk,properly
+882,41,video19,tkyX9RU3FDw,5.05,21.41,train,pace,fast,two men compete in a fast paced table tennis match,walk,quickly
+883,1424,video540,u_yJTZkO650,519.17,541.69,train,pace,fast,fast-paced music plays while the word lost is shown with many people standing underneath the word and then slower music plays as a male narrator speaks and water is shown,walk,quickly
+884,3516,video1363,1-wr3D_JufQ,510.62,521.74,train,walk,fast,the hook hand walked fast,walk,quickly
+885,4118,video1608,XD4CccRdfCA,44.63,73.67,train,pace,fast,two people compete in a fast-paced game of table tennis,walk,quickly
+886,4745,video1828,tuSusdhhgK0,141.48,154.28,train,walk,fast,a girl walks fast on the pavement and enters a room with large doors and peeps out,walk,quickly
+887,5648,video2216,ZBCnTKDdOus,452.65,470.09,train,pace,fast,fast-paced music scores pancake batter being drizzled over a hot pan and slowly browning,walk,quickly
+888,7072,video2800,YSCM2Cg4WTA,158.04,173.75,train,walk,fast,person is walking fast and wants to kill someone,walk,quickly
+889,7945,video3129,SZaoC1YcGMw,18.33,31.05,train,walk,fast,person is walking fast on the broken trees,walk,quickly
+890,10414,video4082,d74z4_2X86c,72.45,88.43,train,pace,fast,a fast paced video with scrolling commentary,walk,quickly
+891,13288,video5181,44ZdhyubJ3I,57.61,73.45,train,pace,fast,a man performs a fast-paced dance in an empty street,walk,quickly
+892,305,video110,7DNXUvHm-S8,102.94,119.17,train,walk,slowly,a woman walks slowly down a hallway before running into a scary man,walk,slowly
+893,3405,video1323,p0__fP7L53w,109.34,121.55,train,walk,slowly,clip of statue falling and men walking slowly,walk,slowly
+894,3691,video1439,uU497FNZ4hw,64.24,91.97,train,walk,slowly,a man is slowly walking in the dark room,walk,slowly
+895,7606,video3005,hg37MLNj16Q,101.52,112.66,train,walk,slowly,a woman is slowly walking towards a man,walk,slowly
+896,8084,video3185,sMptH7uAGjA,60.21,75.92,train,walk,slowly,a girl come in bikini and walks slowly on the beach a person open some door,walk,slowly
+897,8339,video3278,w1Qxxx2SQoo,0.0,25.89,train,walk,slowly,a guy slowly walking in a field then music starts,walk,slowly
+898,8438,video3318,weAF3PY6RTk,189.61,212.01,train,walk,slowly,beautiful ladies are walking slowly on the scene,walk,slowly
+899,8982,video3508,XOAVEqND_Ns,16.6,27.78,train,walk,slowly,there are some people slowly walking forward to other people,walk,slowly
+900,9161,video3573,TbGI-o41r0o,159.55,170.38,train,walk,slowly,flint rider walks very slowly and suddenly try to escape from the soldiers who captured him,walk,slowly
+901,11621,video4541,xKN7LDegLTo,35.48,51.93,train,walk,slowly,a baby guinea pig is slowly walking around it s cage and starts eating from it s food dispenser,walk,slowly
+902,12363,video4828,6GzUoK8VDAE,52.7,66.53,train,walk,slowly,a man is slowly walking out to a football field,walk,slowly
+903,13107,video5116,ymppHbTHJFk,5.58,16.18,train,walk,slowly,three people are walking on the sea side very slowly,walk,slowly
+904,14237,video5527,u_yJTZkO650,73.82,96.04,train,walk,slowly,a bare-chested man with a beard looks down at a woman with blonde hair while that same woman slowly walks forward in a white dress with gray overlay pinned at the shoulders,walk,slowly
+905,14473,video5624,HS4faiNh72U,6.35,19.67,train,walk,slowly,a man walks slowly around a honda civic,walk,slowly
+906,15058,video5853,z-gD3esFIm8,120.97,132.31,train,walk,slowly,there are two people walking through the snow very slowly,walk,slowly
+907,12315,video4816,YqcfOKaIwqY,61.61,71.83,train,weave,in,a man on a motorcycle races along a street and weaves in and out of traffic,weave,in
+908,5497,video2156,8Mt01P_1-us,1724.16,1734.6,train,weave,quickly,a man quickly weaves a straw hat,weave,quickly

@@ -1,0 +1,56 @@
+,id,youtube_id,weak_timestamp,clustered_adverb,clustered_action,task_num,adverb,action,before_action,before_clustered_action,before_id,before_timestamp,after_action,after_clustered_action,after_id,after_timestamp,in_window_actions,in_window_clustered_actions,in_window_ids,in_window_timestamps,clip_id
+0,2195,o3IvOsLznLA,348.20500000000015,completely,cool,16136,completely,cool,insert,insert,54885.0,340.61,bake,cook,54887.0,350.19,"['insert', 'bake', 'clean', 'make']","['insert', 'cook', 'wash', 'make']","[54885, 54887, 54888, 54889]","[340.61, 350.19, 352.85, 356.73]",o3IvOsLznLA_348-20500000000015
+1,7851,v2l-QRrp2hA,231.495,slowly,add,34938,slowly,add,whisk,mix,527228.0,228.87,,,,,['whisk'],['mix'],[527228],[228.87],v2l-QRrp2hA_231-495
+2,12263,h8Pg_0A2F6U,51.08,slowly,roll,29477,slowly,roll,make,make,481189.0,49.19,cut,cut,481191.0,64.19,"['remove', 'make']","['take', 'make']","[481188, 481189]","[45.76, 49.19]",h8Pg_0A2F6U_51-08
+3,14851,ouisu8sEFmM,292.19,slowly,add,75501,slowly,add,whisk,mix,24733.0,289.58,boil,cook,24735.0,292.92,"['boil', 'start', 'scramble', 'whisk', 'boil']","['cook', 'start', 'mix', 'mix', 'cook']","[24729, 24730, 24732, 24733, 24735]","[282.7, 282.8, 286.39, 289.58, 292.92]",ouisu8sEFmM_292-19
+4,1832,iLFo3-mHIRc,86.85,slowly,pour,51659,slowly,pour,distribute,spread,432436.0,53.89,add,add,432438.0,92.57,['add'],['add'],[432438],[92.57],iLFo3-mHIRc_86-85
+5,2931,sFD1P66XtzY,740.1,completely,cover,26618,completely,cover,stop,stop,552021.0,643.49,cook,cook,552023.0,782.68,[],[],[],[],sFD1P66XtzY_740-1
+6,16956,43O1Tz186zA,269.455,completely,set,85159,completely,set,smooth,spread,76955.0,239.23,cover,cover,76957.0,272.44,['cover'],['cover'],[76957],[272.44],43O1Tz186zA_269-455
+7,2340,keYQHRIvcIk,239.49,partially,twist,16136,slightly,loosen,drizzle,sprinkle,56247.0,229.77,fill,fill,56250.0,241.77,"['drizzle', 'soak', 'fill', 'pour']","['sprinkle', 'soak', 'fill', 'pour']","[56247, 56248, 56250, 56251]","[229.77, 229.53, 241.77, 248.09]",keYQHRIvcIk_239-49
+8,13734,tYDJDiAEjL8,281.1,slowly,cook,41718,slowly,cook,turn,turn,594673.0,277.6,sit,sit,594675.0,300.79,['turn'],['turn'],[594673],[277.6],tYDJDiAEjL8_281-1
+9,12359,D3H_or1UXu0,108.83,quickly,cook,29477,quickly,sear,prepare,make,478879.0,101.75,remove,take,478881.0,117.77,"['prepare', 'remove']","['make', 'take']","[478879, 478881]","[101.75, 117.77]",D3H_or1UXu0_108-83
+10,1113,56GLB6ot3m8,191.76,completely,dip,105259,fully,submerge,form,make,13114.0,176.22,add,add,13117.0,195.97,['add'],['add'],[13117],[195.97],56GLB6ot3m8_191-76
+11,12258,cbBWHigMaNQ,41.265,partially,cook,29477,slightly,caramelize,combine,mix,482129.0,22.99,melt,melt,482131.0,49.45,['melt'],['melt'],[482131],[49.45],cbBWHigMaNQ_41-265
+12,5891,7dapwvMYaEw,27.75500000000001,completely,take,40566,completely,remove,,,,,break,separate,86685.0,75.92,[],[],[],[],7dapwvMYaEw_27-75500000000001
+13,3714,DXlMI5H2R-c,73.015,quickly,cool,109761,quickly,cool,transfer,move,418033.0,68.01,boil,cook,418035.0,76.59,"['transfer', 'boil']","['move', 'cook']","[418033, 418035]","[68.01, 76.59]",DXlMI5H2R-c_73-015
+14,5309,-QVWJmzut8o,1102.675,completely,cool,101028,totally,cool,stick,stick,104880.0,1095.07,stick,stick,104882.0,1105.32,"['stick', 'stick']","['stick', 'stick']","[104880, 104882]","[1095.07, 1105.32]",-QVWJmzut8o_1102-675
+15,14301,WfsA7OiQIdI,812.81,completely,cook,114508,fully,cook,stick,stick,457865.0,808.0,build,make,457867.0,824.24,['stick'],['stick'],[457865],[808.0],WfsA7OiQIdI_812-81
+16,2374,6Kg-MdO6Yo0,95.48,completely,mix,16136,totally,dissolve,add,add,53706.0,94.57,hit,hit,53707.0,119.59,['add'],['add'],[53706],[94.57],6Kg-MdO6Yo0_95-48
+17,8598,50ATetDC33s,308.495,completely,soak,93400,fully,marinate,apply,spread,258758.0,277.94,wrap,cover,258760.0,312.02,['wrap'],['cover'],[258760],[312.02],50ATetDC33s_308-495
+18,6009,9YbmbWhQb7E,39.8,quickly,shake,40566,vigorously,shake,take,take,86015.0,31.53,fit,fill,86017.0,60.93,['take'],['take'],[86015],[31.53],9YbmbWhQb7E_39-8
+19,15040,9jUAJbWcC_M,181.55,completely,mix,14133,completely,mix,place,put,119843.0,169.05,lay,put,119846.0,193.07,[],[],[],[],9jUAJbWcC_M_181-55
+20,7300,YEG6PYAY-PU,1341.62,quickly,dry,89899,fast,dry,thicken,cook,225744.0,1336.46,,,,,['thicken'],['cook'],[225744],[1336.46],YEG6PYAY-PU_1341-62
+21,10269,9torK36UJB4,359.9,quickly,pour,96127,fast,pour,,,,,,,,,[],[],[],[],9torK36UJB4_359-9
+22,15230,EiI71CNuVMU,146.825,finely,cut,14133,finely,chop,add,add,128889.0,145.76,cook,cook,128891.0,159.29,"['dry', 'add']","['dry', 'add']","[128888, 128889]","[140.74, 145.76]",EiI71CNuVMU_146-825
+23,3971,6__2I0BUvTU,55.275,slowly,add,113764,slowly,add,set,set,276903.0,43.72,whisk,mix,276905.0,55.87,['whisk'],['mix'],[276905],[55.87],6__2I0BUvTU_55-275
+24,13538,d5JCYss0roU,91.875,slowly,mix,76412,slowly,combine,whisk,mix,408442.0,87.58,mix,mix,408444.0,93.9,"['use', 'whisk', 'mix', 'add', 'peel']","['use', 'mix', 'mix', 'add', 'peel']","[408441, 408442, 408444, 408445, 408446]","[82.49, 87.58, 93.9, 98.63, 101.6]",d5JCYss0roU_91-875
+25,107,hhkTHfsl_iM,52.175,finely,cut,20880,finely,slice,bring,carry,44509.0,38.37,simmer,cook,44510.0,55.0,"['simmer', 'cook']","['cook', 'cook']","[44510, 44511]","[55.0, 59.39]",hhkTHfsl_iM_52-175
+26,5233,91DAznuHBj8,864.825,slowly,pour,101028,slowly,pour,apply,spread,101801.0,825.54,soak,soak,101803.0,868.88,['soak'],['soak'],[101803],[868.88],91DAznuHBj8_864-825
+27,9932,TNS5LMmyfI4,80.41499999999998,partially,fill,106568,partially,fill,take,take,584987.0,71.44,open,open,584989.0,90.62,['take'],['take'],[584987],[71.44],TNS5LMmyfI4_80-41499999999998
+28,13701,Q8bDwY-3RjY,71.88499999999998,partially,fill,41718,barely,fit,marinate,soak,592877.0,23.26,set,set,592879.0,79.69,['set'],['set'],[592879],[79.69],Q8bDwY-3RjY_71-88499999999998
+29,6479,mkAWbpxH9LI,144.035,partially,cook,20898,slightly,fry,cook,cook,357765.0,138.22,break,separate,357767.0,147.75,"['stick', 'cook', 'break', 'cook']","['stick', 'cook', 'separate', 'cook']","[357764, 357765, 357767, 357768]","[135.2, 138.22, 147.75, 151.61]",mkAWbpxH9LI_144-035
+30,12829,ZwbZXvkjWnM,581.745,completely,take,76407,completely,remove,bake,cook,279611.0,571.1,cool,cool,279614.0,584.39,['cool'],['cool'],[279614],[584.39],ZwbZXvkjWnM_581-745
+31,11237,srMOSngN58o,204.88,finely,cut,105209,finely,chop,add,add,198481.0,186.73,add,add,198484.0,213.06,['add'],['add'],[198484],[213.06],srMOSngN58o_204-88
+32,16145,CU57bQVDXqU,101.965,completely,dip,41950,completely,coat,melt,melt,67098.0,98.78,line,arrange,67101.0,104.8,"['melt', 'stir', 'line']","['melt', 'mix', 'arrange']","[67098, 67099, 67101]","[98.78, 98.38, 104.8]",CU57bQVDXqU_101-965
+33,13112,_xfryKaSZAI,844.19,quickly,cook,91586,fast,cook,sit,sit,169370.0,818.18,burn,burn,169373.0,845.11,['burn'],['burn'],[169373],[845.11],_xfryKaSZAI_844-19
+34,8403,SHGhzeYqHKc,278.22,completely,cook,93400,completely,cook,bring,carry,266175.0,271.43,mix,mix,266178.0,280.59,"['bring', 'mix', 'dice', 'add']","['carry', 'mix', 'cut', 'add']","[266175, 266178, 266179, 266180]","[271.43, 280.59, 286.69, 287.03]",SHGhzeYqHKc_278-22
+35,2239,1KtKC-wrCJ8,342.03,partially,dip,16136,slightly,dip,use,use,53232.0,335.35,spread,spread,53234.0,348.07,"['use', 'spread']","['use', 'spread']","[53232, 53234]","[335.35, 348.07]",1KtKC-wrCJ8_342-03
+36,2427,s3sw5wn10-A,486.325,completely,cover,16136,fully,cover,whip,mix,52458.0,474.03,set,set,52461.0,487.95,['set'],['set'],[52461],[487.95],s3sw5wn10-A_486-325
+37,12958,tjoC36jDIts,299.045,completely,use,76407,totally,use,carve,cut,284275.0,285.79,separate,separate,284278.0,320.2,[],[],[],[],tjoC36jDIts_299-045
+38,5262,YBXT1dqeugY,826.3050000000003,quickly,take,101028,fast,grab,cool,cool,107692.0,781.81,cool,cool,107694.0,826.85,['cool'],['cool'],[107694],[826.85],YBXT1dqeugY_826-3050000000003
+39,10931,6hENy6f9EqI,95.785,completely,mix,118831,thoroughly,mix,add,add,300666.0,86.04,start,start,300668.0,99.1,"['add', 'start']","['add', 'start']","[300666, 300668]","[86.04, 99.1]",6hENy6f9EqI_95-785
+40,507,Auls99IZdiQ,40.545,finely,cut,97633,finely,chop,slice,cut,439630.0,39.12,coat,dip,439632.0,46.97,"['use', 'add', 'add', 'slice', 'coat', 'cook']","['use', 'add', 'add', 'cut', 'dip', 'cook']","[439627, 439628, 439629, 439630, 439632, 439633]","[31.2, 36.19, 36.96, 39.12, 46.97, 48.55]",Auls99IZdiQ_40-545
+41,13382,OYdCtpsnWPo,49.035,coarsely,press,67160,coarsely,crush,chop,cut,588386.0,38.12,add,add,588387.0,85.86,[],[],[],[],OYdCtpsnWPo_49-035
+42,3389,6zieJk-vvLw,191.46,slowly,add,100901,slowly,add,hold,hold,562447.0,187.24,fry,cook,562449.0,201.18,"['hold', 'fry']","['hold', 'cook']","[562447, 562449]","[187.24, 201.18]",6zieJk-vvLw_191-46
+43,5707,AAhYMMcdYoU,112.59,completely,dry,118819,thoroughly,dry,fall,fall,450359.0,102.38,assemble,make,450361.0,115.39,['assemble'],['make'],[450361],[115.39],AAhYMMcdYoU_112-59
+44,14585,2z72ov5oBNs,452.49,completely,cook,114508,totally,thicken,simmer,cook,463766.0,444.16,stick,stick,463768.0,454.44,"['simmer', 'stick']","['cook', 'stick']","[463766, 463768]","[444.16, 454.44]",2z72ov5oBNs_452-49
+45,305,mQ75-ALLb9c,35.765,finely,cut,50348,finely,chop,grate,grate,306385.0,24.36,add,add,306388.0,55.18,[],[],[],[],mQ75-ALLb9c_35-765
+46,14187,5eVyZv3elpM,287.95,partially,spread,114508,slightly,flatten,push,press,452758.0,278.28,stick,stick,452760.0,299.26,['push'],['press'],[452758],[278.28],5eVyZv3elpM_287-95
+47,653,2Z4UUEBDVkk,189.03,slowly,mix,97633,slowly,mix,stop,stop,437239.0,187.53,add,add,437241.0,190.32,"['add', 'add', 'stop', 'add']","['add', 'add', 'stop', 'add']","[437237, 437238, 437239, 437241]","[182.3, 186.73, 187.53, 190.32]",2Z4UUEBDVkk_189-03
+48,14108,kFlg3gQoLZg,493.06,slowly,mix,72954,slowly,stir,bring,carry,429892.0,474.29,make,make,429894.0,505.26,[],[],[],[],kFlg3gQoLZg_493-06
+49,1811,qk2EEgmbSCI,87.285,completely,mix,34967,completely,dissolve,reduce,cook,373308.0,65.81,add,add,373310.0,89.15,"['add', 'reduce', 'add', 'combine']","['add', 'cook', 'add', 'mix']","[373310, 373311, 373312, 373313]","[89.15, 91.76, 94.33, 95.82]",qk2EEgmbSCI_87-285
+50,2554,jc1DtH-OC94,188.97,slowly,mix,81790,slowly,whisk,add,add,334657.0,186.14,add,add,334660.0,202.09,['add'],['add'],[334657],[186.14],jc1DtH-OC94_188-97
+51,13759,u04aPG49dNY,117.775,quickly,make,41718,quickly,make,grab,take,596870.0,111.42,beat,mix,596872.0,196.07,['grab'],['take'],[596870],[111.42],u04aPG49dNY_117-775
+52,13378,iUArIF7gmo8,59.005,finely,cut,67160,finely,chop,toss,turn,589459.0,50.51,toss,turn,589462.0,67.98,"['toss', 'toss']","['turn', 'turn']","[589459, 589462]","[50.51, 67.98]",iUArIF7gmo8_59-005
+53,404,ihT1H3gHcWA,45.505,finely,cut,50348,thinly,slice,make,make,310694.0,25.08,marinate,soak,310696.0,61.36,[],[],[],[],ihT1H3gHcWA_45-505
+54,9264,e4v-E-8po_0,168.93,partially,cook,96366,slightly,toast,brown,cook,133067.0,158.07,lower,lower,133068.0,184.05,[],[],[],[],e4v-E-8po_0_168-93
