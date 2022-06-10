@@ -24,6 +24,8 @@ The three datasets proposed in this work can be found in the `datasets` folder. 
 
 Videos can be downloaded with `python utils/download_videos.py datasets/<dataset_name>/annotations.csv <download_dir>`
 
+Extracted features can be downloaded here: https://drive.google.com/drive/folders/1gdF_Hp7hBmlRHqs9TG0pehZzSzaZw5Bc?usp=sharing
+
 ## Code
 
 Code will be made available soon.
