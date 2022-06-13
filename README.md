@@ -28,4 +28,4 @@ Extracted features can be downloaded here: https://drive.google.com/drive/folder
 
 ## Code
 
-Code will be made available soon.
+Trained models can be downloaded here: https://drive.google.com/file/d/1BqrzjdFQ5bqrhlWakiNQdi_5NE7h64Nb/view?usp=sharing
