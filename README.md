@@ -29,3 +29,57 @@ Extracted features can be downloaded here: https://drive.google.com/drive/folder
 ## Code
 
 Trained models can be downloaded here: https://drive.google.com/file/d/1BqrzjdFQ5bqrhlWakiNQdi_5NE7h64Nb/view?usp=sharing
+
+For models trained on VATEX we provide models trained for action embedding for the first 200 epochs here: https://drive.google.com/file/d/13aTARYglJfHa11SVRO9BSC6V3eEyIBdS/view?usp=sharing
+
+Below we give the commands needed to train and test models for the different tasks and datasets.
+
+### Seen Compositions
+
+#### VATEX Adverbs
+
+<strong>Train</strong>
+```
+python train.py --data-dir splits/with_unlabelled/seen_compositions/vatex_adverbs_5/ --train-feature-dir data/VATEX_Adverbs/features/ --test-feature-dir data/VATEX_Adverbs/features/ --checkpoint-dir checkpoints/vatex_adverbs_5_pseudo_adverbs/ --modality both --unlabelled-ratio 19 --load checkpoints/action_pretraining/vatex_adverbs_5_action_pretraining --pseudo-label-threshold 0.6 --smoothing 0.1 --adaptive-threshold
+```
+
+<strong>Test</strong>
+```
+python test.py --unlabelled-ratio 1 --data-dir splits/with_unlabelled/seen_compositions/vatex_adverbs_5/ --test-feature-dir data/VATEX_Adverbs/features/ --load checkpoints/vatex_adverbs_5_pseudo_adverbs/ckpt_E_1000
+```
+
+#### HowTo100M Adverbs
+
+<strong>Train</strong>
+```
+python train.py --data-dir splits/with_unlabelled/seen_compositions/howto100m_adverbs_10/ --train-feature-dir data/HowTo100M_Adverbs/features/ --test-feature-dir data/HowTo100M_Adverbs/features/ --checkpoint-dir checkpoints/howto100m_adverbs_10_pseudo_adverbs/ --modality both --unlabelled-ratio 9 --pseduo-label-threshold 0.6 --smoothing 0.1 --adaptive-threshold --t_train 20 --t_test 20 --num-pseudo-labelled 3 --pseudo-action-pretraining --max-epochs 1000
+```
+
+<strong>Test</strong>
+```
+python test.py --unlabelled-ratio 1 --t_test 20 --data-dir splits/with_unlabelled/seen_compositions/howto100m_adverbs_10/ --test-feature-dir data/HowTo100M_Adverbs/features/ --load checkpoints/howto100m_adverbs_10_pseudo_adverbs/ckpt_E_1000 --instance-av
+```
+
+### Unseen Compositions
+
+<strong>Train</strong>
+```
+python train.py --data-dir splits/with_unlabelled/unseen_compositions/vatex/ --train-feature-dir data/VATEX_Adverbs/features/ --test-feature-dir data/VATEX_Adverbs/features/ --checkpoint-dir checkpoints/vatex_adverbs_unseen_pseudo_adverbs/ --modality both --unlabelled-ratio 1 --load checkpoints/action_pretraining/vatex_adverbs_unseen_action_pretraining --pseudo-label-threshold 0.6 --smoothing 0.1 --adaptive-threshold
+```
+
+<strong>Test</strong>
+```
+python test.py --unlabelled-ratio 1 --data-dir splits/with_unlabelled/unseen_compositions/vatex/ --test-feature-dir data/VATEX_Adverbs/features/ --load checkpoints/vatex_adverbs_unseen_pseudo_adverbs/ckpt_E_1000
+```
+
+### Unseen Domains
+
+<strong>Train</strong>
+```
+python train.py --data-dir splits/with_unlabelled/unseen_domains/vatex2msrvtt/ --train-feature-dir data/VATEX_Adverbs/features/ --unlabelled-feature-dir data/MSR-VTT_Adverbs/features/ --test-feature-dir data/MSR-VTT_Adverbs/features/ --checkpoint-dir checkpoints/vatex2msrvtt_pseudo_adverbs/ --modality both --unlabelled-ratio 1 --load checkpoints/action_pretraining/vatex2msrvtt_pseudo_adverbs_action_pretraining --pseudo-label-threshold 0.6 --smoothing 0.1 --adaptive-threshold
+```
+
+<strong>Test</strong>
+```
+python test.py --unlabelled-ratio 1 --data-dir splits/with_unlabelled/unseen_domains/vatex2msrvtt/ --test-feature-dir data/MSR-VTT_Adverbs/features/ --load checkpoints/vatex2msrvtt_pseudo_adverbs/ckpt_E_1000
+```
