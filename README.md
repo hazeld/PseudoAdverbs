@@ -22,6 +22,10 @@ The three datasets proposed in this work can be found in the `datasets` folder. 
 | clustered_adverb | string | drive | Annotated adverb |
 | clustered_action | string | quickly | Annotated action |
 
+Videos can be downloaded with `python utils/download_videos.py datasets/<dataset_name>/annotations.csv <download_dir>`
+
+Extracted features can be downloaded here: https://drive.google.com/drive/folders/1gdF_Hp7hBmlRHqs9TG0pehZzSzaZw5Bc?usp=sharing
+
 ## Code
 
-Code will be made available soon.
+Trained models can be downloaded here: https://drive.google.com/file/d/1BqrzjdFQ5bqrhlWakiNQdi_5NE7h64Nb/view?usp=sharing
