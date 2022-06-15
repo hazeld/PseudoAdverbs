@@ -1,6 +1,6 @@
 # PseudoAdverbs
 
-Datasets & Code for the CVPR 2022 paper 'How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs'
+Datasets & Code for the CVPR 2022 paper ['How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs'](https://arxiv.org/abs/2203.12344)
 
 ## Datasets
 
