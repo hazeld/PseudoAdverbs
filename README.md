@@ -83,3 +83,15 @@ python train.py --data-dir splits/with_unlabelled/unseen_domains/vatex2msrvtt/ -
 ```
 python test.py --unlabelled-ratio 1 --data-dir splits/with_unlabelled/unseen_domains/vatex2msrvtt/ --test-feature-dir data/MSR-VTT_Adverbs/features/ --load checkpoints/vatex2msrvtt_pseudo_adverbs/ckpt_E_1000
 ```
+
+## Citation
+
+If you find this work helpful in your research, please cite:
+```
+@inproceedings{doughty2022how,
+    author    = {Doughty, Hazel and Snoek, Cees G. M.},
+    title     = {{H}ow {D}o {Y}ou {D}o {I}t? {F}ine-{G}rained {A}ction {U}nderstanding with {P}seudo-{A}dverbs},
+    booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year      = {2022}
+}
+```
